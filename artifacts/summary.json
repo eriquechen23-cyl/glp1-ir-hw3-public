@@ -1,0 +1,681 @@
+{
+  "corpus": {
+    "documents": 1000,
+    "vocabulary_size": 9944,
+    "token_count": 177484,
+    "sha256": "0aeec800f63dc342abc1fe836be4e11adff879f096972482c57e0e7dde0eaf67",
+    "source": "data\\glp1_1000.jsonl",
+    "source_manifest": "data/glp1_1000.manifest.json"
+  },
+  "queries": {
+    "count": 12,
+    "silver_positive_counts": {
+      "q09": 189,
+      "q01": 63,
+      "q07": 77,
+      "q02": 54,
+      "q03": 47,
+      "q06": 17,
+      "q04": 122,
+      "q05": 55,
+      "q10": 85,
+      "q12": 45,
+      "q08": 21,
+      "q11": 32
+    },
+    "judgments": 12000,
+    "override_count": 0
+  },
+  "retrieval": {
+    "cosine_prior_l2_max_abs_error": 8.326672684688674e-17,
+    "l2_rank_mismatch_count": 0,
+    "example": {
+      "qid": "q01",
+      "top_pmid": "39734391",
+      "top_title": "Semaglutide-Associated Gastric Pneumatosis."
+    }
+  },
+  "cbow": {
+    "config": {
+      "architecture": "CBOW",
+      "sg": 0,
+      "vector_size": 100,
+      "window": 5,
+      "min_count": 3,
+      "epochs": 50,
+      "workers": 1,
+      "negative": 10,
+      "sample": 0.001,
+      "seeds": [
+        17,
+        42,
+        73
+      ],
+      "hashfxn": "sha256_first8_little_endian",
+      "sentence_count": 8282,
+      "gensim_version": "4.4.0"
+    },
+    "vocabulary_size": 4863,
+    "explained_variance_ratio": [
+      0.07463011753140814,
+      0.05042640311841119
+    ],
+    "explained_variance_sum": 0.1250565206498193,
+    "pair_rank_spearman_100d_vs_pca2d": 0.4825174825174825,
+    "max_idf_column_cosine_delta": 2.220446049250313e-16,
+    "max_pair_pca_abs_delta": 0.9582208164534269
+  },
+  "conclusions": {
+    "top_ndcg_method_under_silver_labels": "log_tfidf_dot",
+    "idf_cancels_in_unnormalized_word_column_cosine": true,
+    "pca_2d_is_diagnostic_only": true
+  },
+  "software": {
+    "python": "3.13.13",
+    "numpy": "2.5.4"
+  },
+  "term_statistics": [
+    {
+      "term": "glp1",
+      "df": 998,
+      "df_fraction": 0.998,
+      "idf": 1.002000000666667,
+      "collection_tf": 6186
+    },
+    {
+      "term": "agonist",
+      "df": 208,
+      "df_fraction": 0.208,
+      "idf": 2.5664205273504095,
+      "collection_tf": 306
+    },
+    {
+      "term": "receptor",
+      "df": 651,
+      "df_fraction": 0.651,
+      "idf": 1.4287102173885675,
+      "collection_tf": 1472
+    },
+    {
+      "term": "semaglutide",
+      "df": 85,
+      "df_fraction": 0.085,
+      "idf": 3.454407483061713,
+      "collection_tf": 179
+    },
+    {
+      "term": "liraglutide",
+      "df": 101,
+      "df_fraction": 0.101,
+      "idf": 3.2837819660309497,
+      "collection_tf": 228
+    },
+    {
+      "term": "tirzepatide",
+      "df": 58,
+      "df_fraction": 0.058,
+      "idf": 3.831217335409501,
+      "collection_tf": 133
+    },
+    {
+      "term": "obesity",
+      "df": 291,
+      "df_fraction": 0.291,
+      "idf": 2.2320009770469387,
+      "collection_tf": 615
+    },
+    {
+      "term": "diabetes",
+      "df": 557,
+      "df_fraction": 0.557,
+      "idf": 1.5843958169339096,
+      "collection_tf": 987
+    },
+    {
+      "term": "kidney",
+      "df": 49,
+      "df_fraction": 0.049,
+      "idf": 3.9967317738870745,
+      "collection_tf": 104
+    },
+    {
+      "term": "renal",
+      "df": 43,
+      "df_fraction": 0.043,
+      "idf": 4.124565145396959,
+      "collection_tf": 77
+    },
+    {
+      "term": "pancreatitis",
+      "df": 17,
+      "df_fraction": 0.017,
+      "idf": 5.018383021419056,
+      "collection_tf": 29
+    },
+    {
+      "term": "satiety",
+      "df": 38,
+      "df_fraction": 0.038,
+      "idf": 4.245193133185574,
+      "collection_tf": 52
+    },
+    {
+      "term": "alzheimer",
+      "df": 25,
+      "df_fraction": 0.025,
+      "idf": 4.650658241293739,
+      "collection_tf": 34
+    },
+    {
+      "term": "of",
+      "df": 987,
+      "df_fraction": 0.987,
+      "idf": 1.0130720815673526,
+      "collection_tf": 6756
+    },
+    {
+      "term": "and",
+      "df": 986,
+      "df_fraction": 0.986,
+      "idf": 1.014084739881739,
+      "collection_tf": 7145
+    },
+    {
+      "term": "the",
+      "df": 981,
+      "df_fraction": 0.981,
+      "idf": 1.0191634709607547,
+      "collection_tf": 7188
+    },
+    {
+      "term": "in",
+      "df": 969,
+      "df_fraction": 0.969,
+      "idf": 1.0314587078177921,
+      "collection_tf": 5177
+    },
+    {
+      "term": "to",
+      "df": 897,
+      "df_fraction": 0.897,
+      "idf": 1.108584711013021,
+      "collection_tf": 2978
+    },
+    {
+      "term": "a",
+      "df": 878,
+      "df_fraction": 0.878,
+      "idf": 1.1299698816300436,
+      "collection_tf": 2624
+    },
+    {
+      "term": "for",
+      "df": 758,
+      "df_fraction": 0.758,
+      "idf": 1.2767530019195907,
+      "collection_tf": 1735
+    },
+    {
+      "term": "with",
+      "df": 747,
+      "df_fraction": 0.747,
+      "idf": 1.2913518013407432,
+      "collection_tf": 1921
+    },
+    {
+      "term": "is",
+      "df": 689,
+      "df_fraction": 0.689,
+      "idf": 1.3720631817239155,
+      "collection_tf": 1340
+    },
+    {
+      "term": "this",
+      "df": 657,
+      "df_fraction": 0.657,
+      "idf": 1.4195498479899034,
+      "collection_tf": 949
+    },
+    {
+      "term": "that",
+      "df": 631,
+      "df_fraction": 0.631,
+      "idf": 1.4598653851683632,
+      "collection_tf": 1248
+    },
+    {
+      "term": "on",
+      "df": 622,
+      "df_fraction": 0.622,
+      "idf": 1.4742082605277673,
+      "collection_tf": 1197
+    },
+    {
+      "term": "by",
+      "df": 541,
+      "df_fraction": 0.541,
+      "idf": 1.6134887778755744,
+      "collection_tf": 1057
+    },
+    {
+      "term": "as",
+      "df": 530,
+      "df_fraction": 0.53,
+      "idf": 1.6339927580732816,
+      "collection_tf": 1035
+    },
+    {
+      "term": "are",
+      "df": 491,
+      "df_fraction": 0.491,
+      "idf": 1.7102760628229126,
+      "collection_tf": 791
+    },
+    {
+      "term": "effects",
+      "df": 485,
+      "df_fraction": 0.485,
+      "idf": 1.7225461554147268,
+      "collection_tf": 904
+    },
+    {
+      "term": "we",
+      "df": 479,
+      "df_fraction": 0.479,
+      "idf": 1.734968675413284,
+      "collection_tf": 764
+    },
+    {
+      "term": "10a",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "11mer",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "120min",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "123wirgcrl129",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "13c18",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "14c",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "16s",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "18h",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 3
+    },
+    {
+      "term": "1960s",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "19th",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "1a",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "1b",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "1c",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "1d",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "1h",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "1r",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "20th",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "24h",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "25days",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    },
+    {
+      "term": "25kd",
+      "df": 1,
+      "df_fraction": 0.001,
+      "idf": 7.215607598755275,
+      "collection_tf": 1
+    }
+  ],
+  "tf_demo": [
+    {
+      "term": "glp1",
+      "pmid": "32390511",
+      "title": "GLP-1-induced renal vasodilation in rodents depends exclusively on the known GLP-1 receptor and is lost in prehypertensive rats.",
+      "tf": 28,
+      "log_tf": 4.332204510175204,
+      "idf": 1.002000000666667,
+      "tfidf": 28.056000018666673,
+      "log_tfidf": 4.3408689220836925
+    },
+    {
+      "term": "glp1",
+      "pmid": "24641952",
+      "title": "Characterization of [¹²⁵I]GLP-1(9-36), a novel radiolabeled analog of the major metabolite of glucagon-like peptide 1 to a receptor distinct from GLP1-R and function of the peptide in murine aorta.",
+      "tf": 21,
+      "log_tf": 4.044522437723423,
+      "idf": 1.002000000666667,
+      "tfidf": 21.042000014000006,
+      "log_tfidf": 4.052611485295219
+    },
+    {
+      "term": "glp1",
+      "pmid": "35202915",
+      "title": "Small-molecule albumin ligand modification to enhance the anti-diabetic ability of GLP-1 derivatives.",
+      "tf": 20,
+      "log_tf": 3.995732273553991,
+      "idf": 1.002000000666667,
+      "tfidf": 20.04000001333334,
+      "log_tfidf": 4.003723740764921
+    },
+    {
+      "term": "glp1",
+      "pmid": "40172827",
+      "title": "Are Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists Central Nervous System (CNS) Penetrant: A Narrative Review.",
+      "tf": 17,
+      "log_tf": 3.833213344056216,
+      "idf": 1.002000000666667,
+      "tfidf": 17.034000011333337,
+      "log_tfidf": 3.8408797732998052
+    },
+    {
+      "term": "glp1",
+      "pmid": "27717194",
+      "title": "Associations between changes in glucagon-like peptide-1 and bodyweight reduction in patients receiving acarbose or metformin treatment.",
+      "tf": 16,
+      "log_tf": 3.772588722239781,
+      "idf": 1.002000000666667,
+      "tfidf": 16.03200001066667,
+      "log_tfidf": 3.7801339021993208
+    },
+    {
+      "term": "semaglutide",
+      "pmid": "37192005",
+      "title": "The glucagon-like peptide-1 (GLP-1) analogue semaglutide reduces alcohol drinking and modulates central GABA neurotransmission.",
+      "tf": 10,
+      "log_tf": 3.302585092994046,
+      "idf": 3.454407483061713,
+      "tfidf": 34.544074830617134,
+      "log_tfidf": 11.408474658686696
+    },
+    {
+      "term": "semaglutide",
+      "pmid": "30195966",
+      "title": "Semaglutide: Review and Place in Therapy for Adults With Type 2 Diabetes.",
+      "tf": 10,
+      "log_tf": 3.302585092994046,
+      "idf": 3.454407483061713,
+      "tfidf": 34.544074830617134,
+      "log_tfidf": 11.408474658686696
+    },
+    {
+      "term": "semaglutide",
+      "pmid": "39433133",
+      "title": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and suicidality: A replication study using reports to the World Health Organization pharmacovigilance database (VigiBase®).",
+      "tf": 6,
+      "log_tf": 2.791759469228055,
+      "idf": 3.454407483061713,
+      "tfidf": 20.72644489837028,
+      "log_tfidf": 9.643874801409789
+    },
+    {
+      "term": "semaglutide",
+      "pmid": "38300808",
+      "title": "GLP-1 and PYY for the treatment of obesity: a pilot study on the use of agonists and antagonists in diet-induced rats.",
+      "tf": 6,
+      "log_tf": 2.791759469228055,
+      "idf": 3.454407483061713,
+      "tfidf": 20.72644489837028,
+      "log_tfidf": 9.643874801409789
+    },
+    {
+      "term": "semaglutide",
+      "pmid": "37731423",
+      "title": "Acute Pancreatitis in a Patient Taking Semaglutide.",
+      "tf": 5,
+      "log_tf": 2.6094379124341005,
+      "idf": 3.454407483061713,
+      "tfidf": 17.272037415308567,
+      "log_tfidf": 9.014061851297292
+    },
+    {
+      "term": "obesity",
+      "pmid": "42382903",
+      "title": "Beyond Endoscopy: A Narrative Review of the Emerging Role of Gastroenterologists in Obesity Medicine, GLP-1 (Glucagon-Like Peptide-1) Therapy, and Metabolic Care.",
+      "tf": 13,
+      "log_tf": 3.5649493574615367,
+      "idf": 2.2320009770469387,
+      "tfidf": 29.0160127016102,
+      "log_tfidf": 7.956970448977006
+    },
+    {
+      "term": "obesity",
+      "pmid": "40887408",
+      "title": "Could Glucagon-Like Peptide-1 (GLP-1) receptor antagonists be used to treat obstructive sleep apnoea in children and adolescents with obesity?",
+      "tf": 9,
+      "log_tf": 3.1972245773362196,
+      "idf": 2.2320009770469387,
+      "tfidf": 20.088008793422446,
+      "log_tfidf": 7.136208380452928
+    },
+    {
+      "term": "obesity",
+      "pmid": "38417041",
+      "title": "Differences in the levels of the appetite peptides ghrelin, peptide tyrosine tyrosine, and glucagon-like peptide-1 between obesity classes and lean controls.",
+      "tf": 9,
+      "log_tf": 3.1972245773362196,
+      "idf": 2.2320009770469387,
+      "tfidf": 20.088008793422446,
+      "log_tfidf": 7.136208380452928
+    },
+    {
+      "term": "obesity",
+      "pmid": "37547806",
+      "title": "Usage of Glucagon-Like Peptide-1 for Obesity in Children; Updated Review of Clinicaltrials.gov.",
+      "tf": 9,
+      "log_tf": 3.1972245773362196,
+      "idf": 2.2320009770469387,
+      "tfidf": 20.088008793422446,
+      "log_tfidf": 7.136208380452928
+    },
+    {
+      "term": "obesity",
+      "pmid": "25260877",
+      "title": "Therapies for inter-relating diabetes and obesity - GLP-1 and obesity.",
+      "tf": 8,
+      "log_tf": 3.0794415416798357,
+      "idf": 2.2320009770469387,
+      "tfidf": 17.85600781637551,
+      "log_tfidf": 6.873316529788324
+    },
+    {
+      "term": "diabetes",
+      "pmid": "39072740",
+      "title": "GLP-1 receptor agonists and their role in managing type 2 diabetes.",
+      "tf": 10,
+      "log_tf": 3.302585092994046,
+      "idf": 1.5843958169339096,
+      "tfidf": 15.843958169339096,
+      "log_tfidf": 5.232602006408054
+    },
+    {
+      "term": "diabetes",
+      "pmid": "28102093",
+      "title": "Cardiovascular safety and benefits of GLP-1 receptor agonists.",
+      "tf": 7,
+      "log_tf": 2.9459101490553135,
+      "idf": 1.5843958169339096,
+      "tfidf": 11.090770718537367,
+      "log_tfidf": 4.667487717226389
+    },
+    {
+      "term": "diabetes",
+      "pmid": "31523380",
+      "title": "Development of therapeutic options on type 2 diabetes in years: Glucagon-like peptide-1 receptor agonist's role intreatment; from the past to future.",
+      "tf": 6,
+      "log_tf": 2.791759469228055,
+      "idf": 1.5843958169339096,
+      "tfidf": 9.506374901603458,
+      "log_tfidf": 4.423252024930562
+    },
+    {
+      "term": "diabetes",
+      "pmid": "26097706",
+      "title": "Ingestion of coffee polyphenols increases postprandial release of the active glucagon-like peptide-1 (GLP-1(7-36)) amide in C57BL/6J mice.",
+      "tf": 6,
+      "log_tf": 2.791759469228055,
+      "idf": 1.5843958169339096,
+      "tfidf": 9.506374901603458,
+      "log_tfidf": 4.423252024930562
+    },
+    {
+      "term": "diabetes",
+      "pmid": "25260877",
+      "title": "Therapies for inter-relating diabetes and obesity - GLP-1 and obesity.",
+      "tf": 6,
+      "log_tf": 2.791759469228055,
+      "idf": 1.5843958169339096,
+      "tfidf": 9.506374901603458,
+      "log_tfidf": 4.423252024930562
+    },
+    {
+      "term": "agonist",
+      "pmid": "32962260",
+      "title": "Controlled Release of Pyrimidine Compound Using Polymeric Coated ZIF-8 Metal-Organic Framework as Glucagon-Like Peptide-1 Receptor Agonist Carrier.",
+      "tf": 5,
+      "log_tf": 2.6094379124341005,
+      "idf": 2.5664205273504095,
+      "tfidf": 12.832102636752047,
+      "log_tfidf": 6.696915023317276
+    },
+    {
+      "term": "agonist",
+      "pmid": "26598711",
+      "title": "The peptide agonist-binding site of the glucagon-like peptide-1 (GLP-1) receptor based on site-directed mutagenesis and knowledge-based modelling.",
+      "tf": 5,
+      "log_tf": 2.6094379124341005,
+      "idf": 2.5664205273504095,
+      "tfidf": 12.832102636752047,
+      "log_tfidf": 6.696915023317276
+    },
+    {
+      "term": "agonist",
+      "pmid": "34819089",
+      "title": "The dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist tirzepatide: a novel cardiometabolic therapeutic prospect.",
+      "tf": 4,
+      "log_tf": 2.386294361119891,
+      "idf": 2.5664205273504095,
+      "tfidf": 10.265682109401638,
+      "log_tfidf": 6.124234832678619
+    },
+    {
+      "term": "agonist",
+      "pmid": "41111833",
+      "title": "Hair Loss Associated With Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist Use: A Systematic Review.",
+      "tf": 4,
+      "log_tf": 2.386294361119891,
+      "idf": 2.5664205273504095,
+      "tfidf": 10.265682109401638,
+      "log_tfidf": 6.124234832678619
+    },
+    {
+      "term": "agonist",
+      "pmid": "40359555",
+      "title": "Glucagon-like-peptide-1 (GLP-1) receptor agonist use and the risk of pulmonary aspiration in patients undergoing surgery.",
+      "tf": 4,
+      "log_tf": 2.386294361119891,
+      "idf": 2.5664205273504095,
+      "tfidf": 10.265682109401638,
+      "log_tfidf": 6.124234832678619
+    }
+  ]
+}

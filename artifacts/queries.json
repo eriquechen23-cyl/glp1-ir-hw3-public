@@ -1,0 +1,370 @@
+[
+  {
+    "qid": "q01",
+    "query": "semaglutide weight loss",
+    "intent": "Semaglutide and weight reduction",
+    "title_rule": {
+      "all_groups": [
+        [
+          "semaglutide"
+        ],
+        [
+          "weight",
+          "obesity",
+          "overweight"
+        ]
+      ]
+    },
+    "abstract_rule": {
+      "all_groups": [
+        [
+          "semaglutide"
+        ],
+        [
+          "weight",
+          "obesity",
+          "overweight"
+        ]
+      ]
+    }
+  },
+  {
+    "qid": "q02",
+    "query": "liraglutide obesity",
+    "intent": "Liraglutide and obesity",
+    "title_rule": {
+      "all_groups": [
+        [
+          "liraglutide"
+        ],
+        [
+          "obesity",
+          "weight",
+          "overweight"
+        ]
+      ]
+    },
+    "abstract_rule": {
+      "all_groups": [
+        [
+          "liraglutide"
+        ],
+        [
+          "obesity",
+          "weight",
+          "overweight"
+        ]
+      ]
+    }
+  },
+  {
+    "qid": "q03",
+    "query": "tirzepatide diabetes",
+    "intent": "Tirzepatide in diabetes",
+    "title_rule": {
+      "all_groups": [
+        [
+          "tirzepatide"
+        ],
+        [
+          "diabetes",
+          "glycemic",
+          "glucose"
+        ]
+      ]
+    },
+    "abstract_rule": {
+      "all_groups": [
+        [
+          "tirzepatide"
+        ],
+        [
+          "diabetes",
+          "glycemic",
+          "glucose"
+        ]
+      ]
+    }
+  },
+  {
+    "qid": "q04",
+    "query": "cardiovascular outcomes",
+    "intent": "Cardiovascular outcomes",
+    "title_rule": {
+      "all_groups": [
+        [
+          "cardiovascular",
+          "cardiac",
+          "heart"
+        ],
+        [
+          "outcomes",
+          "outcome",
+          "events",
+          "event",
+          "risk"
+        ]
+      ]
+    },
+    "abstract_rule": {
+      "all_groups": [
+        [
+          "cardiovascular",
+          "cardiac",
+          "heart"
+        ],
+        [
+          "outcomes",
+          "outcome",
+          "events",
+          "event",
+          "risk"
+        ]
+      ]
+    }
+  },
+  {
+    "qid": "q05",
+    "query": "kidney disease renal outcomes",
+    "intent": "Kidney disease and renal outcomes",
+    "title_rule": {
+      "all_groups": [
+        [
+          "kidney",
+          "renal"
+        ],
+        [
+          "disease",
+          "outcomes",
+          "outcome",
+          "function",
+          "injury"
+        ]
+      ]
+    },
+    "abstract_rule": {
+      "all_groups": [
+        [
+          "kidney",
+          "renal"
+        ],
+        [
+          "disease",
+          "outcomes",
+          "outcome",
+          "function",
+          "injury"
+        ]
+      ]
+    }
+  },
+  {
+    "qid": "q06",
+    "query": "glp1 pancreatitis",
+    "intent": "Pancreatitis and GLP-1",
+    "title_rule": {
+      "all_groups": [
+        [
+          "pancreatitis"
+        ],
+        [
+          "glp1",
+          "agonist",
+          "agonists"
+        ]
+      ]
+    },
+    "abstract_rule": {
+      "all_groups": [
+        [
+          "pancreatitis"
+        ],
+        [
+          "glp1",
+          "agonist",
+          "agonists"
+        ]
+      ]
+    }
+  },
+  {
+    "qid": "q07",
+    "query": "gastric emptying glp1",
+    "intent": "Gastric emptying",
+    "title_rule": {
+      "all_groups": [
+        [
+          "gastric"
+        ],
+        [
+          "emptying"
+        ]
+      ]
+    },
+    "abstract_rule": {
+      "all_groups": [
+        [
+          "gastric"
+        ],
+        [
+          "emptying"
+        ]
+      ]
+    }
+  },
+  {
+    "qid": "q08",
+    "query": "nausea vomiting adverse effects",
+    "intent": "Nausea or vomiting as adverse effects",
+    "title_rule": {
+      "all_groups": [
+        [
+          "nausea",
+          "vomiting"
+        ],
+        [
+          "adverse",
+          "side",
+          "effects",
+          "events",
+          "safety"
+        ]
+      ]
+    },
+    "abstract_rule": {
+      "all_groups": [
+        [
+          "nausea",
+          "vomiting"
+        ],
+        [
+          "adverse",
+          "side",
+          "effects",
+          "events",
+          "safety"
+        ]
+      ]
+    }
+  },
+  {
+    "qid": "q09",
+    "query": "insulin secretion glp1",
+    "intent": "Insulin secretion",
+    "title_rule": {
+      "all_groups": [
+        [
+          "insulin"
+        ],
+        [
+          "secretion",
+          "secretory"
+        ]
+      ]
+    },
+    "abstract_rule": {
+      "all_groups": [
+        [
+          "insulin"
+        ],
+        [
+          "secretion",
+          "secretory"
+        ]
+      ]
+    }
+  },
+  {
+    "qid": "q10",
+    "query": "appetite food intake",
+    "intent": "Appetite and food intake",
+    "title_rule": {
+      "all_groups": [
+        [
+          "appetite",
+          "food"
+        ],
+        [
+          "intake",
+          "feeding"
+        ]
+      ]
+    },
+    "abstract_rule": {
+      "all_groups": [
+        [
+          "appetite",
+          "food"
+        ],
+        [
+          "intake",
+          "feeding"
+        ]
+      ]
+    }
+  },
+  {
+    "qid": "q11",
+    "query": "liver steatosis glp1",
+    "intent": "Liver steatosis",
+    "title_rule": {
+      "all_groups": [
+        [
+          "liver",
+          "hepatic"
+        ],
+        [
+          "steatosis",
+          "fatty",
+          "masld"
+        ]
+      ]
+    },
+    "abstract_rule": {
+      "all_groups": [
+        [
+          "liver",
+          "hepatic"
+        ],
+        [
+          "steatosis",
+          "fatty",
+          "masld"
+        ]
+      ]
+    }
+  },
+  {
+    "qid": "q12",
+    "query": "alzheimer neurodegeneration glp1",
+    "intent": "Alzheimer disease and neurodegeneration",
+    "title_rule": {
+      "all_groups": [
+        [
+          "alzheimer",
+          "neurodegeneration",
+          "neurodegenerative"
+        ],
+        [
+          "glp1",
+          "agonist",
+          "agonists"
+        ]
+      ]
+    },
+    "abstract_rule": {
+      "all_groups": [
+        [
+          "alzheimer",
+          "neurodegeneration",
+          "neurodegenerative"
+        ],
+        [
+          "glp1",
+          "agonist",
+          "agonists"
+        ]
+      ]
+    }
+  }
+]

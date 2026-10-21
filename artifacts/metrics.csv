@@ -1,0 +1,85 @@
+qid,query,method,relevant_count,retrieved_count,precision_at_10,recall_at_10,mrr,ndcg_at_10,no_relevant
+q01,semaglutide weight loss,tf,63,377,0.8,0.12698412698412698,1.0,0.8236998933965708,False
+q01,semaglutide weight loss,log_tf,63,377,0.9,0.14285714285714285,0.5,0.7799082337019198,False
+q01,semaglutide weight loss,idf,63,377,0.9,0.14285714285714285,1.0,0.8899541168509599,False
+q01,semaglutide weight loss,tfidf,63,377,0.8,0.12698412698412698,1.0,0.8553475075669356,False
+q01,semaglutide weight loss,log_tfidf,63,377,0.9,0.14285714285714285,1.0,0.8899541168509599,False
+q01,semaglutide weight loss,tfidf_dot,63,377,0.7,0.1111111111111111,1.0,0.7215194105726963,False
+q01,semaglutide weight loss,log_tfidf_dot,63,377,1.0,0.15873015873015872,1.0,1.0,False
+q02,liraglutide obesity,tf,54,358,0.5,0.09259259259259259,1.0,0.5017289690294563,False
+q02,liraglutide obesity,log_tf,54,358,0.9,0.16666666666666666,1.0,0.9363792118010481,False
+q02,liraglutide obesity,idf,54,358,0.9,0.16666666666666666,1.0,0.9266360779006398,False
+q02,liraglutide obesity,tfidf,54,358,0.6,0.1111111111111111,1.0,0.6683063269107928,False
+q02,liraglutide obesity,log_tfidf,54,358,0.8,0.14814814814814814,1.0,0.8389574121760601,False
+q02,liraglutide obesity,tfidf_dot,54,358,0.4,0.07407407407407407,0.3333333333333333,0.3594085870969891,False
+q02,liraglutide obesity,log_tfidf_dot,54,358,0.8,0.14814814814814814,1.0,0.8318477135310891,False
+q03,tirzepatide diabetes,tf,47,581,0.5,0.10638297872340426,0.5,0.42724449526787633,False
+q03,tirzepatide diabetes,log_tf,47,581,0.8,0.1702127659574468,1.0,0.8318477135310891,False
+q03,tirzepatide diabetes,idf,47,581,1.0,0.2127659574468085,1.0,1.0,False
+q03,tirzepatide diabetes,tfidf,47,581,0.9,0.19148936170212766,1.0,0.933745776545611,False
+q03,tirzepatide diabetes,log_tfidf,47,581,0.9,0.19148936170212766,1.0,0.9305687780632227,False
+q03,tirzepatide diabetes,tfidf_dot,47,581,1.0,0.2127659574468085,1.0,1.0,False
+q03,tirzepatide diabetes,log_tfidf_dot,47,581,1.0,0.2127659574468085,1.0,1.0,False
+q04,cardiovascular outcomes,tf,122,239,0.7,0.05737704918032787,1.0,0.7573821447149965,False
+q04,cardiovascular outcomes,log_tf,122,239,1.0,0.08196721311475409,1.0,1.0,False
+q04,cardiovascular outcomes,idf,122,239,1.0,0.08196721311475409,1.0,1.0,False
+q04,cardiovascular outcomes,tfidf,122,239,0.7,0.05737704918032787,1.0,0.7655934900767001,False
+q04,cardiovascular outcomes,log_tfidf,122,239,1.0,0.08196721311475409,1.0,1.0,False
+q04,cardiovascular outcomes,tfidf_dot,122,239,0.7,0.05737704918032787,1.0,0.7280855459907165,False
+q04,cardiovascular outcomes,log_tfidf_dot,122,239,1.0,0.08196721311475409,1.0,1.0,False
+q05,kidney disease renal outcomes,tf,55,319,1.0,0.18181818181818182,1.0,1.0,False
+q05,kidney disease renal outcomes,log_tf,55,319,1.0,0.18181818181818182,1.0,1.0,False
+q05,kidney disease renal outcomes,idf,55,319,1.0,0.18181818181818182,1.0,1.0,False
+q05,kidney disease renal outcomes,tfidf,55,319,1.0,0.18181818181818182,1.0,1.0,False
+q05,kidney disease renal outcomes,log_tfidf,55,319,1.0,0.18181818181818182,1.0,1.0,False
+q05,kidney disease renal outcomes,tfidf_dot,55,319,0.9,0.16363636363636364,1.0,0.9363792118010481,False
+q05,kidney disease renal outcomes,log_tfidf_dot,55,319,0.9,0.16363636363636364,1.0,0.9363792118010481,False
+q06,glp1 pancreatitis,tf,17,998,0.1,0.058823529411764705,0.14285714285714285,0.07336392209936005,False
+q06,glp1 pancreatitis,log_tf,17,998,0.5,0.29411764705882354,0.5,0.45484422125791796,False
+q06,glp1 pancreatitis,idf,17,998,1.0,0.5882352941176471,1.0,1.0,False
+q06,glp1 pancreatitis,tfidf,17,998,1.0,0.5882352941176471,1.0,1.0,False
+q06,glp1 pancreatitis,log_tfidf,17,998,1.0,0.5882352941176471,1.0,1.0,False
+q06,glp1 pancreatitis,tfidf_dot,17,998,1.0,0.5882352941176471,1.0,1.0,False
+q06,glp1 pancreatitis,log_tfidf_dot,17,998,1.0,0.5882352941176471,1.0,1.0,False
+q07,gastric emptying glp1,tf,77,998,0.6,0.07792207792207792,1.0,0.6364741801035538,False
+q07,gastric emptying glp1,log_tf,77,998,0.9,0.11688311688311688,1.0,0.905211635630449,False
+q07,gastric emptying glp1,idf,77,998,1.0,0.12987012987012986,1.0,1.0,False
+q07,gastric emptying glp1,tfidf,77,998,0.9,0.11688311688311688,1.0,0.914856882358379,False
+q07,gastric emptying glp1,log_tfidf,77,998,1.0,0.12987012987012986,1.0,1.0,False
+q07,gastric emptying glp1,tfidf_dot,77,998,0.7,0.09090909090909091,1.0,0.7564477297898764,False
+q07,gastric emptying glp1,log_tfidf_dot,77,998,1.0,0.12987012987012986,1.0,1.0,False
+q08,nausea vomiting adverse effects,tf,21,518,0.3,0.14285714285714285,1.0,0.43231813227099475,False
+q08,nausea vomiting adverse effects,log_tf,21,518,0.6,0.2857142857142857,1.0,0.6871952210980248,False
+q08,nausea vomiting adverse effects,idf,21,518,1.0,0.47619047619047616,1.0,1.0,False
+q08,nausea vomiting adverse effects,tfidf,21,518,0.9,0.42857142857142855,1.0,0.9305687780632227,False
+q08,nausea vomiting adverse effects,log_tfidf,21,518,1.0,0.47619047619047616,1.0,1.0,False
+q08,nausea vomiting adverse effects,tfidf_dot,21,518,0.9,0.42857142857142855,1.0,0.914856882358379,False
+q08,nausea vomiting adverse effects,log_tfidf_dot,21,518,1.0,0.47619047619047616,1.0,1.0,False
+q09,insulin secretion glp1,tf,189,998,0.9,0.047619047619047616,1.0,0.8899541168509599,False
+q09,insulin secretion glp1,log_tf,189,998,0.8,0.042328042328042326,1.0,0.7510916729774053,False
+q09,insulin secretion glp1,idf,189,998,0.8,0.042328042328042326,0.5,0.7162874455029681,False
+q09,insulin secretion glp1,tfidf,189,998,0.9,0.047619047619047616,1.0,0.9305687780632227,False
+q09,insulin secretion glp1,log_tfidf,189,998,1.0,0.05291005291005291,1.0,1.0,False
+q09,insulin secretion glp1,tfidf_dot,189,998,0.9,0.047619047619047616,1.0,0.9363792118010481,False
+q09,insulin secretion glp1,log_tfidf_dot,189,998,1.0,0.05291005291005291,1.0,1.0,False
+q10,appetite food intake,tf,85,172,1.0,0.11764705882352941,1.0,1.0,False
+q10,appetite food intake,log_tf,85,172,1.0,0.11764705882352941,1.0,1.0,False
+q10,appetite food intake,idf,85,172,1.0,0.11764705882352941,1.0,1.0,False
+q10,appetite food intake,tfidf,85,172,1.0,0.11764705882352941,1.0,1.0,False
+q10,appetite food intake,log_tfidf,85,172,1.0,0.11764705882352941,1.0,1.0,False
+q10,appetite food intake,tfidf_dot,85,172,1.0,0.11764705882352941,1.0,1.0,False
+q10,appetite food intake,log_tfidf_dot,85,172,1.0,0.11764705882352941,1.0,1.0,False
+q11,liver steatosis glp1,tf,32,998,0.1,0.03125,1.0,0.22009176629808017,False
+q11,liver steatosis glp1,log_tf,32,998,0.6,0.1875,1.0,0.6078421520159136,False
+q11,liver steatosis glp1,idf,32,998,1.0,0.3125,1.0,1.0,False
+q11,liver steatosis glp1,tfidf,32,998,0.9,0.28125,1.0,0.9216017310213246,False
+q11,liver steatosis glp1,log_tfidf,32,998,0.9,0.28125,1.0,0.933745776545611,False
+q11,liver steatosis glp1,tfidf_dot,32,998,0.9,0.28125,1.0,0.933745776545611,False
+q11,liver steatosis glp1,log_tfidf_dot,32,998,0.9,0.28125,1.0,0.9363792118010481,False
+q12,alzheimer neurodegeneration glp1,tf,45,998,0.1,0.022222222222222223,0.3333333333333333,0.11004588314904008,False
+q12,alzheimer neurodegeneration glp1,log_tf,45,998,0.7,0.15555555555555556,1.0,0.7264127302306636,False
+q12,alzheimer neurodegeneration glp1,idf,45,998,1.0,0.2222222222222222,1.0,1.0,False
+q12,alzheimer neurodegeneration glp1,tfidf,45,998,1.0,0.2222222222222222,1.0,1.0,False
+q12,alzheimer neurodegeneration glp1,log_tfidf,45,998,1.0,0.2222222222222222,1.0,1.0,False
+q12,alzheimer neurodegeneration glp1,tfidf_dot,45,998,1.0,0.2222222222222222,1.0,1.0,False
+q12,alzheimer neurodegeneration glp1,log_tfidf_dot,45,998,1.0,0.2222222222222222,1.0,1.0,False

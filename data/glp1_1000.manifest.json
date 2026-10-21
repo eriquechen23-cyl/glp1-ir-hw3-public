@@ -1,0 +1,11 @@
+{
+  "query": "(\"GLP-1\"[Title/Abstract] OR \"glucagon-like peptide-1\"[Title/Abstract]) AND hasabstract AND english[Language]",
+  "query_translation": "(\"GLP-1\"[Title/Abstract] OR \"glucagon-like peptide-1\"[Title/Abstract]) AND \"hasabstract\"[All Fields] AND \"english\"[Language]",
+  "sort": "relevance",
+  "pubmed_matches": 30633,
+  "requested_count": 1000,
+  "actual_count": 1000,
+  "retrieved_at_utc": "2026-09-28T14:16:04.129215+00:00",
+  "source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils",
+  "sha256": "0aeec800f63dc342abc1fe836be4e11adff879f096972482c57e0e7dde0eaf67"
+}

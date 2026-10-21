@@ -1,0 +1,841 @@
+qid,query,method,rank,pmid,title,score,silver_relevant,baseline_log_tfidf_cosine_rank,rank_change_vs_baseline
+q01,semaglutide weight loss,tf,1,42260171,Differential impact of glucagon-like peptide-1 (GLP-1) receptor agonists for weight loss in the type 2 diabetic and non-diabetic populations.,0.3243761599378815,1,22,21
+q01,semaglutide weight loss,tf,2,39734391,Semaglutide-Associated Gastric Pneumatosis.,0.323575114464717,1,1,-1
+q01,semaglutide weight loss,tf,3,39697577,Glucagon Like Peptide -1 Receptor Agonists for Weight Loss: A Primary Care Perspective.,0.31139957766460924,0,3,0
+q01,semaglutide weight loss,tf,4,41420876,Current clinical application of incretin therapy for obesity management.,0.294174202707276,1,4,0
+q01,semaglutide weight loss,tf,5,39690371,Obesity in Hidradenitis Suppurativa: Are GLP-1 Receptor Agonists the New Frontier?,0.29086486358157504,1,12,7
+q01,semaglutide weight loss,tf,6,36977934,"Semaglutide, delayed gastric emptying, and intraoperative pulmonary aspiration: a case report.",0.27735009811261463,1,8,2
+q01,semaglutide weight loss,tf,7,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,0.2769157202452325,1,2,-5
+q01,semaglutide weight loss,tf,8,40861748,Weighing the Risks: Small Bowel Obstruction Associated With Semaglutide Use in the Postoperative Abdomen.,0.26967994498529685,1,6,-2
+q01,semaglutide weight loss,tf,9,39657161,Behavioral medicine in the GLP-1 era.,0.2672047802572233,0,69,60
+q01,semaglutide weight loss,tf,10,30195966,Semaglutide: Review and Place in Therapy for Adults With Type 2 Diabetes.,0.2637755955073034,1,7,-3
+q01,semaglutide weight loss,log_tf,1,39697577,Glucagon Like Peptide -1 Receptor Agonists for Weight Loss: A Primary Care Perspective.,0.2960722054828467,0,3,2
+q01,semaglutide weight loss,log_tf,2,41420876,Current clinical application of incretin therapy for obesity management.,0.27759203692976886,1,4,2
+q01,semaglutide weight loss,log_tf,3,39734391,Semaglutide-Associated Gastric Pneumatosis.,0.2756184502172517,1,1,-2
+q01,semaglutide weight loss,log_tf,4,36977934,"Semaglutide, delayed gastric emptying, and intraoperative pulmonary aspiration: a case report.",0.27182362660928344,1,8,4
+q01,semaglutide weight loss,log_tf,5,39690371,Obesity in Hidradenitis Suppurativa: Are GLP-1 Receptor Agonists the New Frontier?,0.2604294383111137,1,12,7
+q01,semaglutide weight loss,log_tf,6,42165084,Glucagon-like peptide-1 receptor agonists for weight loss in end-stage heart failure patients considered for heart transplantation.,0.25380070424809054,1,13,7
+q01,semaglutide weight loss,log_tf,7,40022548,The promise of glucagon-like peptide 1 receptor agonists (GLP-1RA) for the treatment of obesity: a look at phase 2 and 3 pipelines.,0.25181148674857573,1,5,-2
+q01,semaglutide weight loss,log_tf,8,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,0.24130273306935854,1,2,-6
+q01,semaglutide weight loss,log_tf,9,40861748,Weighing the Risks: Small Bowel Obstruction Associated With Semaglutide Use in the Postoperative Abdomen.,0.23892570966218632,1,6,-3
+q01,semaglutide weight loss,log_tf,10,30195966,Semaglutide: Review and Place in Therapy for Adults With Type 2 Diabetes.,0.22361600498435202,1,7,-3
+q01,semaglutide weight loss,idf,1,39734391,Semaglutide-Associated Gastric Pneumatosis.,0.17975290705638106,1,1,0
+q01,semaglutide weight loss,idf,2,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,0.17578205704144143,1,2,0
+q01,semaglutide weight loss,idf,3,39697577,Glucagon Like Peptide -1 Receptor Agonists for Weight Loss: A Primary Care Perspective.,0.1521185993180574,0,3,0
+q01,semaglutide weight loss,idf,4,40356540,Some Risks of Gastrointestinal Adverse Events Associated With Glucagon-Like PEPTIDE-1 Receptor Agonists Are Likely Explained by BMI.,0.14158662905050512,1,47,43
+q01,semaglutide weight loss,idf,5,40861748,Weighing the Risks: Small Bowel Obstruction Associated With Semaglutide Use in the Postoperative Abdomen.,0.14138212129319716,1,6,1
+q01,semaglutide weight loss,idf,6,41420876,Current clinical application of incretin therapy for obesity management.,0.13794976295842298,1,4,-2
+q01,semaglutide weight loss,idf,7,40918811,Cardiovascular Benefits of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Type 2 Diabetes Mellitus With Atherosclerotic Cardiovascular Disease: A Systematic Review of Randomized Controlled Trials.,0.12951402120313182,1,48,41
+q01,semaglutide weight loss,idf,8,35408810,Glucagon-like Peptide-1 Receptor Agonists in the Management of Type 2 Diabetes Mellitus and Obesity: The Impact of Pharmacological Properties and Genetic Factors.,0.12789216413481513,1,19,11
+q01,semaglutide weight loss,idf,9,39690371,Obesity in Hidradenitis Suppurativa: Are GLP-1 Receptor Agonists the New Frontier?,0.12778285327084946,1,12,3
+q01,semaglutide weight loss,idf,10,33213122,Obesity and GLP-1.,0.12725045596419815,1,21,11
+q01,semaglutide weight loss,tfidf,1,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,0.3494472779012904,1,2,1
+q01,semaglutide weight loss,tfidf,2,30195966,Semaglutide: Review and Place in Therapy for Adults With Type 2 Diabetes.,0.3494258255685121,1,7,5
+q01,semaglutide weight loss,tfidf,3,39734391,Semaglutide-Associated Gastric Pneumatosis.,0.3232422980980362,1,1,-2
+q01,semaglutide weight loss,tfidf,4,41420876,Current clinical application of incretin therapy for obesity management.,0.2806901128959526,1,4,0
+q01,semaglutide weight loss,tfidf,5,40022548,The promise of glucagon-like peptide 1 receptor agonists (GLP-1RA) for the treatment of obesity: a look at phase 2 and 3 pipelines.,0.2758077641274054,1,5,0
+q01,semaglutide weight loss,tfidf,6,39697577,Glucagon Like Peptide -1 Receptor Agonists for Weight Loss: A Primary Care Perspective.,0.2714972357481438,0,3,-3
+q01,semaglutide weight loss,tfidf,7,40861748,Weighing the Risks: Small Bowel Obstruction Associated With Semaglutide Use in the Postoperative Abdomen.,0.26860298084905887,1,6,-1
+q01,semaglutide weight loss,tfidf,8,36977934,"Semaglutide, delayed gastric emptying, and intraoperative pulmonary aspiration: a case report.",0.25374767922407315,1,8,0
+q01,semaglutide weight loss,tfidf,9,37192005,The glucagon-like peptide-1 (GLP-1) analogue semaglutide reduces alcohol drinking and modulates central GABA neurotransmission.,0.23960520901858626,0,29,20
+q01,semaglutide weight loss,tfidf,10,40261091,Semaglutide and GLP-1 Agonists: Forensic and Medicolegal Implications.,0.23859020608547168,1,11,1
+q01,semaglutide weight loss,log_tfidf,1,39734391,Semaglutide-Associated Gastric Pneumatosis.,0.25833643354993224,1,1,0
+q01,semaglutide weight loss,log_tfidf,2,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,0.25575739992202523,1,2,0
+q01,semaglutide weight loss,log_tfidf,3,39697577,Glucagon Like Peptide -1 Receptor Agonists for Weight Loss: A Primary Care Perspective.,0.23994617099612714,0,3,0
+q01,semaglutide weight loss,log_tfidf,4,41420876,Current clinical application of incretin therapy for obesity management.,0.23584402230808993,1,4,0
+q01,semaglutide weight loss,log_tfidf,5,40022548,The promise of glucagon-like peptide 1 receptor agonists (GLP-1RA) for the treatment of obesity: a look at phase 2 and 3 pipelines.,0.20820536106556695,1,5,0
+q01,semaglutide weight loss,log_tfidf,6,40861748,Weighing the Risks: Small Bowel Obstruction Associated With Semaglutide Use in the Postoperative Abdomen.,0.2049512390101784,1,6,0
+q01,semaglutide weight loss,log_tfidf,7,30195966,Semaglutide: Review and Place in Therapy for Adults With Type 2 Diabetes.,0.1966684906141143,1,7,0
+q01,semaglutide weight loss,log_tfidf,8,36977934,"Semaglutide, delayed gastric emptying, and intraoperative pulmonary aspiration: a case report.",0.19379693872342765,1,8,0
+q01,semaglutide weight loss,log_tfidf,9,38541083,A Review and Meta-Analysis of the Safety and Efficacy of Using Glucagon-like Peptide-1 Receptor Agonists.,0.19257065261097345,1,9,0
+q01,semaglutide weight loss,log_tfidf,10,37908242,Glucagon-like Peptide-1 Receptor Agonist Treatment With Semaglutide in Type 1 Diabetes.,0.17522739970181458,1,10,0
+q01,semaglutide weight loss,tfidf_dot,1,30195966,Semaglutide: Review and Place in Therapy for Adults With Type 2 Diabetes.,141.3350199278352,1,7,6
+q01,semaglutide weight loss,tfidf_dot,2,37192005,The glucagon-like peptide-1 (GLP-1) analogue semaglutide reduces alcohol drinking and modulates central GABA neurotransmission.,119.32931059032761,0,29,27
+q01,semaglutide weight loss,tfidf_dot,3,38300808,GLP-1 and PYY for the treatment of obesity: a pilot study on the use of agonists and antagonists in diet-induced rats.,98.09258628436518,1,14,11
+q01,semaglutide weight loss,tfidf_dot,4,42260171,Differential impact of glucagon-like peptide-1 (GLP-1) receptor agonists for weight loss in the type 2 diabetic and non-diabetic populations.,91.41793084953866,1,22,18
+q01,semaglutide weight loss,tfidf_dot,5,40022548,The promise of glucagon-like peptide 1 receptor agonists (GLP-1RA) for the treatment of obesity: a look at phase 2 and 3 pipelines.,84.2995024447745,1,5,0
+q01,semaglutide weight loss,tfidf_dot,6,40261091,Semaglutide and GLP-1 Agonists: Forensic and Medicolegal Implications.,81.67036463267141,1,11,5
+q01,semaglutide weight loss,tfidf_dot,7,27717194,Associations between changes in glucagon-like peptide-1 and bodyweight reduction in patients receiving acarbose or metformin treatment.,77.01998268127656,0,53,46
+q01,semaglutide weight loss,tfidf_dot,8,36977934,"Semaglutide, delayed gastric emptying, and intraoperative pulmonary aspiration: a case report.",74.22672416629968,1,8,0
+q01,semaglutide weight loss,tfidf_dot,9,39433133,Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and suicidality: A replication study using reports to the World Health Organization pharmacovigilance database (VigiBase®).,71.59758635419655,0,68,59
+q01,semaglutide weight loss,tfidf_dot,10,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,70.6675099639176,1,2,-8
+q01,semaglutide weight loss,log_tfidf_dot,1,30195966,Semaglutide: Review and Place in Therapy for Adults With Type 2 Diabetes.,58.03897259179857,1,7,6
+q01,semaglutide weight loss,log_tfidf_dot,2,38300808,GLP-1 and PYY for the treatment of obesity: a pilot study on the use of agonists and antagonists in diet-induced rats.,53.76357633569387,1,14,12
+q01,semaglutide weight loss,log_tfidf_dot,3,40022548,The promise of glucagon-like peptide 1 receptor agonists (GLP-1RA) for the treatment of obesity: a look at phase 2 and 3 pipelines.,52.300402058312216,1,5,2
+q01,semaglutide weight loss,log_tfidf_dot,4,40261091,Semaglutide and GLP-1 Agonists: Forensic and Medicolegal Implications.,49.76769507241381,1,11,7
+q01,semaglutide weight loss,log_tfidf_dot,5,36977934,"Semaglutide, delayed gastric emptying, and intraoperative pulmonary aspiration: a case report.",48.92518915379588,1,8,3
+q01,semaglutide weight loss,log_tfidf_dot,6,42165084,Glucagon-like peptide-1 receptor agonists for weight loss in end-stage heart failure patients considered for heart transplantation.,48.133321778591515,1,13,7
+q01,semaglutide weight loss,log_tfidf_dot,7,38541083,A Review and Meta-Analysis of the Safety and Efficacy of Using Glucagon-like Peptide-1 Receptor Agonists.,47.1049384583136,1,9,2
+q01,semaglutide weight loss,log_tfidf_dot,8,36044100,GLP-1 Agonist to Treat Obesity and Prevent Cardiovascular Disease: What Have We Achieved so Far?,45.492298816309116,1,18,10
+q01,semaglutide weight loss,log_tfidf_dot,9,41420876,Current clinical application of incretin therapy for obesity management.,44.58642301822854,1,4,-5
+q01,semaglutide weight loss,log_tfidf_dot,10,42260171,Differential impact of glucagon-like peptide-1 (GLP-1) receptor agonists for weight loss in the type 2 diabetic and non-diabetic populations.,44.47050546454855,1,22,12
+q02,liraglutide obesity,tf,1,30020885,Liraglutide for psychiatric disorders: clinical evidence and challenges.,0.3591390980104299,1,1,0
+q02,liraglutide obesity,tf,2,41856344,"Glucagon-like peptide-1 analog, liraglutide, alters blood-testis barrier permeability in juvenile healthy rats.",0.2860794159408606,0,17,15
+q02,liraglutide obesity,tf,3,36706749,New Frontiers in Obesity Treatment: GLP-1 and Nascent Nutrient-Stimulated Hormone-Based Therapeutics.,0.2758386421836852,0,49,46
+q02,liraglutide obesity,tf,4,40107411,Artificial intelligence in anti-obesity drug discovery: unlocking next-generation therapeutics.,0.2683281572999747,0,63,59
+q02,liraglutide obesity,tf,5,37460364,Are GLP-1R agonists the long-sought-after panacea for obesity?,0.26064301757134345,0,38,33
+q02,liraglutide obesity,tf,6,30780853,Liraglutide Effect and Action in Diabetes (LEAD™) trial.,0.2601529511865082,1,3,-3
+q02,liraglutide obesity,tf,7,37547806,Usage of Glucagon-Like Peptide-1 for Obesity in Children; Updated Review of Clinicaltrials.gov.,0.24723408821707438,1,27,20
+q02,liraglutide obesity,tf,8,38438663,Liraglutide prevents cellular senescence in human retinal endothelial cells (HRECs) mediated by SIRT1: an implication in diabetes retinopathy.,0.24310831916315753,0,19,11
+q02,liraglutide obesity,tf,9,41420876,Current clinical application of incretin therapy for obesity management.,0.24019223070763063,1,13,4
+q02,liraglutide obesity,tf,10,33213122,Obesity and GLP-1.,0.23981604843963605,1,14,4
+q02,liraglutide obesity,log_tf,1,30020885,Liraglutide for psychiatric disorders: clinical evidence and challenges.,0.3027841628456158,1,1,0
+q02,liraglutide obesity,log_tf,2,33151791,Patient initiation and maintenance of GLP-1 RAs for treatment of obesity: a narrative review and practical considerations for primary care providers.,0.2201285500108352,1,6,4
+q02,liraglutide obesity,log_tf,3,41420876,Current clinical application of incretin therapy for obesity management.,0.1986280234155699,1,13,10
+q02,liraglutide obesity,log_tf,4,29632562,GLP-1 Receptor Agonists in Type 2 Diabetes and Beyond - New Insights 2015.,0.19456823039274962,1,2,-2
+q02,liraglutide obesity,log_tf,5,28031776,Glucagon-like peptide 1 in the pathophysiology and pharmacotherapy of clinical obesity.,0.1913534563119177,1,24,19
+q02,liraglutide obesity,log_tf,6,33213122,Obesity and GLP-1.,0.1894579044369194,1,14,8
+q02,liraglutide obesity,log_tf,7,39583142,GLP-1 receptor agonists in patients with chronic kidney disease and either overweight or obesity.,0.1862234655503791,1,21,14
+q02,liraglutide obesity,log_tf,8,36044100,GLP-1 Agonist to Treat Obesity and Prevent Cardiovascular Disease: What Have We Achieved so Far?,0.18469918354094697,1,16,8
+q02,liraglutide obesity,log_tf,9,37547806,Usage of Glucagon-Like Peptide-1 for Obesity in Children; Updated Review of Clinicaltrials.gov.,0.18264761372770028,1,27,18
+q02,liraglutide obesity,log_tf,10,37460364,Are GLP-1R agonists the long-sought-after panacea for obesity?,0.1818072057879346,0,38,28
+q02,liraglutide obesity,idf,1,30020885,Liraglutide for psychiatric disorders: clinical evidence and challenges.,0.1281940350512725,1,1,0
+q02,liraglutide obesity,idf,2,28701318,▾ Liraglutide for weight management.,0.12303424237178846,1,8,6
+q02,liraglutide obesity,idf,3,29632562,GLP-1 Receptor Agonists in Type 2 Diabetes and Beyond - New Insights 2015.,0.1164758525677447,1,2,-1
+q02,liraglutide obesity,idf,4,41420876,Current clinical application of incretin therapy for obesity management.,0.11436993018549366,1,13,9
+q02,liraglutide obesity,idf,5,28598027,"A novel GIP analogue, ZP4165, enhances glucagon-like peptide-1-induced body weight loss and improves glycaemic control in rodents.",0.11112508879796754,1,18,13
+q02,liraglutide obesity,idf,6,39690371,Obesity in Hidradenitis Suppurativa: Are GLP-1 Receptor Agonists the New Frontier?,0.10594085625137999,1,35,29
+q02,liraglutide obesity,idf,7,20360660,Liraglutide (Victoza) for type 2 diabetes.,0.10554971572286022,0,4,-3
+q02,liraglutide obesity,idf,8,33213122,Obesity and GLP-1.,0.10549946192429435,1,14,6
+q02,liraglutide obesity,idf,9,38541083,A Review and Meta-Analysis of the Safety and Efficacy of Using Glucagon-like Peptide-1 Receptor Agonists.,0.10512748032460535,1,10,1
+q02,liraglutide obesity,idf,10,41416056,Injectable drugs for weight management.,0.10289677659930827,1,37,27
+q02,liraglutide obesity,tfidf,1,30020885,Liraglutide for psychiatric disorders: clinical evidence and challenges.,0.41750351694073556,1,1,0
+q02,liraglutide obesity,tfidf,2,30780853,Liraglutide Effect and Action in Diabetes (LEAD™) trial.,0.35951921720528535,1,3,1
+q02,liraglutide obesity,tfidf,3,37252522,Liraglutide-Induced Pancreatitis: A Case Report and Literature Review.,0.3216604487076098,1,5,2
+q02,liraglutide obesity,tfidf,4,38438663,Liraglutide prevents cellular senescence in human retinal endothelial cells (HRECs) mediated by SIRT1: an implication in diabetes retinopathy.,0.28090196193047046,0,19,15
+q02,liraglutide obesity,tfidf,5,41856344,"Glucagon-like peptide-1 analog, liraglutide, alters blood-testis barrier permeability in juvenile healthy rats.",0.2651665225524098,0,17,12
+q02,liraglutide obesity,tfidf,6,20360660,Liraglutide (Victoza) for type 2 diabetes.,0.24646224969307692,0,4,-2
+q02,liraglutide obesity,tfidf,7,36771035,Cardiovascular Protection with a Long-Acting GLP-1 Receptor Agonist Liraglutide: An Experimental Update.,0.2359055940586447,0,15,8
+q02,liraglutide obesity,tfidf,8,39807656,Effects of tryptophan-selective lipidated glucagon-like peptide 1 (GLP-1) peptides on the GLP-1 receptor.,0.22887778342198561,1,12,4
+q02,liraglutide obesity,tfidf,9,19041364,"Molecular, pharmacological and clinical aspects of liraglutide, a once-daily human GLP-1 analogue.",0.22663314137155183,1,7,-2
+q02,liraglutide obesity,tfidf,10,33151791,Patient initiation and maintenance of GLP-1 RAs for treatment of obesity: a narrative review and practical considerations for primary care providers.,0.22207566381887625,1,6,-4
+q02,liraglutide obesity,log_tfidf,1,30020885,Liraglutide for psychiatric disorders: clinical evidence and challenges.,0.2783673174983894,1,1,0
+q02,liraglutide obesity,log_tfidf,2,29632562,GLP-1 Receptor Agonists in Type 2 Diabetes and Beyond - New Insights 2015.,0.19057566687635485,1,2,0
+q02,liraglutide obesity,log_tfidf,3,30780853,Liraglutide Effect and Action in Diabetes (LEAD™) trial.,0.19042759466743603,1,3,0
+q02,liraglutide obesity,log_tfidf,4,20360660,Liraglutide (Victoza) for type 2 diabetes.,0.18956782430756094,0,4,0
+q02,liraglutide obesity,log_tfidf,5,37252522,Liraglutide-Induced Pancreatitis: A Case Report and Literature Review.,0.1742971786367083,1,5,0
+q02,liraglutide obesity,log_tfidf,6,33151791,Patient initiation and maintenance of GLP-1 RAs for treatment of obesity: a narrative review and practical considerations for primary care providers.,0.17168249158633841,1,6,0
+q02,liraglutide obesity,log_tfidf,7,19041364,"Molecular, pharmacological and clinical aspects of liraglutide, a once-daily human GLP-1 analogue.",0.17108901176698632,1,7,0
+q02,liraglutide obesity,log_tfidf,8,28701318,▾ Liraglutide for weight management.,0.1663362322004942,1,8,0
+q02,liraglutide obesity,log_tfidf,9,39316579,Liraglutide innovations: a comprehensive review of patents (2014-2024).,0.16192161814169295,0,9,0
+q02,liraglutide obesity,log_tfidf,10,38541083,A Review and Meta-Analysis of the Safety and Efficacy of Using Glucagon-like Peptide-1 Receptor Agonists.,0.15317961619555837,1,10,0
+q02,liraglutide obesity,tfidf_dot,1,38438663,Liraglutide prevents cellular senescence in human retinal endothelial cells (HRECs) mediated by SIRT1: an implication in diabetes retinopathy.,107.8322400043009,0,19,18
+q02,liraglutide obesity,tfidf_dot,2,41856344,"Glucagon-like peptide-1 analog, liraglutide, alters blood-testis barrier permeability in juvenile healthy rats.",86.26579200344072,0,17,15
+q02,liraglutide obesity,tfidf_dot,3,37252522,Liraglutide-Induced Pancreatitis: A Case Report and Literature Review.,80.46439636454912,1,5,2
+q02,liraglutide obesity,tfidf_dot,4,30020885,Liraglutide for psychiatric disorders: clinical evidence and challenges.,79.644829087196,1,1,-3
+q02,liraglutide obesity,tfidf_dot,5,30780853,Liraglutide Effect and Action in Diabetes (LEAD™) trial.,75.48256800301063,1,3,-2
+q02,liraglutide obesity,tfidf_dot,6,31747801,Endothelial GLP-1 (Glucagon-Like Peptide-1) Receptor Mediates Cardiovascular Protection by Liraglutide In Mice With Experimental Arterial Hypertension.,75.48256800301063,0,32,26
+q02,liraglutide obesity,tfidf_dot,7,30776356,GLP-1 receptor agonist impairs keratinocytes inflammatory signals by activating AMPK.,75.48256800301063,0,30,23
+q02,liraglutide obesity,tfidf_dot,8,39807656,Effects of tryptophan-selective lipidated glucagon-like peptide 1 (GLP-1) peptides on the GLP-1 receptor.,69.68117236411902,1,12,4
+q02,liraglutide obesity,tfidf_dot,9,42382903,"Beyond Endoscopy: A Narrative Review of the Emerging Role of Gastroenterologists in Obesity Medicine, GLP-1 (Glucagon-Like Peptide-1) Therapy, and Metabolic Care.",64.76376870000036,0,94,85
+q02,liraglutide obesity,tfidf_dot,10,39433133,Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and suicidality: A replication study using reports to the World Health Organization pharmacovigilance database (VigiBase®).,64.69934400258053,0,41,31
+q02,liraglutide obesity,log_tfidf_dot,1,30020885,Liraglutide for psychiatric disorders: clinical evidence and challenges.,40.55909393156792,1,1,0
+q02,liraglutide obesity,log_tfidf_dot,2,37252522,Liraglutide-Induced Pancreatitis: A Case Report and Literature Review.,36.748237383942325,1,5,3
+q02,liraglutide obesity,log_tfidf_dot,3,36044100,GLP-1 Agonist to Treat Obesity and Prevent Cardiovascular Disease: What Have We Achieved so Far?,36.53787290115744,1,16,13
+q02,liraglutide obesity,log_tfidf_dot,4,38438663,Liraglutide prevents cellular senescence in human retinal endothelial cells (HRECs) mediated by SIRT1: an implication in diabetes retinopathy.,35.61251483823603,0,19,15
+q02,liraglutide obesity,log_tfidf_dot,5,39807656,Effects of tryptophan-selective lipidated glucagon-like peptide 1 (GLP-1) peptides on the GLP-1 receptor.,35.08599607354642,1,12,7
+q02,liraglutide obesity,log_tfidf_dot,6,39542180,Interactions between glucagon like peptide 1 (GLP-1) and estrogens regulates lipid metabolism.,34.51791532596992,1,33,27
+q02,liraglutide obesity,log_tfidf_dot,7,41856344,"Glucagon-like peptide-1 analog, liraglutide, alters blood-testis barrier permeability in juvenile healthy rats.",33.20630794016344,0,17,10
+q02,liraglutide obesity,log_tfidf_dot,8,28684145,"GLP-1 receptor agonist, liraglutide, ameliorates hepatosteatosis induced by anti-CD3 antibody in female mice.",33.11998188653007,1,28,20
+q02,liraglutide obesity,log_tfidf_dot,9,39583142,GLP-1 receptor agonists in patients with chronic kidney disease and either overweight or obesity.,32.933604044782385,1,21,12
+q02,liraglutide obesity,log_tfidf_dot,10,30780853,Liraglutide Effect and Action in Diabetes (LEAD™) trial.,31.76640902240384,1,3,-7
+q03,tirzepatide diabetes,tf,1,39072740,GLP-1 receptor agonists and their role in managing type 2 diabetes.,0.3671115491071761,0,59,58
+q03,tirzepatide diabetes,tf,2,37526853,Beyond glycemia: Comparing tirzepatide to GLP-1 analogues.,0.3,1,2,0
+q03,tirzepatide diabetes,tf,3,31749761,Ketosis-Prone Type 2 Diabetes: A Case Series.,0.2721655269759087,0,64,61
+q03,tirzepatide diabetes,tf,4,33197349,"In type 2 diabetes, GLP-1 RA plus SGLT2 inhibitor vs. either drug alone reduces HbA1c and SBP and may reduce body weight.",0.24494897427831774,0,61,57
+q03,tirzepatide diabetes,tf,5,40610267,Targeting cardiometabolic risk in type 1 diabetes through incretin physiology.,0.24293289905367482,1,20,15
+q03,tirzepatide diabetes,tf,6,39084842,Newer Outpatient Diabetes Therapies and Technologies.,0.2422507915557546,0,63,57
+q03,tirzepatide diabetes,tf,7,41425685,New-Onset Atrial Fibrillation Potentially Associated With Tirzepatide: A Case Report.,0.24112141108520602,1,9,2
+q03,tirzepatide diabetes,tf,8,31523380,Development of therapeutic options on type 2 diabetes in years: Glucagon-like peptide-1 receptor agonist's role intreatment; from the past to future.,0.23754227473946873,0,66,58
+q03,tirzepatide diabetes,tf,9,35593668,Tirzepatide - a dual GIP/GLP-1 receptor agonist - a new antidiabetic drug with potential metabolic activity in the treatment of type 2 diabetes.,0.23489808793734623,1,3,-6
+q03,tirzepatide diabetes,tf,10,39507503,Tirzepatide-Associated Colonic Ischemia.,0.23312620206007842,1,1,-9
+q03,tirzepatide diabetes,log_tf,1,37526853,Beyond glycemia: Comparing tirzepatide to GLP-1 analogues.,0.2338021250248123,1,2,1
+q03,tirzepatide diabetes,log_tf,2,39507503,Tirzepatide-Associated Colonic Ischemia.,0.218002764158396,1,1,-1
+q03,tirzepatide diabetes,log_tf,3,35593668,Tirzepatide - a dual GIP/GLP-1 receptor agonist - a new antidiabetic drug with potential metabolic activity in the treatment of type 2 diabetes.,0.21484604038861313,1,3,0
+q03,tirzepatide diabetes,log_tf,4,31749761,Ketosis-Prone Type 2 Diabetes: A Case Series.,0.20832342404317197,0,64,60
+q03,tirzepatide diabetes,log_tf,5,40610267,Targeting cardiometabolic risk in type 1 diabetes through incretin physiology.,0.2074429111900242,1,20,15
+q03,tirzepatide diabetes,log_tf,6,41416326,Acute Mesenteric Ischemia as a Severe Complication Associated With Tirzepatide: A Case Report and Safety Alert.,0.20685385227446645,1,5,-1
+q03,tirzepatide diabetes,log_tf,7,33197349,"In type 2 diabetes, GLP-1 RA plus SGLT2 inhibitor vs. either drug alone reduces HbA1c and SBP and may reduce body weight.",0.1951339557143394,0,61,54
+q03,tirzepatide diabetes,log_tf,8,41425685,New-Onset Atrial Fibrillation Potentially Associated With Tirzepatide: A Case Report.,0.19475613474936618,1,9,1
+q03,tirzepatide diabetes,log_tf,9,41879623,Type 2 Diabetes in Pregnancy: Management and Novel Therapies.,0.18378166693701398,1,22,13
+q03,tirzepatide diabetes,log_tf,10,37800161,"Effect on Hemoglobin A1c (HbA1c) and Body Weight After Discontinuation of Tirzepatide, a Novel Glucose-Dependent Insulinotropic Peptide (GIP) and Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist: A Single-Center Case Series Study.",0.18308931360472303,1,10,0
+q03,tirzepatide diabetes,idf,1,42405354,Exercise-induced anaphylaxis with a cofactor of GIP/GLP-1 receptor agonist: A case report.,0.17047540830455987,1,6,5
+q03,tirzepatide diabetes,idf,2,39507503,Tirzepatide-Associated Colonic Ischemia.,0.1588798528580268,1,1,-1
+q03,tirzepatide diabetes,idf,3,40582734,Role of Glucagon-Like Peptide-1 and Glucose-Dependent Insulinotropic Polypeptide/Glucagon-Like Peptide-1 Receptor Agonists in Management of Cardiovascular-Kidney-Metabolic (CKM) Conditions.,0.14956732515622126,1,26,23
+q03,tirzepatide diabetes,idf,4,41879623,Type 2 Diabetes in Pregnancy: Management and Novel Therapies.,0.13681108731815644,1,22,18
+q03,tirzepatide diabetes,idf,5,38591071,Practical guide: Glucagon-like peptide-1 and dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonists in diabetes mellitus.,0.1354571051466866,1,25,20
+q03,tirzepatide diabetes,idf,6,40610267,Targeting cardiometabolic risk in type 1 diabetes through incretin physiology.,0.13101105282217562,1,20,14
+q03,tirzepatide diabetes,idf,7,41416326,Acute Mesenteric Ischemia as a Severe Complication Associated With Tirzepatide: A Case Report and Safety Alert.,0.1306129585027659,1,5,-2
+q03,tirzepatide diabetes,idf,8,37800107,The Cardiovascular Effect of Tirzepatide: A Glucagon-Like Peptide-1 and Glucose-Dependent Insulinotropic Polypeptide Dual Agonist.,0.1119784144917211,1,4,-4
+q03,tirzepatide diabetes,idf,9,37526853,Beyond glycemia: Comparing tirzepatide to GLP-1 analogues.,0.10897592740313095,1,2,-7
+q03,tirzepatide diabetes,idf,10,39221223,Euglycemic Ketoacidosis From Semaglutide in a Patient Without Diabetes.,0.10829461111238799,1,35,25
+q03,tirzepatide diabetes,tfidf,1,37526853,Beyond glycemia: Comparing tirzepatide to GLP-1 analogues.,0.46793886235321225,1,2,1
+q03,tirzepatide diabetes,tfidf,2,37800107,The Cardiovascular Effect of Tirzepatide: A Glucagon-Like Peptide-1 and Glucose-Dependent Insulinotropic Polypeptide Dual Agonist.,0.44052704815190874,1,4,2
+q03,tirzepatide diabetes,tfidf,3,35593668,Tirzepatide - a dual GIP/GLP-1 receptor agonist - a new antidiabetic drug with potential metabolic activity in the treatment of type 2 diabetes.,0.43811983695633144,1,3,0
+q03,tirzepatide diabetes,tfidf,4,41069980,"Unveiling Tirzepatide's Therapeutic Spectrum: A Dual GIP/GLP-1 Agonist Targeting Metabolic, Neurological, and Cardiovascular Health.",0.35842892528117165,1,7,3
+q03,tirzepatide diabetes,tfidf,5,39507503,Tirzepatide-Associated Colonic Ischemia.,0.3523435237895833,1,1,-4
+q03,tirzepatide diabetes,tfidf,6,37800161,"Effect on Hemoglobin A1c (HbA1c) and Body Weight After Discontinuation of Tirzepatide, a Novel Glucose-Dependent Insulinotropic Peptide (GIP) and Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist: A Single-Center Case Series Study.",0.30001794089612493,1,10,4
+q03,tirzepatide diabetes,tfidf,7,41425685,New-Onset Atrial Fibrillation Potentially Associated With Tirzepatide: A Case Report.,0.2768831086738014,1,9,2
+q03,tirzepatide diabetes,tfidf,8,41416326,Acute Mesenteric Ischemia as a Severe Complication Associated With Tirzepatide: A Case Report and Safety Alert.,0.27434546102606067,1,5,-3
+q03,tirzepatide diabetes,tfidf,9,40706971,A novel therapeutic prospect: a dual-acting tirzepatide for Alzheimer's disease.,0.25381365643861753,0,8,-1
+q03,tirzepatide diabetes,tfidf,10,40458348,Dual Glucagon-Like Peptide-1 (GLP-1) and Glucose-Dependent Insulinotropic Polypeptide (GIP) Receptor Agonist-Associated Thyroiditis: A Case Report of Thyroid Dysfunction Following Tirzepatide Use.,0.24803251761673908,1,13,3
+q03,tirzepatide diabetes,log_tfidf,1,39507503,Tirzepatide-Associated Colonic Ischemia.,0.2697838318562102,1,1,0
+q03,tirzepatide diabetes,log_tfidf,2,37526853,Beyond glycemia: Comparing tirzepatide to GLP-1 analogues.,0.2611555749144803,1,2,0
+q03,tirzepatide diabetes,log_tfidf,3,35593668,Tirzepatide - a dual GIP/GLP-1 receptor agonist - a new antidiabetic drug with potential metabolic activity in the treatment of type 2 diabetes.,0.2513735685212064,1,3,0
+q03,tirzepatide diabetes,log_tfidf,4,37800107,The Cardiovascular Effect of Tirzepatide: A Glucagon-Like Peptide-1 and Glucose-Dependent Insulinotropic Polypeptide Dual Agonist.,0.24732927293721488,1,4,0
+q03,tirzepatide diabetes,log_tfidf,5,41416326,Acute Mesenteric Ischemia as a Severe Complication Associated With Tirzepatide: A Case Report and Safety Alert.,0.21891843280919163,1,5,0
+q03,tirzepatide diabetes,log_tfidf,6,42405354,Exercise-induced anaphylaxis with a cofactor of GIP/GLP-1 receptor agonist: A case report.,0.2058538805635198,1,6,0
+q03,tirzepatide diabetes,log_tfidf,7,41069980,"Unveiling Tirzepatide's Therapeutic Spectrum: A Dual GIP/GLP-1 Agonist Targeting Metabolic, Neurological, and Cardiovascular Health.",0.20292543773559646,1,7,0
+q03,tirzepatide diabetes,log_tfidf,8,40706971,A novel therapeutic prospect: a dual-acting tirzepatide for Alzheimer's disease.,0.19018871446733715,0,8,0
+q03,tirzepatide diabetes,log_tfidf,9,41425685,New-Onset Atrial Fibrillation Potentially Associated With Tirzepatide: A Case Report.,0.1843137457120132,1,9,0
+q03,tirzepatide diabetes,log_tfidf,10,37800161,"Effect on Hemoglobin A1c (HbA1c) and Body Weight After Discontinuation of Tirzepatide, a Novel Glucose-Dependent Insulinotropic Peptide (GIP) and Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist: A Single-Center Case Series Study.",0.18175806654742394,1,10,0
+q03,tirzepatide diabetes,tfidf_dot,1,37526853,Beyond glycemia: Comparing tirzepatide to GLP-1 analogues.,107.76820410743129,1,2,1
+q03,tirzepatide diabetes,tfidf_dot,2,35593668,Tirzepatide - a dual GIP/GLP-1 receptor agonist - a new antidiabetic drug with potential metabolic activity in the treatment of type 2 diabetes.,107.76820410743129,1,3,1
+q03,tirzepatide diabetes,tfidf_dot,3,37800161,"Effect on Hemoglobin A1c (HbA1c) and Body Weight After Discontinuation of Tirzepatide, a Novel Glucose-Dependent Insulinotropic Peptide (GIP) and Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist: A Single-Center Case Series Study.",107.76820410743129,1,10,7
+q03,tirzepatide diabetes,tfidf_dot,4,37800107,The Cardiovascular Effect of Tirzepatide: A Glucagon-Like Peptide-1 and Glucose-Dependent Insulinotropic Polypeptide Dual Agonist.,105.25789400271363,1,4,0
+q03,tirzepatide diabetes,tfidf_dot,5,41069980,"Unveiling Tirzepatide's Therapeutic Spectrum: A Dual GIP/GLP-1 Agonist Targeting Metabolic, Neurological, and Cardiovascular Health.",90.57966773157133,1,7,2
+q03,tirzepatide diabetes,tfidf_dot,6,34984793,"Efficacy and safety of high-dose glucagon-like peptide-1, glucagon-like peptide-1/glucose-dependent insulinotropic peptide, and glucagon-like peptide-1/glucagon receptor agonists in type 2 diabetes.",78.41175156514672,1,12,6
+q03,tirzepatide diabetes,tfidf_dot,7,40458348,Dual Glucagon-Like Peptide-1 (GLP-1) and Glucose-Dependent Insulinotropic Polypeptide (GIP) Receptor Agonist-Associated Thyroiditis: A Case Report of Thyroid Dysfunction Following Tirzepatide Use.,73.39113135571138,1,13,6
+q03,tirzepatide diabetes,tfidf_dot,8,42149072,Glucagon-Like Peptide-1 Receptor Agonist and Hyponatremia: A Potential Association.,61.22321518928678,1,16,8
+q03,tirzepatide diabetes,tfidf_dot,9,39507503,Tirzepatide-Associated Colonic Ischemia.,61.22321518928678,1,1,-8
+q03,tirzepatide diabetes,tfidf_dot,10,41425685,New-Onset Atrial Fibrillation Potentially Associated With Tirzepatide: A Case Report.,61.22321518928678,1,9,-1
+q03,tirzepatide diabetes,log_tfidf_dot,1,37526853,Beyond glycemia: Comparing tirzepatide to GLP-1 analogues.,47.491060218422234,1,2,1
+q03,tirzepatide diabetes,log_tfidf_dot,2,35593668,Tirzepatide - a dual GIP/GLP-1 receptor agonist - a new antidiabetic drug with potential metabolic activity in the treatment of type 2 diabetes.,47.491060218422234,1,3,1
+q03,tirzepatide diabetes,log_tfidf_dot,3,37800161,"Effect on Hemoglobin A1c (HbA1c) and Body Weight After Discontinuation of Tirzepatide, a Novel Glucose-Dependent Insulinotropic Peptide (GIP) and Glucagon-Like Peptide-1 (GLP-1) Receptor Agonist: A Single-Center Case Series Study.",47.491060218422234,1,10,7
+q03,tirzepatide diabetes,log_tfidf_dot,4,37800107,The Cardiovascular Effect of Tirzepatide: A Glucagon-Like Peptide-1 and Glucose-Dependent Insulinotropic Polypeptide Dual Agonist.,45.75104584700604,1,4,0
+q03,tirzepatide diabetes,log_tfidf_dot,5,41069980,"Unveiling Tirzepatide's Therapeutic Spectrum: A Dual GIP/GLP-1 Agonist Targeting Metabolic, Neurological, and Cardiovascular Health.",43.488387288651126,1,7,2
+q03,tirzepatide diabetes,log_tfidf_dot,6,34984793,"Efficacy and safety of high-dose glucagon-like peptide-1, glucagon-like peptide-1/glucose-dependent insulinotropic peptide, and glucagon-like peptide-1/glucagon receptor agonists in type 2 diabetes.",42.55224459533875,1,12,6
+q03,tirzepatide diabetes,log_tfidf_dot,7,40458348,Dual Glucagon-Like Peptide-1 (GLP-1) and Glucose-Dependent Insulinotropic Polypeptide (GIP) Receptor Agonist-Associated Thyroiditis: A Case Report of Thyroid Dysfunction Following Tirzepatide Use.,38.30192011920488,1,13,6
+q03,tirzepatide diabetes,log_tfidf_dot,8,42149072,Glucagon-Like Peptide-1 Receptor Agonist and Hyponatremia: A Potential Association.,37.536878686786324,1,16,8
+q03,tirzepatide diabetes,log_tfidf_dot,9,39507503,Tirzepatide-Associated Colonic Ischemia.,37.536878686786324,1,1,-8
+q03,tirzepatide diabetes,log_tfidf_dot,10,41425685,New-Onset Atrial Fibrillation Potentially Associated With Tirzepatide: A Case Report.,37.536878686786324,1,9,-1
+q04,cardiovascular outcomes,tf,1,40918811,Cardiovascular Benefits of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Type 2 Diabetes Mellitus With Atherosclerotic Cardiovascular Disease: A Systematic Review of Randomized Controlled Trials.,0.3243374865704012,1,5,4
+q04,cardiovascular outcomes,tf,2,37859909,Role of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Cardiovascular Risk Management in Patients With Type 2 Diabetes Mellitus: A Systematic Review.,0.2839538184148373,1,4,2
+q04,cardiovascular outcomes,tf,3,42719822,GLP-1 receptor agonists in cardiovascular disease: a guide for cardiologists.,0.27375436433166195,1,27,24
+q04,cardiovascular outcomes,tf,4,31646274,Mechanism of cardiovascular disease benefit of glucagon-like peptide 1 agonists.,0.2721655269759087,0,14,10
+q04,cardiovascular outcomes,tf,5,38541083,A Review and Meta-Analysis of the Safety and Efficacy of Using Glucagon-like Peptide-1 Receptor Agonists.,0.2509428066142477,1,2,-3
+q04,cardiovascular outcomes,tf,6,29383638,Possible mechanisms of direct cardiovascular impact of GLP-1 agonists and DPP4 inhibitors.,0.23754227473946873,0,30,24
+q04,cardiovascular outcomes,tf,7,19228481,GLP-1 agonist-based therapies: an emerging new class of antidiabetic drug with potential cardioprotective effects.,0.23570226039551584,1,1,-6
+q04,cardiovascular outcomes,tf,8,37920618,Beyond Blood Sugar: Investigating the Cardiovascular Effects of Antidiabetic Drugs.,0.2236067977499789,0,15,7
+q04,cardiovascular outcomes,tf,9,39520208,GLP-1: A Prospective Guardian for Comprehensive Myocardial Perfusion.,0.214598768819738,1,11,2
+q04,cardiovascular outcomes,tf,10,39262558,Evaluating Cardiovascular Benefits of Glucagon-Like Peptide-1 Receptor Agonists (GLP-1 RAs) in Type 2 Diabetes Mellitus: A Systematic Review.,0.21398024625545642,1,24,14
+q04,cardiovascular outcomes,log_tf,1,19228481,GLP-1 agonist-based therapies: an emerging new class of antidiabetic drug with potential cardioprotective effects.,0.2310675092927294,1,1,0
+q04,cardiovascular outcomes,log_tf,2,38541083,A Review and Meta-Analysis of the Safety and Efficacy of Using Glucagon-like Peptide-1 Receptor Agonists.,0.22343719989149102,1,2,0
+q04,cardiovascular outcomes,log_tf,3,37859909,Role of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Cardiovascular Risk Management in Patients With Type 2 Diabetes Mellitus: A Systematic Review.,0.21583393884005359,1,4,1
+q04,cardiovascular outcomes,log_tf,4,40918811,Cardiovascular Benefits of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Type 2 Diabetes Mellitus With Atherosclerotic Cardiovascular Disease: A Systematic Review of Randomized Controlled Trials.,0.21244130482603113,1,5,1
+q04,cardiovascular outcomes,log_tf,5,30289042,"The non-glycemic effects of incretin therapies on cardiovascular outcomes, cognitive function and bone health.",0.2052427720688712,1,3,-2
+q04,cardiovascular outcomes,log_tf,6,32810485,Cardiovascular outcomes trials with incretin-based medications: a critical review of data available on GLP-1 receptor agonists and DPP-4 inhibitors.,0.1934712552377215,1,6,0
+q04,cardiovascular outcomes,log_tf,7,35905827,Translating results from the cardiovascular outcomes trials with glucagon-like peptide-1 receptor agonists into clinical practice: Recommendations from a Eastern and Southern Europe diabetes expert group.,0.19315048630313747,1,7,0
+q04,cardiovascular outcomes,log_tf,8,39520208,GLP-1: A Prospective Guardian for Comprehensive Myocardial Perfusion.,0.18704849674543383,1,11,3
+q04,cardiovascular outcomes,log_tf,9,39142859,GLP-1 RAs and SGLT2-Is to Lower Glucose and Reduce the Risk of Cardiovascular and Diabetic Kidney Disease.,0.18427708513626398,1,8,-1
+q04,cardiovascular outcomes,log_tf,10,36771035,Cardiovascular Protection with a Long-Acting GLP-1 Receptor Agonist Liraglutide: An Experimental Update.,0.18067187570921198,1,13,3
+q04,cardiovascular outcomes,idf,1,30289042,"The non-glycemic effects of incretin therapies on cardiovascular outcomes, cognitive function and bone health.",0.17066187162085455,1,3,2
+q04,cardiovascular outcomes,idf,2,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,0.15250622269446923,1,32,30
+q04,cardiovascular outcomes,idf,3,39127552,Cardioprotective benefits of metabolic surgery and GLP-1 receptor agonist-based therapies.,0.13798606648070355,1,10,7
+q04,cardiovascular outcomes,idf,4,39443044,Perioperative Considerations for Patients on GLP1 Agonists.,0.13365626289718516,1,29,25
+q04,cardiovascular outcomes,idf,5,19228481,GLP-1 agonist-based therapies: an emerging new class of antidiabetic drug with potential cardioprotective effects.,0.13066291318569817,1,1,-4
+q04,cardiovascular outcomes,idf,6,42405289,Glucagon-Like Peptide-1 Receptor Agonists in Inflammatory Bowel Disease: A Narrative Review.,0.12420978948532067,1,47,41
+q04,cardiovascular outcomes,idf,7,34922691,Kidney Outcomes With Glucagon-Like Peptide-1 Receptor Agonists in Patients With Type 2 Diabetes.,0.12299733820762701,1,23,16
+q04,cardiovascular outcomes,idf,8,42195123,"The Emerging Role of Glucagon-like Peptide 1 (GLP-1)-Based Medications in the Treatment of Heart Failure, with a Focus on Heart Failure with Preserved or Mildly Reduced Ejection Fraction.",0.12279471816961832,1,28,20
+q04,cardiovascular outcomes,idf,9,36754019,The postprandial actions of GLP-1 receptor agonists: The missing link for cardiovascular and kidney protection in type 2 diabetes.,0.11997490788356756,1,42,33
+q04,cardiovascular outcomes,idf,10,41819567,Evaluating the Safety Profile of Glucagon-Like Peptide-1 Receptor Agonists: Adverse Events and Clinical Recommendations.,0.11742436673826451,1,39,29
+q04,cardiovascular outcomes,tfidf,1,37859909,Role of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Cardiovascular Risk Management in Patients With Type 2 Diabetes Mellitus: A Systematic Review.,0.3402571448768896,1,4,3
+q04,cardiovascular outcomes,tfidf,2,40918811,Cardiovascular Benefits of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Type 2 Diabetes Mellitus With Atherosclerotic Cardiovascular Disease: A Systematic Review of Randomized Controlled Trials.,0.3239071078501606,1,5,3
+q04,cardiovascular outcomes,tfidf,3,38541083,A Review and Meta-Analysis of the Safety and Efficacy of Using Glucagon-like Peptide-1 Receptor Agonists.,0.30775029215667327,1,2,-1
+q04,cardiovascular outcomes,tfidf,4,31646274,Mechanism of cardiovascular disease benefit of glucagon-like peptide 1 agonists.,0.29625557342733766,0,14,10
+q04,cardiovascular outcomes,tfidf,5,19228481,GLP-1 agonist-based therapies: an emerging new class of antidiabetic drug with potential cardioprotective effects.,0.2849269794239559,1,1,-4
+q04,cardiovascular outcomes,tfidf,6,42719822,GLP-1 receptor agonists in cardiovascular disease: a guide for cardiologists.,0.2736846851850605,1,27,21
+q04,cardiovascular outcomes,tfidf,7,29383638,Possible mechanisms of direct cardiovascular impact of GLP-1 agonists and DPP4 inhibitors.,0.22257308137363876,0,30,23
+q04,cardiovascular outcomes,tfidf,8,39262558,Evaluating Cardiovascular Benefits of Glucagon-Like Peptide-1 Receptor Agonists (GLP-1 RAs) in Type 2 Diabetes Mellitus: A Systematic Review.,0.22145445037884523,1,24,16
+q04,cardiovascular outcomes,tfidf,9,37920618,Beyond Blood Sugar: Investigating the Cardiovascular Effects of Antidiabetic Drugs.,0.21947267731281522,0,15,6
+q04,cardiovascular outcomes,tfidf,10,40725024,Molecular Insights into the Potential Cardiometabolic Effects of GLP-1 Receptor Analogs and DPP-4 Inhibitors.,0.21829775285758637,1,22,12
+q04,cardiovascular outcomes,log_tfidf,1,19228481,GLP-1 agonist-based therapies: an emerging new class of antidiabetic drug with potential cardioprotective effects.,0.22728700434340576,1,1,0
+q04,cardiovascular outcomes,log_tfidf,2,38541083,A Review and Meta-Analysis of the Safety and Efficacy of Using Glucagon-like Peptide-1 Receptor Agonists.,0.21253854903454428,1,2,0
+q04,cardiovascular outcomes,log_tfidf,3,30289042,"The non-glycemic effects of incretin therapies on cardiovascular outcomes, cognitive function and bone health.",0.19487583800548566,1,3,0
+q04,cardiovascular outcomes,log_tfidf,4,37859909,Role of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Cardiovascular Risk Management in Patients With Type 2 Diabetes Mellitus: A Systematic Review.,0.19122144325436935,1,4,0
+q04,cardiovascular outcomes,log_tfidf,5,40918811,Cardiovascular Benefits of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Type 2 Diabetes Mellitus With Atherosclerotic Cardiovascular Disease: A Systematic Review of Randomized Controlled Trials.,0.1830585515129328,1,5,0
+q04,cardiovascular outcomes,log_tfidf,6,32810485,Cardiovascular outcomes trials with incretin-based medications: a critical review of data available on GLP-1 receptor agonists and DPP-4 inhibitors.,0.17525233819834302,1,6,0
+q04,cardiovascular outcomes,log_tfidf,7,35905827,Translating results from the cardiovascular outcomes trials with glucagon-like peptide-1 receptor agonists into clinical practice: Recommendations from a Eastern and Southern Europe diabetes expert group.,0.17071118046946096,1,7,0
+q04,cardiovascular outcomes,log_tfidf,8,39142859,GLP-1 RAs and SGLT2-Is to Lower Glucose and Reduce the Risk of Cardiovascular and Diabetic Kidney Disease.,0.15913840484091352,1,8,0
+q04,cardiovascular outcomes,log_tfidf,9,31440988,Cardiorenal Protection: Potential of SGLT2 Inhibitors and GLP-1 Receptor Agonists in the Treatment of Type 2 Diabetes.,0.1520930278541928,1,9,0
+q04,cardiovascular outcomes,log_tfidf,10,39127552,Cardioprotective benefits of metabolic surgery and GLP-1 receptor agonist-based therapies.,0.151836926667627,1,10,0
+q04,cardiovascular outcomes,tfidf_dot,1,37859909,Role of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Cardiovascular Risk Management in Patients With Type 2 Diabetes Mellitus: A Systematic Review.,105.16369926967533,1,4,3
+q04,cardiovascular outcomes,tfidf_dot,2,40719010,Are GLP-1 Receptor Agonists Safe in Spine Surgery: A Systematic Review.,96.3937156265127,0,38,36
+q04,cardiovascular outcomes,tfidf_dot,3,38541083,A Review and Meta-Analysis of the Safety and Efficacy of Using Glucagon-like Peptide-1 Receptor Agonists.,88.33446320859623,1,2,-1
+q04,cardiovascular outcomes,tfidf_dot,4,39262558,Evaluating Cardiovascular Benefits of Glucagon-Like Peptide-1 Receptor Agonists (GLP-1 RAs) in Type 2 Diabetes Mellitus: A Systematic Review.,78.26039768620066,1,24,20
+q04,cardiovascular outcomes,tfidf_dot,5,36044100,GLP-1 Agonist to Treat Obesity and Prevent Cardiovascular Disease: What Have We Achieved so Far?,70.6358392280285,1,26,21
+q04,cardiovascular outcomes,tfidf_dot,6,40918811,Cardiovascular Benefits of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Type 2 Diabetes Mellitus With Atherosclerotic Cardiovascular Disease: A Systematic Review of Randomized Controlled Trials.,70.6358392280285,1,5,-1
+q04,cardiovascular outcomes,tfidf_dot,7,40725024,Molecular Insights into the Potential Cardiometabolic Effects of GLP-1 Receptor Analogs and DPP-4 Inhibitors.,63.01128076985635,1,22,15
+q04,cardiovascular outcomes,tfidf_dot,8,31646274,Mechanism of cardiovascular disease benefit of glucagon-like peptide 1 agonists.,60.99646766537723,0,14,6
+q04,cardiovascular outcomes,tfidf_dot,9,42719822,GLP-1 receptor agonists in cardiovascular disease: a guide for cardiologists.,60.99646766537723,1,27,18
+q04,cardiovascular outcomes,tfidf_dot,10,41710713,"Impact of Glucagon-Like Peptide-1 Receptor Agonists on Liver-Related Outcomes, Laboratory and Physiologic Parameters in Metabolic Dysfunction-Associated Steatohepatitis: A Systematic Review and Meta-Analysis.",57.836229375907614,0,62,52
+q04,cardiovascular outcomes,log_tfidf_dot,1,37859909,Role of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Cardiovascular Risk Management in Patients With Type 2 Diabetes Mellitus: A Systematic Review.,45.4100567210389,1,4,3
+q04,cardiovascular outcomes,log_tfidf_dot,2,38541083,A Review and Meta-Analysis of the Safety and Efficacy of Using Glucagon-like Peptide-1 Receptor Agonists.,45.10524769220449,1,2,0
+q04,cardiovascular outcomes,log_tfidf_dot,3,32810485,Cardiovascular outcomes trials with incretin-based medications: a critical review of data available on GLP-1 receptor agonists and DPP-4 inhibitors.,36.23029569240633,1,6,3
+q04,cardiovascular outcomes,log_tfidf_dot,4,19228481,GLP-1 agonist-based therapies: an emerging new class of antidiabetic drug with potential cardioprotective effects.,34.51531563843789,1,1,-3
+q04,cardiovascular outcomes,log_tfidf_dot,5,35905827,Translating results from the cardiovascular outcomes trials with glucagon-like peptide-1 receptor agonists into clinical practice: Recommendations from a Eastern and Southern Europe diabetes expert group.,34.51531563843789,1,7,2
+q04,cardiovascular outcomes,log_tfidf_dot,6,39583142,GLP-1 receptor agonists in patients with chronic kidney disease and either overweight or obesity.,34.51531563843789,1,18,12
+q04,cardiovascular outcomes,log_tfidf_dot,7,39262558,Evaluating Cardiovascular Benefits of Glucagon-Like Peptide-1 Receptor Agonists (GLP-1 RAs) in Type 2 Diabetes Mellitus: A Systematic Review.,34.01679725645603,1,24,17
+q04,cardiovascular outcomes,log_tfidf_dot,8,36044100,GLP-1 Agonist to Treat Obesity and Prevent Cardiovascular Disease: What Have We Achieved so Far?,33.11875361571296,1,26,18
+q04,cardiovascular outcomes,log_tfidf_dot,9,40918811,Cardiovascular Benefits of Glucagon-Like Peptide-1 (GLP-1) Receptor Agonists in Type 2 Diabetes Mellitus With Atherosclerotic Cardiovascular Disease: A Systematic Review of Randomized Controlled Trials.,33.11875361571296,1,5,-4
+q04,cardiovascular outcomes,log_tfidf_dot,10,40725024,Molecular Insights into the Potential Cardiometabolic Effects of GLP-1 Receptor Analogs and DPP-4 Inhibitors.,32.100635706646145,1,22,12
+q05,kidney disease renal outcomes,tf,1,41808780,Glucagon-Like Peptide-1 Receptor Agonists in Chronic Kidney Disease: Mechanisms and Clinical Perspectives.,0.27971546389275787,1,2,1
+q05,kidney disease renal outcomes,tf,2,30110568,GLP-1 receptor agonists in diabetic kidney disease: from the patient-side to the bench-side.,0.26702587309361697,1,10,8
+q05,kidney disease renal outcomes,tf,3,34922691,Kidney Outcomes With Glucagon-Like Peptide-1 Receptor Agonists in Patients With Type 2 Diabetes.,0.24717859304125703,1,3,0
+q05,kidney disease renal outcomes,tf,4,39768655,Glucagon-like Peptide-1 Receptor Agonists and Diabetic Kidney Disease: From Bench to Bed-Side.,0.23008949665421113,1,1,-3
+q05,kidney disease renal outcomes,tf,5,31795376,Renal Tubular Glucagon-Like Peptide-1 Receptor Expression Is Increased in Early Sepsis but Reduced in Chronic Kidney Disease and Sepsis-Induced Kidney Injury.,0.22230295691052512,1,6,1
+q05,kidney disease renal outcomes,tf,6,37813741,Glucagon-like peptide 1(GLP-1) receptor agonists in the management of the patient with type 2diabetes mellitus and chronic kidney disease: an approach for the nephrologist.,0.21138217155662414,1,4,-2
+q05,kidney disease renal outcomes,tf,7,32518100,Decision Algorithm for Prescribing SGLT2 Inhibitors and GLP-1 Receptor Agonists for Diabetic Kidney Disease.,0.2018932132718121,1,9,2
+q05,kidney disease renal outcomes,tf,8,39142859,GLP-1 RAs and SGLT2-Is to Lower Glucose and Reduce the Risk of Cardiovascular and Diabetic Kidney Disease.,0.1958808427497567,1,5,-3
+q05,kidney disease renal outcomes,tf,9,30695005,Use of GLP-1 receptor agonists in patients with T2DM and chronic kidney disease.,0.19069251784911848,1,8,-1
+q05,kidney disease renal outcomes,tf,10,35391537,GLP-1 receptor agonists in diabetic kidney disease: current evidence and future directions.,0.1664780229540729,1,7,-3
+q05,kidney disease renal outcomes,log_tf,1,41808780,Glucagon-Like Peptide-1 Receptor Agonists in Chronic Kidney Disease: Mechanisms and Clinical Perspectives.,0.2697355462418562,1,2,1
+q05,kidney disease renal outcomes,log_tf,2,39768655,Glucagon-like Peptide-1 Receptor Agonists and Diabetic Kidney Disease: From Bench to Bed-Side.,0.258758971668397,1,1,-1
+q05,kidney disease renal outcomes,log_tf,3,39142859,GLP-1 RAs and SGLT2-Is to Lower Glucose and Reduce the Risk of Cardiovascular and Diabetic Kidney Disease.,0.23846731583009578,1,5,2
+q05,kidney disease renal outcomes,log_tf,4,34922691,Kidney Outcomes With Glucagon-Like Peptide-1 Receptor Agonists in Patients With Type 2 Diabetes.,0.23545715157044564,1,3,-1
+q05,kidney disease renal outcomes,log_tf,5,31795376,Renal Tubular Glucagon-Like Peptide-1 Receptor Expression Is Increased in Early Sepsis but Reduced in Chronic Kidney Disease and Sepsis-Induced Kidney Injury.,0.22620278409041858,1,6,1
+q05,kidney disease renal outcomes,log_tf,6,37813741,Glucagon-like peptide 1(GLP-1) receptor agonists in the management of the patient with type 2diabetes mellitus and chronic kidney disease: an approach for the nephrologist.,0.21331548989842591,1,4,-2
+q05,kidney disease renal outcomes,log_tf,7,30110568,GLP-1 receptor agonists in diabetic kidney disease: from the patient-side to the bench-side.,0.2106437304196258,1,10,3
+q05,kidney disease renal outcomes,log_tf,8,32518100,Decision Algorithm for Prescribing SGLT2 Inhibitors and GLP-1 Receptor Agonists for Diabetic Kidney Disease.,0.20741787593659022,1,9,1
+q05,kidney disease renal outcomes,log_tf,9,35391537,GLP-1 receptor agonists in diabetic kidney disease: current evidence and future directions.,0.20222554897198222,1,7,-2
+q05,kidney disease renal outcomes,log_tf,10,30695005,Use of GLP-1 receptor agonists in patients with T2DM and chronic kidney disease.,0.191665751106048,1,8,-2
+q05,kidney disease renal outcomes,idf,1,39768655,Glucagon-like Peptide-1 Receptor Agonists and Diabetic Kidney Disease: From Bench to Bed-Side.,0.27595334242242997,1,1,0
+q05,kidney disease renal outcomes,idf,2,35391537,GLP-1 receptor agonists in diabetic kidney disease: current evidence and future directions.,0.1935778019316344,1,7,5
+q05,kidney disease renal outcomes,idf,3,39142859,GLP-1 RAs and SGLT2-Is to Lower Glucose and Reduce the Risk of Cardiovascular and Diabetic Kidney Disease.,0.19243338284490943,1,5,2
+q05,kidney disease renal outcomes,idf,4,41808780,Glucagon-Like Peptide-1 Receptor Agonists in Chronic Kidney Disease: Mechanisms and Clinical Perspectives.,0.18078811716247345,1,2,-2
+q05,kidney disease renal outcomes,idf,5,30695005,Use of GLP-1 receptor agonists in patients with T2DM and chronic kidney disease.,0.1540559224835428,1,8,3
+q05,kidney disease renal outcomes,idf,6,38183334,Recent advances in the treatment of type 2 diabetes mellitus using new drug therapies.,0.15030633061842485,1,18,12
+q05,kidney disease renal outcomes,idf,7,41016281,GLP-1-based therapies for obesity: Impact on comorbidities or obesity-related diseases.,0.14280588793085133,1,16,9
+q05,kidney disease renal outcomes,idf,8,34922691,Kidney Outcomes With Glucagon-Like Peptide-1 Receptor Agonists in Patients With Type 2 Diabetes.,0.1359462814668679,1,3,-5
+q05,kidney disease renal outcomes,idf,9,42195123,"The Emerging Role of Glucagon-like Peptide 1 (GLP-1)-Based Medications in the Treatment of Heart Failure, with a Focus on Heart Failure with Preserved or Mildly Reduced Ejection Fraction.",0.13572232994792152,1,20,11
+q05,kidney disease renal outcomes,idf,10,31795376,Renal Tubular Glucagon-Like Peptide-1 Receptor Expression Is Increased in Early Sepsis but Reduced in Chronic Kidney Disease and Sepsis-Induced Kidney Injury.,0.1350911612612448,1,6,-4
+q05,kidney disease renal outcomes,tfidf,1,41808780,Glucagon-Like Peptide-1 Receptor Agonists in Chronic Kidney Disease: Mechanisms and Clinical Perspectives.,0.41302997049267687,1,2,1
+q05,kidney disease renal outcomes,tfidf,2,34922691,Kidney Outcomes With Glucagon-Like Peptide-1 Receptor Agonists in Patients With Type 2 Diabetes.,0.3841850808510074,1,3,1
+q05,kidney disease renal outcomes,tfidf,3,39768655,Glucagon-like Peptide-1 Receptor Agonists and Diabetic Kidney Disease: From Bench to Bed-Side.,0.36955511737566815,1,1,-2
+q05,kidney disease renal outcomes,tfidf,4,37813741,Glucagon-like peptide 1(GLP-1) receptor agonists in the management of the patient with type 2diabetes mellitus and chronic kidney disease: an approach for the nephrologist.,0.3536224905183553,1,4,0
+q05,kidney disease renal outcomes,tfidf,5,30110568,GLP-1 receptor agonists in diabetic kidney disease: from the patient-side to the bench-side.,0.3119434148252416,1,10,5
+q05,kidney disease renal outcomes,tfidf,6,32518100,Decision Algorithm for Prescribing SGLT2 Inhibitors and GLP-1 Receptor Agonists for Diabetic Kidney Disease.,0.2997725264964879,1,9,3
+q05,kidney disease renal outcomes,tfidf,7,31795376,Renal Tubular Glucagon-Like Peptide-1 Receptor Expression Is Increased in Early Sepsis but Reduced in Chronic Kidney Disease and Sepsis-Induced Kidney Injury.,0.29226758050269447,1,6,-1
+q05,kidney disease renal outcomes,tfidf,8,32390511,GLP-1-induced renal vasodilation in rodents depends exclusively on the known GLP-1 receptor and is lost in prehypertensive rats.,0.2886212580174581,1,21,13
+q05,kidney disease renal outcomes,tfidf,9,39142859,GLP-1 RAs and SGLT2-Is to Lower Glucose and Reduce the Risk of Cardiovascular and Diabetic Kidney Disease.,0.2696710153611783,1,5,-4
+q05,kidney disease renal outcomes,tfidf,10,35391537,GLP-1 receptor agonists in diabetic kidney disease: current evidence and future directions.,0.2541688910399412,1,7,-3
+q05,kidney disease renal outcomes,log_tfidf,1,39768655,Glucagon-like Peptide-1 Receptor Agonists and Diabetic Kidney Disease: From Bench to Bed-Side.,0.35674479079123234,1,1,0
+q05,kidney disease renal outcomes,log_tfidf,2,41808780,Glucagon-Like Peptide-1 Receptor Agonists in Chronic Kidney Disease: Mechanisms and Clinical Perspectives.,0.3085988754262586,1,2,0
+q05,kidney disease renal outcomes,log_tfidf,3,34922691,Kidney Outcomes With Glucagon-Like Peptide-1 Receptor Agonists in Patients With Type 2 Diabetes.,0.2647167740133849,1,3,0
+q05,kidney disease renal outcomes,log_tfidf,4,37813741,Glucagon-like peptide 1(GLP-1) receptor agonists in the management of the patient with type 2diabetes mellitus and chronic kidney disease: an approach for the nephrologist.,0.25828872226857785,1,4,0
+q05,kidney disease renal outcomes,log_tfidf,5,39142859,GLP-1 RAs and SGLT2-Is to Lower Glucose and Reduce the Risk of Cardiovascular and Diabetic Kidney Disease.,0.250695058693048,1,5,0
+q05,kidney disease renal outcomes,log_tfidf,6,31795376,Renal Tubular Glucagon-Like Peptide-1 Receptor Expression Is Increased in Early Sepsis but Reduced in Chronic Kidney Disease and Sepsis-Induced Kidney Injury.,0.24091345570955466,1,6,0
+q05,kidney disease renal outcomes,log_tfidf,7,35391537,GLP-1 receptor agonists in diabetic kidney disease: current evidence and future directions.,0.24086581202911192,1,7,0
+q05,kidney disease renal outcomes,log_tfidf,8,30695005,Use of GLP-1 receptor agonists in patients with T2DM and chronic kidney disease.,0.22162206016888203,1,8,0
+q05,kidney disease renal outcomes,log_tfidf,9,32518100,Decision Algorithm for Prescribing SGLT2 Inhibitors and GLP-1 Receptor Agonists for Diabetic Kidney Disease.,0.20398870163762825,1,9,0
+q05,kidney disease renal outcomes,log_tfidf,10,30110568,GLP-1 receptor agonists in diabetic kidney disease: from the patient-side to the bench-side.,0.20182564567060138,1,10,0
+q05,kidney disease renal outcomes,tfidf_dot,1,31795376,Renal Tubular Glucagon-Like Peptide-1 Receptor Expression Is Increased in Early Sepsis but Reduced in Chronic Kidney Disease and Sepsis-Induced Kidney Injury.,261.13566584852396,1,6,5
+q05,kidney disease renal outcomes,tfidf_dot,2,32390511,GLP-1-induced renal vasodilation in rodents depends exclusively on the known GLP-1 receptor and is lost in prehypertensive rats.,221.1564893021047,1,21,19
+q05,kidney disease renal outcomes,tfidf_dot,3,32518100,Decision Algorithm for Prescribing SGLT2 Inhibitors and GLP-1 Receptor Agonists for Diabetic Kidney Disease.,195.8226415521301,1,9,6
+q05,kidney disease renal outcomes,tfidf_dot,4,34922691,Kidney Outcomes With Glucagon-Like Peptide-1 Receptor Agonists in Patients With Type 2 Diabetes.,182.87699292600945,1,3,-1
+q05,kidney disease renal outcomes,tfidf_dot,5,41808780,Glucagon-Like Peptide-1 Receptor Agonists in Chronic Kidney Disease: Mechanisms and Clinical Perspectives.,165.95125733978293,1,2,-3
+q05,kidney disease renal outcomes,tfidf_dot,6,37813741,Glucagon-like peptide 1(GLP-1) receptor agonists in the management of the patient with type 2diabetes mellitus and chronic kidney disease: an approach for the nephrologist.,153.8534215256579,1,4,-2
+q05,kidney disease renal outcomes,tfidf_dot,7,39583142,GLP-1 receptor agonists in patients with chronic kidney disease and either overweight or obesity.,134.9553983088139,1,12,5
+q05,kidney disease renal outcomes,tfidf_dot,8,38541083,A Review and Meta-Analysis of the Safety and Efficacy of Using Glucagon-like Peptide-1 Receptor Agonists.,108.87234229177793,1,11,3
+q05,kidney disease renal outcomes,tfidf_dot,9,30110568,GLP-1 receptor agonists in diabetic kidney disease: from the patient-side to the bench-side.,106.31394562748625,1,10,1
+q05,kidney disease renal outcomes,tfidf_dot,10,23463656,Glucagon-like peptide-1 (GLP-1): effect on kidney hemodynamics and renin-angiotensin-aldosterone system in healthy men.,99.99588029929079,0,14,4
+q05,kidney disease renal outcomes,log_tfidf_dot,1,31795376,Renal Tubular Glucagon-Like Peptide-1 Receptor Expression Is Increased in Early Sepsis but Reduced in Chronic Kidney Disease and Sepsis-Induced Kidney Injury.,110.63880504439643,1,6,5
+q05,kidney disease renal outcomes,log_tfidf_dot,2,41808780,Glucagon-Like Peptide-1 Receptor Agonists in Chronic Kidney Disease: Mechanisms and Clinical Perspectives.,98.81460629570383,1,2,0
+q05,kidney disease renal outcomes,log_tfidf_dot,3,37813741,Glucagon-like peptide 1(GLP-1) receptor agonists in the management of the patient with type 2diabetes mellitus and chronic kidney disease: an approach for the nephrologist.,88.41387322907292,1,4,1
+q05,kidney disease renal outcomes,log_tfidf_dot,4,34922691,Kidney Outcomes With Glucagon-Like Peptide-1 Receptor Agonists in Patients With Type 2 Diabetes.,81.2671599379877,1,3,-1
+q05,kidney disease renal outcomes,log_tfidf_dot,5,32518100,Decision Algorithm for Prescribing SGLT2 Inhibitors and GLP-1 Receptor Agonists for Diabetic Kidney Disease.,78.17058221968551,1,9,4
+q05,kidney disease renal outcomes,log_tfidf_dot,6,39583142,GLP-1 receptor agonists in patients with chronic kidney disease and either overweight or obesity.,74.79031509059541,1,12,6
+q05,kidney disease renal outcomes,log_tfidf_dot,7,39142859,GLP-1 RAs and SGLT2-Is to Lower Glucose and Reduce the Risk of Cardiovascular and Diabetic Kidney Disease.,74.04861010924883,1,5,-2
+q05,kidney disease renal outcomes,log_tfidf_dot,8,39768655,Glucagon-like Peptide-1 Receptor Agonists and Diabetic Kidney Disease: From Bench to Bed-Side.,72.10051471378674,1,1,-7
+q05,kidney disease renal outcomes,log_tfidf_dot,9,35391537,GLP-1 receptor agonists in diabetic kidney disease: current evidence and future directions.,71.36801730417562,1,7,-2
+q05,kidney disease renal outcomes,log_tfidf_dot,10,23463656,Glucagon-like peptide-1 (GLP-1): effect on kidney hemodynamics and renin-angiotensin-aldosterone system in healthy men.,67.64183375955355,0,14,4
+q06,glp1 pancreatitis,tf,1,32390511,GLP-1-induced renal vasodilation in rodents depends exclusively on the known GLP-1 receptor and is lost in prehypertensive rats.,0.4397604406832609,0,158,157
+q06,glp1 pancreatitis,tf,2,14759771,N-acetyl-GLP-1: a DPP IV-resistant analogue of glucagon-like peptide-1 (GLP-1) with improved effects on pancreatic beta-cell-associated gene expression.,0.41027636201357204,0,76,74
+q06,glp1 pancreatitis,tf,3,24641952,"Characterization of [¹²⁵I]GLP-1(9-36), a novel radiolabeled analog of the major metabolite of glucagon-like peptide 1 to a receptor distinct from GLP1-R and function of the peptide in murine aorta.",0.38340579025361626,0,221,218
+q06,glp1 pancreatitis,tf,4,9094161,Reciprocal cellular distribution of glucagon-like peptide-1 (GLP-1) immunoreactivity and GLP-1 receptor mRNA in pancreatic islets of rat.,0.37760502026694304,0,68,64
+q06,glp1 pancreatitis,tf,5,34620002,Pharmacotherapy for Type 2 Diabetes Mellitus: What's Up and Coming in the Glucagon-Like Peptide-1 (GLP-1) Pipeline?,0.37424059428255985,0,25,20
+q06,glp1 pancreatitis,tf,6,31646274,Mechanism of cardiovascular disease benefit of glucagon-like peptide 1 agonists.,0.3742275995918744,0,35,29
+q06,glp1 pancreatitis,tf,7,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,0.3741657386773941,1,3,-4
+q06,glp1 pancreatitis,tf,8,38591071,Practical guide: Glucagon-like peptide-1 and dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonists in diabetes mellitus.,0.3711537444790451,0,29,21
+q06,glp1 pancreatitis,tf,9,41202140,Engineered probiotic restores GLP-1 signaling to ameliorate fiber-deficiency exacerbated colitis.,0.37068123792912927,0,372,363
+q06,glp1 pancreatitis,tf,10,23837691,The gut-brain axis in the critically ill: is glucagon-like peptide-1 protective in neurocritical care?,0.36927447293799825,0,23,13
+q06,glp1 pancreatitis,log_tf,1,33951941,GLP-1 (Glucagon-Like Peptide-1) Is Physiologically Relevant for Chylomicron Secretion Beyond Its Known Pharmacological Role.,0.29151710592683566,0,22,21
+q06,glp1 pancreatitis,log_tf,2,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,0.28754995820040496,1,1,-1
+q06,glp1 pancreatitis,log_tf,3,27631851,"ETHNIC AND RACIAL DISPARITIES IN THE BEHAVIORAL, PHARMACOLOGIC, AND SURGICAL TREATMENT OF OBESITY.",0.28430372411025473,0,21,18
+q06,glp1 pancreatitis,log_tf,4,34336446,Acute Pancreatitis-Induced Euglycemic Diabetic Ketoacidosis.,0.283709280358402,1,2,-2
+q06,glp1 pancreatitis,log_tf,5,27180970,Is ghrelin a glucagon-like peptide-1 secretagogue?,0.276611551399433,0,19,14
+q06,glp1 pancreatitis,log_tf,6,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,0.27587527982106835,1,3,-3
+q06,glp1 pancreatitis,log_tf,7,40356540,Some Risks of Gastrointestinal Adverse Events Associated With Glucagon-Like PEPTIDE-1 Receptor Agonists Are Likely Explained by BMI.,0.27382864383638017,1,4,-3
+q06,glp1 pancreatitis,log_tf,8,20305008,Minireview: update on incretin biology: focus on glucagon-like peptide-1.,0.2311070014461462,1,9,1
+q06,glp1 pancreatitis,log_tf,9,23837691,The gut-brain axis in the critically ill: is glucagon-like peptide-1 protective in neurocritical care?,0.22933034772814445,0,23,14
+q06,glp1 pancreatitis,log_tf,10,39697577,Glucagon Like Peptide -1 Receptor Agonists for Weight Loss: A Primary Care Perspective.,0.22472468095563927,0,18,8
+q06,glp1 pancreatitis,idf,1,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,0.18783232082967177,1,1,0
+q06,glp1 pancreatitis,idf,2,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,0.15615448065791385,1,3,1
+q06,glp1 pancreatitis,idf,3,34336446,Acute Pancreatitis-Induced Euglycemic Diabetic Ketoacidosis.,0.151303247299273,1,2,-1
+q06,glp1 pancreatitis,idf,4,40356540,Some Risks of Gastrointestinal Adverse Events Associated With Glucagon-Like PEPTIDE-1 Receptor Agonists Are Likely Explained by BMI.,0.15129271770176417,1,4,0
+q06,glp1 pancreatitis,idf,5,20305008,Minireview: update on incretin biology: focus on glucagon-like peptide-1.,0.1502005124474553,1,9,4
+q06,glp1 pancreatitis,idf,6,42021007,"GLP-1 receptor agonists: The good, the bad, and the ugly-A comprehensive guide for NPs.",0.138404627100778,1,11,5
+q06,glp1 pancreatitis,idf,7,41416056,Injectable drugs for weight management.,0.13261927665970683,1,10,3
+q06,glp1 pancreatitis,idf,8,30058866,A systematic review of the safety of incretin-based therapies in type 2 diabetes.,0.12551141729006488,1,6,-2
+q06,glp1 pancreatitis,idf,9,38022107,Atypical Presentation of a Preexisting Pancreatic Pseudocyst with Glucagon-Like Peptide-1 Agonist as a Possible Trigger for Exacerbation: A Case Report.,0.1228953690413461,1,12,3
+q06,glp1 pancreatitis,idf,10,41903227,"Glucagon-like peptide-1 drugs, gastrointestinal function and critical illness.",0.11055087979943978,1,14,4
+q06,glp1 pancreatitis,tfidf,1,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,0.36821999971870806,1,1,0
+q06,glp1 pancreatitis,tfidf,2,34336446,Acute Pancreatitis-Induced Euglycemic Diabetic Ketoacidosis.,0.34881384127398946,1,2,0
+q06,glp1 pancreatitis,tfidf,3,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,0.2936147320966322,1,3,0
+q06,glp1 pancreatitis,tfidf,4,37252522,Liraglutide-Induced Pancreatitis: A Case Report and Literature Review.,0.2436775182454869,1,5,1
+q06,glp1 pancreatitis,tfidf,5,40356540,Some Risks of Gastrointestinal Adverse Events Associated With Glucagon-Like PEPTIDE-1 Receptor Agonists Are Likely Explained by BMI.,0.20761635947118257,1,4,-1
+q06,glp1 pancreatitis,tfidf,6,30058866,A systematic review of the safety of incretin-based therapies in type 2 diabetes.,0.16987131191800525,1,6,0
+q06,glp1 pancreatitis,tfidf,7,39598383,GLP-1 Receptor Agonists: A Promising Therapy for Modern Lifestyle Diseases with Unforeseen Challenges.,0.15131911286626717,1,7,0
+q06,glp1 pancreatitis,tfidf,8,20305008,Minireview: update on incretin biology: focus on glucagon-like peptide-1.,0.1419880056914767,1,9,1
+q06,glp1 pancreatitis,tfidf,9,25496749,Potential side effects to GLP-1 agonists: understanding their safety and tolerability.,0.13313382312932626,1,8,-1
+q06,glp1 pancreatitis,tfidf,10,41416056,Injectable drugs for weight management.,0.11483456117895158,1,10,0
+q06,glp1 pancreatitis,log_tfidf,1,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,0.313790958048568,1,1,0
+q06,glp1 pancreatitis,log_tfidf,2,34336446,Acute Pancreatitis-Induced Euglycemic Diabetic Ketoacidosis.,0.27150172093202674,1,2,0
+q06,glp1 pancreatitis,log_tfidf,3,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,0.2519047043372002,1,3,0
+q06,glp1 pancreatitis,log_tfidf,4,40356540,Some Risks of Gastrointestinal Adverse Events Associated With Glucagon-Like PEPTIDE-1 Receptor Agonists Are Likely Explained by BMI.,0.20363550629003532,1,4,0
+q06,glp1 pancreatitis,log_tfidf,5,37252522,Liraglutide-Induced Pancreatitis: A Case Report and Literature Review.,0.2022489883780839,1,5,0
+q06,glp1 pancreatitis,log_tfidf,6,30058866,A systematic review of the safety of incretin-based therapies in type 2 diabetes.,0.17255138571380485,1,6,0
+q06,glp1 pancreatitis,log_tfidf,7,39598383,GLP-1 Receptor Agonists: A Promising Therapy for Modern Lifestyle Diseases with Unforeseen Challenges.,0.148405515759602,1,7,0
+q06,glp1 pancreatitis,log_tfidf,8,25496749,Potential side effects to GLP-1 agonists: understanding their safety and tolerability.,0.14660164105820456,1,8,0
+q06,glp1 pancreatitis,log_tfidf,9,20305008,Minireview: update on incretin biology: focus on glucagon-like peptide-1.,0.140203833693402,1,9,0
+q06,glp1 pancreatitis,log_tfidf,10,41416056,Injectable drugs for weight management.,0.12250424084963353,1,10,0
+q06,glp1 pancreatitis,tfidf_dot,1,34336446,Acute Pancreatitis-Induced Euglycemic Diabetic Ketoacidosis.,104.7526886040122,1,2,1
+q06,glp1 pancreatitis,tfidf_dot,2,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,79.56852045434516,1,1,-1
+q06,glp1 pancreatitis,tfidf_dot,3,37252522,Liraglutide-Induced Pancreatitis: A Case Report and Literature Review.,78.56451645300916,1,5,2
+q06,glp1 pancreatitis,tfidf_dot,4,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,55.3883563060141,1,3,-1
+q06,glp1 pancreatitis,tfidf_dot,5,40356540,Some Risks of Gastrointestinal Adverse Events Associated With Glucagon-Like PEPTIDE-1 Receptor Agonists Are Likely Explained by BMI.,55.3883563060141,1,4,-1
+q06,glp1 pancreatitis,tfidf_dot,6,39598383,GLP-1 Receptor Agonists: A Promising Therapy for Modern Lifestyle Diseases with Unforeseen Challenges.,55.3883563060141,1,7,1
+q06,glp1 pancreatitis,tfidf_dot,7,30058866,A systematic review of the safety of incretin-based therapies in type 2 diabetes.,53.3803483033421,1,6,-1
+q06,glp1 pancreatitis,tfidf_dot,8,25496749,Potential side effects to GLP-1 agonists: understanding their safety and tolerability.,53.3803483033421,1,8,0
+q06,glp1 pancreatitis,tfidf_dot,9,42012593,Integrated Evidence from VigiBase and Clinical Trials: A Comprehensive Pharmacovigilance Analysis of Seven Glucagon-Like Peptide 1 Receptor Agonists (GLP-1 RAs).,34.22020416169106,1,16,7
+q06,glp1 pancreatitis,tfidf_dot,10,20305008,Minireview: update on incretin biology: focus on glucagon-like peptide-1.,34.22020416169106,1,9,-1
+q06,glp1 pancreatitis,log_tfidf_dot,1,34336446,Acute Pancreatitis-Induced Euglycemic Diabetic Ketoacidosis.,62.49268753197555,1,2,1
+q06,glp1 pancreatitis,log_tfidf_dot,2,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,55.2476538457052,1,1,-1
+q06,glp1 pancreatitis,log_tfidf_dot,3,37252522,Liraglutide-Induced Pancreatitis: A Case Report and Literature Review.,54.95881989385098,1,5,2
+q06,glp1 pancreatitis,log_tfidf_dot,4,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,45.260389402678044,1,3,-1
+q06,glp1 pancreatitis,log_tfidf_dot,5,40356540,Some Risks of Gastrointestinal Adverse Events Associated With Glucagon-Like PEPTIDE-1 Receptor Agonists Are Likely Explained by BMI.,45.260389402678044,1,4,-1
+q06,glp1 pancreatitis,log_tfidf_dot,6,39598383,GLP-1 Receptor Agonists: A Promising Therapy for Modern Lifestyle Diseases with Unforeseen Challenges.,45.260389402678044,1,7,1
+q06,glp1 pancreatitis,log_tfidf_dot,7,30058866,A systematic review of the safety of incretin-based therapies in type 2 diabetes.,44.74751843243203,1,6,-1
+q06,glp1 pancreatitis,log_tfidf_dot,8,25496749,Potential side effects to GLP-1 agonists: understanding their safety and tolerability.,44.74751843243203,1,8,0
+q06,glp1 pancreatitis,log_tfidf_dot,9,42012593,Integrated Evidence from VigiBase and Clinical Trials: A Comprehensive Pharmacovigilance Analysis of Seven Glucagon-Like Peptide 1 Receptor Agonists (GLP-1 RAs).,28.39419441848242,1,16,7
+q06,glp1 pancreatitis,log_tfidf_dot,10,20305008,Minireview: update on incretin biology: focus on glucagon-like peptide-1.,28.39419441848242,1,9,-1
+q07,gastric emptying glp1,tf,1,9790467,Glucagon-like peptide-1 retards gastric emptying and small bowel transit in the rat: effect mediated through central or enteric nervous mechanisms.,0.46579713069851236,1,3,2
+q07,gastric emptying glp1,tf,2,12814786,"Central, but not peripheral, glucagon-like peptide-1 inhibits crop emptying in chicks.",0.4564354645876385,0,11,9
+q07,gastric emptying glp1,tf,3,23992745,Effects of the GLP-1 receptor agonist lixisenatide on postprandial glucose and gastric emptying--preclinical evidence.,0.40824829046386313,1,1,-2
+q07,gastric emptying glp1,tf,4,1972810,Effect of glucagon-like peptide-1 on gastric somatostatin and gastrin secretion in the rat.,0.3896432500995983,0,37,33
+q07,gastric emptying glp1,tf,5,37616174,Particulate Gastric Contents in Patients Prescribed Glucagon-Like Peptide 1 Receptor Agonists After Appropriate Perioperative Fasting: A Report of 2 Cases.,0.3872983346207418,1,8,3
+q07,gastric emptying glp1,tf,6,35662413,An inter-organ neural circuit for appetite suppression.,0.3698001308168195,1,45,39
+q07,gastric emptying glp1,tf,7,34620002,Pharmacotherapy for Type 2 Diabetes Mellitus: What's Up and Coming in the Glucagon-Like Peptide-1 (GLP-1) Pipeline?,0.3666793988112846,1,25,18
+q07,gastric emptying glp1,tf,8,34717897,Phytochemicals modulate pancreatic islet β cell function through glucagon-like peptide-1-related mechanisms.,0.36155076303109374,1,30,22
+q07,gastric emptying glp1,tf,9,32390511,GLP-1-induced renal vasodilation in rodents depends exclusively on the known GLP-1 receptor and is lost in prehypertensive rats.,0.3590628962451527,0,240,231
+q07,gastric emptying glp1,tf,10,12846732,Effects of glucagon-like peptide-1 and feeding on gastric volumes in diabetes mellitus with cardio-vagal dysfunction.,0.35314489433832774,0,33,23
+q07,gastric emptying glp1,log_tf,1,9790467,Glucagon-like peptide-1 retards gastric emptying and small bowel transit in the rat: effect mediated through central or enteric nervous mechanisms.,0.3324533540147433,1,3,2
+q07,gastric emptying glp1,log_tf,2,37616174,Particulate Gastric Contents in Patients Prescribed Glucagon-Like Peptide 1 Receptor Agonists After Appropriate Perioperative Fasting: A Report of 2 Cases.,0.3203272086839338,1,8,6
+q07,gastric emptying glp1,log_tf,3,23992745,Effects of the GLP-1 receptor agonist lixisenatide on postprandial glucose and gastric emptying--preclinical evidence.,0.30605938733051735,1,1,-2
+q07,gastric emptying glp1,log_tf,4,12814786,"Central, but not peripheral, glucagon-like peptide-1 inhibits crop emptying in chicks.",0.3024790917196324,0,11,7
+q07,gastric emptying glp1,log_tf,5,39761379,"Effects of Metformin on Postprandial Blood Pressure, Heart Rate, Gastric Emptying, GLP-1, and Prevalence of Postprandial Hypotension in Type 2 Diabetes: A Double-Blind Placebo-Controlled Crossover Study.",0.301387853660901,1,2,-3
+q07,gastric emptying glp1,log_tf,6,38305719,Point-of-Care Gastric Ultrasound to Identify a Full Stomach on a Diabetic Patient Taking a Glucagon-Like Peptide 1 Receptor Agonist.,0.29100872248667,1,6,0
+q07,gastric emptying glp1,log_tf,7,24368666,Regulation of gastric emptying rate and its role in nutrient-induced GLP-1 secretion in rats after vertical sleeve gastrectomy.,0.28666916090240124,1,9,2
+q07,gastric emptying glp1,log_tf,8,11790437,"Interactions between gastric emptying and satiety, with special reference to glucagon-like peptide-1.",0.2863266835087081,1,4,-4
+q07,gastric emptying glp1,log_tf,9,38043694,Low Incidence of Pulmonary Aspiration During Upper Endoscopy in Patients Prescribed a Glucagon-Like Peptide 1 Receptor Agonist.,0.2828923521197721,1,14,5
+q07,gastric emptying glp1,log_tf,10,39649679,GLP-1 receptor agonists and delayed gastric emptying: implications for invasive cardiac interventions and surgery.,0.28155211207252545,1,10,0
+q07,gastric emptying glp1,idf,1,39734391,Semaglutide-Associated Gastric Pneumatosis.,0.17871869500058946,1,5,4
+q07,gastric emptying glp1,idf,2,39663564,Guidance on Preoperative Management of Hand Surgery Patients Taking GLP-1 Receptor Agonists.,0.17831645858965864,1,16,14
+q07,gastric emptying glp1,idf,3,40359555,Glucagon-like-peptide-1 (GLP-1) receptor agonist use and the risk of pulmonary aspiration in patients undergoing surgery.,0.17104387255521716,1,32,29
+q07,gastric emptying glp1,idf,4,37616174,Particulate Gastric Contents in Patients Prescribed Glucagon-Like Peptide 1 Receptor Agonists After Appropriate Perioperative Fasting: A Report of 2 Cases.,0.17052722787955726,1,8,4
+q07,gastric emptying glp1,idf,5,38305719,Point-of-Care Gastric Ultrasound to Identify a Full Stomach on a Diabetic Patient Taking a Glucagon-Like Peptide 1 Receptor Agonist.,0.16837579247539194,1,6,1
+q07,gastric emptying glp1,idf,6,39761379,"Effects of Metformin on Postprandial Blood Pressure, Heart Rate, Gastric Emptying, GLP-1, and Prevalence of Postprandial Hypotension in Type 2 Diabetes: A Double-Blind Placebo-Controlled Crossover Study.",0.1643518367501201,1,2,-4
+q07,gastric emptying glp1,idf,7,38043694,Low Incidence of Pulmonary Aspiration During Upper Endoscopy in Patients Prescribed a Glucagon-Like Peptide 1 Receptor Agonist.,0.16268770601919316,1,14,7
+q07,gastric emptying glp1,idf,8,33916501,GLP-1 and Intestinal Diseases.,0.1535612749539685,1,21,13
+q07,gastric emptying glp1,idf,9,39443044,Perioperative Considerations for Patients on GLP1 Agonists.,0.1531688153932239,1,19,10
+q07,gastric emptying glp1,idf,10,18353723,"Glucagon-like peptide-1, glucose homeostasis and diabetes.",0.15192223827416018,1,24,14
+q07,gastric emptying glp1,tfidf,1,23992745,Effects of the GLP-1 receptor agonist lixisenatide on postprandial glucose and gastric emptying--preclinical evidence.,0.3988135948512117,1,1,0
+q07,gastric emptying glp1,tfidf,2,9790467,Glucagon-like peptide-1 retards gastric emptying and small bowel transit in the rat: effect mediated through central or enteric nervous mechanisms.,0.3450165936962642,1,3,1
+q07,gastric emptying glp1,tfidf,3,24368666,Regulation of gastric emptying rate and its role in nutrient-induced GLP-1 secretion in rats after vertical sleeve gastrectomy.,0.31891423074603203,1,9,6
+q07,gastric emptying glp1,tfidf,4,11790437,"Interactions between gastric emptying and satiety, with special reference to glucagon-like peptide-1.",0.30301955245455137,1,4,0
+q07,gastric emptying glp1,tfidf,5,12814786,"Central, but not peripheral, glucagon-like peptide-1 inhibits crop emptying in chicks.",0.26076834273017224,0,11,6
+q07,gastric emptying glp1,tfidf,6,36977934,"Semaglutide, delayed gastric emptying, and intraoperative pulmonary aspiration: a case report.",0.2503400581837781,1,13,7
+q07,gastric emptying glp1,tfidf,7,39649679,GLP-1 receptor agonists and delayed gastric emptying: implications for invasive cardiac interventions and surgery.,0.24991088116299076,1,10,3
+q07,gastric emptying glp1,tfidf,8,38305719,Point-of-Care Gastric Ultrasound to Identify a Full Stomach on a Diabetic Patient Taking a Glucagon-Like Peptide 1 Receptor Agonist.,0.24652113611512505,1,6,-2
+q07,gastric emptying glp1,tfidf,9,37616174,Particulate Gastric Contents in Patients Prescribed Glucagon-Like Peptide 1 Receptor Agonists After Appropriate Perioperative Fasting: A Report of 2 Cases.,0.23937188262575335,1,8,-1
+q07,gastric emptying glp1,tfidf,10,24716398,Can GLP-1 preparations be used in children and adolescents with diabetes mellitus?,0.23689292280240914,1,7,-3
+q07,gastric emptying glp1,log_tfidf,1,23992745,Effects of the GLP-1 receptor agonist lixisenatide on postprandial glucose and gastric emptying--preclinical evidence.,0.2562909023087221,1,1,0
+q07,gastric emptying glp1,log_tfidf,2,39761379,"Effects of Metformin on Postprandial Blood Pressure, Heart Rate, Gastric Emptying, GLP-1, and Prevalence of Postprandial Hypotension in Type 2 Diabetes: A Double-Blind Placebo-Controlled Crossover Study.",0.2370461590255594,1,2,0
+q07,gastric emptying glp1,log_tfidf,3,9790467,Glucagon-like peptide-1 retards gastric emptying and small bowel transit in the rat: effect mediated through central or enteric nervous mechanisms.,0.2355911155655703,1,3,0
+q07,gastric emptying glp1,log_tfidf,4,11790437,"Interactions between gastric emptying and satiety, with special reference to glucagon-like peptide-1.",0.22776548823317444,1,4,0
+q07,gastric emptying glp1,log_tfidf,5,39734391,Semaglutide-Associated Gastric Pneumatosis.,0.22090228966834285,1,5,0
+q07,gastric emptying glp1,log_tfidf,6,38305719,Point-of-Care Gastric Ultrasound to Identify a Full Stomach on a Diabetic Patient Taking a Glucagon-Like Peptide 1 Receptor Agonist.,0.21919025847605808,1,6,0
+q07,gastric emptying glp1,log_tfidf,7,24716398,Can GLP-1 preparations be used in children and adolescents with diabetes mellitus?,0.2188147089440719,1,7,0
+q07,gastric emptying glp1,log_tfidf,8,37616174,Particulate Gastric Contents in Patients Prescribed Glucagon-Like Peptide 1 Receptor Agonists After Appropriate Perioperative Fasting: A Report of 2 Cases.,0.20861000900550125,1,8,0
+q07,gastric emptying glp1,log_tfidf,9,24368666,Regulation of gastric emptying rate and its role in nutrient-induced GLP-1 secretion in rats after vertical sleeve gastrectomy.,0.20418365259047888,1,9,0
+q07,gastric emptying glp1,log_tfidf,10,39649679,GLP-1 receptor agonists and delayed gastric emptying: implications for invasive cardiac interventions and surgery.,0.1957134355466084,1,10,0
+q07,gastric emptying glp1,tfidf_dot,1,24368666,Regulation of gastric emptying rate and its role in nutrient-induced GLP-1 secretion in rats after vertical sleeve gastrectomy.,164.50308267527384,1,9,8
+q07,gastric emptying glp1,tfidf_dot,2,23992745,Effects of the GLP-1 receptor agonist lixisenatide on postprandial glucose and gastric emptying--preclinical evidence.,136.03573163532093,1,1,-1
+q07,gastric emptying glp1,tfidf_dot,3,9790467,Glucagon-like peptide-1 retards gastric emptying and small bowel transit in the rat: effect mediated through central or enteric nervous mechanisms.,115.37111769877276,1,3,0
+q07,gastric emptying glp1,tfidf_dot,4,12846732,Effects of glucagon-like peptide-1 and feeding on gastric volumes in diabetes mellitus with cardio-vagal dysfunction.,102.9232021438644,0,33,29
+q07,gastric emptying glp1,tfidf_dot,5,12814786,"Central, but not peripheral, glucagon-like peptide-1 inhibits crop emptying in chicks.",93.28853848265359,0,11,6
+q07,gastric emptying glp1,tfidf_dot,6,11790437,"Interactions between gastric emptying and satiety, with special reference to glucagon-like peptide-1.",88.00010384563174,1,4,-2
+q07,gastric emptying glp1,tfidf_dot,7,39649679,GLP-1 receptor agonists and delayed gastric emptying: implications for invasive cardiac interventions and surgery.,83.5310068389941,1,10,3
+q07,gastric emptying glp1,tfidf_dot,8,36977934,"Semaglutide, delayed gastric emptying, and intraoperative pulmonary aspiration: a case report.",72.80859091705723,1,13,5
+q07,gastric emptying glp1,tfidf_dot,9,39761379,"Effects of Metformin on Postprandial Blood Pressure, Heart Rate, Gastric Emptying, GLP-1, and Prevalence of Postprandial Hypotension in Type 2 Diabetes: A Double-Blind Placebo-Controlled Crossover Study.",69.02186981899646,1,2,-7
+q07,gastric emptying glp1,tfidf_dot,10,15245878,Effects of centrally injected GLP-1 in various experimental models of gastric mucosal damage.,63.962730089257846,0,55,45
+q07,gastric emptying glp1,log_tfidf_dot,1,24368666,Regulation of gastric emptying rate and its role in nutrient-induced GLP-1 secretion in rats after vertical sleeve gastrectomy.,67.14401284670147,1,9,8
+q07,gastric emptying glp1,log_tfidf_dot,2,23992745,Effects of the GLP-1 receptor agonist lixisenatide on postprandial glucose and gastric emptying--preclinical evidence.,63.29650699104562,1,1,-1
+q07,gastric emptying glp1,log_tfidf_dot,3,9790467,Glucagon-like peptide-1 retards gastric emptying and small bowel transit in the rat: effect mediated through central or enteric nervous mechanisms.,59.500618734392404,1,3,0
+q07,gastric emptying glp1,log_tfidf_dot,4,11790437,"Interactions between gastric emptying and satiety, with special reference to glucagon-like peptide-1.",52.717161087144284,1,4,0
+q07,gastric emptying glp1,log_tfidf_dot,5,39649679,GLP-1 receptor agonists and delayed gastric emptying: implications for invasive cardiac interventions and surgery.,51.413902999841966,1,10,5
+q07,gastric emptying glp1,log_tfidf_dot,6,39761379,"Effects of Metformin on Postprandial Blood Pressure, Heart Rate, Gastric Emptying, GLP-1, and Prevalence of Postprandial Hypotension in Type 2 Diabetes: A Double-Blind Placebo-Controlled Crossover Study.",47.869876969827835,1,2,-4
+q07,gastric emptying glp1,log_tfidf_dot,7,36977934,"Semaglutide, delayed gastric emptying, and intraoperative pulmonary aspiration: a case report.",46.38695334246753,1,13,6
+q07,gastric emptying glp1,log_tfidf_dot,8,40116433,Perioperative Practice Patterns of Anaesthesiologists Surrounding Glucagon-Like Peptide-1 (GLP-1) Agonist Medications.,43.62743685354193,1,41,33
+q07,gastric emptying glp1,log_tfidf_dot,9,41723539,Perioperative anesthesia management of GLP-1 receptor agonists: a systematic review of potential risks.,43.49337080104294,1,20,11
+q07,gastric emptying glp1,log_tfidf_dot,10,26500045,Gastrointestinal actions of glucagon-like peptide-1-based therapies: glycaemic control beyond the pancreas.,39.89818563697458,1,17,7
+q08,nausea vomiting adverse effects,tf,1,40866246,In Silico Exploration of Therapeutics for GLP-1 Receptor Agonist-Induced Nausea and Their in Vivo Validation in Mice.,0.2622313504781496,1,1,0
+q08,nausea vomiting adverse effects,tf,2,41884101,Gastrointestinal Adverse Effects of GLP-1 and Dual GLP-1/GIP Receptor Agonists: A Comprehensive Update in Diabetic and Obese Populations.,0.2242806520081283,1,4,2
+q08,nausea vomiting adverse effects,tf,3,41819567,Evaluating the Safety Profile of Glucagon-Like Peptide-1 Receptor Agonists: Adverse Events and Clinical Recommendations.,0.21320071635561044,0,15,12
+q08,nausea vomiting adverse effects,tf,4,35902330,GLP-1 agonists: superior for mind and body in antipsychotic-treated patients?,0.20842196696139478,0,24,20
+q08,nausea vomiting adverse effects,tf,5,41716526,Beyond weight loss: Effect of GLP-1 receptor agonist therapy on the urological health.,0.20801257358446093,0,21,16
+q08,nausea vomiting adverse effects,tf,6,29682682,Molecular and clinical roles of incretin-based drugs in patients with heart failure.,0.19824558013652693,0,27,21
+q08,nausea vomiting adverse effects,tf,7,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,0.1889822365046136,1,3,-4
+q08,nausea vomiting adverse effects,tf,8,39858999,The Beneficial Effects of GLP-1 Receptor Agonists Other than Their Anti-Diabetic and Anti-Obesity Properties.,0.16293763397807054,0,97,89
+q08,nausea vomiting adverse effects,tf,9,39734391,Semaglutide-Associated Gastric Pneumatosis.,0.16012815380508713,0,20,11
+q08,nausea vomiting adverse effects,tf,10,26005496,Lipoprotein effects of incretin analogs and dipeptidyl peptidase 4 inhibitors.,0.14870447912898288,0,111,101
+q08,nausea vomiting adverse effects,log_tf,1,40866246,In Silico Exploration of Therapeutics for GLP-1 Receptor Agonist-Induced Nausea and Their in Vivo Validation in Mice.,0.27422120565487523,1,1,0
+q08,nausea vomiting adverse effects,log_tf,2,41884101,Gastrointestinal Adverse Effects of GLP-1 and Dual GLP-1/GIP Receptor Agonists: A Comprehensive Update in Diabetic and Obese Populations.,0.22632355926676928,1,4,2
+q08,nausea vomiting adverse effects,log_tf,3,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,0.21278082815763968,1,3,0
+q08,nausea vomiting adverse effects,log_tf,4,41819567,Evaluating the Safety Profile of Glucagon-Like Peptide-1 Receptor Agonists: Adverse Events and Clinical Recommendations.,0.1844620598446151,0,15,11
+q08,nausea vomiting adverse effects,log_tf,5,39507503,Tirzepatide-Associated Colonic Ischemia.,0.1820884027374793,1,2,-3
+q08,nausea vomiting adverse effects,log_tf,6,41716526,Beyond weight loss: Effect of GLP-1 receptor agonist therapy on the urological health.,0.17983989367956774,0,21,15
+q08,nausea vomiting adverse effects,log_tf,7,39734391,Semaglutide-Associated Gastric Pneumatosis.,0.1753539914910601,0,20,13
+q08,nausea vomiting adverse effects,log_tf,8,35223310,An Uncommon Case of Dulaglutide-Related Morbilliform Drug Eruption.,0.17051411871553374,1,12,4
+q08,nausea vomiting adverse effects,log_tf,9,35902330,GLP-1 agonists: superior for mind and body in antipsychotic-treated patients?,0.16873416638045688,0,24,15
+q08,nausea vomiting adverse effects,log_tf,10,36614945,Clinical Recommendations to Manage Gastrointestinal Adverse Events in Patients Treated with Glp-1 Receptor Agonists: A Multidisciplinary Expert Consensus.,0.1657585746495064,1,5,-5
+q08,nausea vomiting adverse effects,idf,1,39507503,Tirzepatide-Associated Colonic Ischemia.,0.3046415014816964,1,2,1
+q08,nausea vomiting adverse effects,idf,2,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,0.24257248861364378,1,3,1
+q08,nausea vomiting adverse effects,idf,3,40866246,In Silico Exploration of Therapeutics for GLP-1 Receptor Agonist-Induced Nausea and Their in Vivo Validation in Mice.,0.19302782760675852,1,1,-2
+q08,nausea vomiting adverse effects,idf,4,37552238,Incretins beyond type 2 diabetes.,0.19089709276815575,1,7,3
+q08,nausea vomiting adverse effects,idf,5,40022548,The promise of glucagon-like peptide 1 receptor agonists (GLP-1RA) for the treatment of obesity: a look at phase 2 and 3 pipelines.,0.17301881332303123,1,9,4
+q08,nausea vomiting adverse effects,idf,6,41884101,Gastrointestinal Adverse Effects of GLP-1 and Dual GLP-1/GIP Receptor Agonists: A Comprehensive Update in Diabetic and Obese Populations.,0.17088689860632958,1,4,-2
+q08,nausea vomiting adverse effects,idf,7,37252522,Liraglutide-Induced Pancreatitis: A Case Report and Literature Review.,0.16781962385092158,1,8,1
+q08,nausea vomiting adverse effects,idf,8,41848415,Efficacy and safety of glucagon-like peptide-1 (GLP-1) agonists in pediatric obesity: A systematic review and meta-analysis.,0.15976168701890758,1,10,2
+q08,nausea vomiting adverse effects,idf,9,34176783,The Role of GIP in the Regulation of GLP-1 Satiety and Nausea.,0.15318846995650215,1,6,-3
+q08,nausea vomiting adverse effects,idf,10,36614945,Clinical Recommendations to Manage Gastrointestinal Adverse Events in Patients Treated with Glp-1 Receptor Agonists: A Multidisciplinary Expert Consensus.,0.14514283006556358,1,5,-5
+q08,nausea vomiting adverse effects,tfidf,1,40866246,In Silico Exploration of Therapeutics for GLP-1 Receptor Agonist-Induced Nausea and Their in Vivo Validation in Mice.,0.45182093390294,1,1,0
+q08,nausea vomiting adverse effects,tfidf,2,41884101,Gastrointestinal Adverse Effects of GLP-1 and Dual GLP-1/GIP Receptor Agonists: A Comprehensive Update in Diabetic and Obese Populations.,0.23671540419011594,1,4,2
+q08,nausea vomiting adverse effects,tfidf,3,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,0.2257765265267821,1,3,0
+q08,nausea vomiting adverse effects,tfidf,4,36614945,Clinical Recommendations to Manage Gastrointestinal Adverse Events in Patients Treated with Glp-1 Receptor Agonists: A Multidisciplinary Expert Consensus.,0.21148564887048937,1,5,1
+q08,nausea vomiting adverse effects,tfidf,5,39507503,Tirzepatide-Associated Colonic Ischemia.,0.18967465205031167,1,2,-3
+q08,nausea vomiting adverse effects,tfidf,6,34176783,The Role of GIP in the Regulation of GLP-1 Satiety and Nausea.,0.16533043948475662,1,6,0
+q08,nausea vomiting adverse effects,tfidf,7,37552238,Incretins beyond type 2 diabetes.,0.16018364236628982,1,7,0
+q08,nausea vomiting adverse effects,tfidf,8,41819567,Evaluating the Safety Profile of Glucagon-Like Peptide-1 Receptor Agonists: Adverse Events and Clinical Recommendations.,0.15852193150977828,0,15,7
+q08,nausea vomiting adverse effects,tfidf,9,37252522,Liraglutide-Induced Pancreatitis: A Case Report and Literature Review.,0.13210171114832361,1,8,-1
+q08,nausea vomiting adverse effects,tfidf,10,40022548,The promise of glucagon-like peptide 1 receptor agonists (GLP-1RA) for the treatment of obesity: a look at phase 2 and 3 pipelines.,0.11871137677894318,1,9,-1
+q08,nausea vomiting adverse effects,log_tfidf,1,40866246,In Silico Exploration of Therapeutics for GLP-1 Receptor Agonist-Induced Nausea and Their in Vivo Validation in Mice.,0.3431640431467559,1,1,0
+q08,nausea vomiting adverse effects,log_tfidf,2,39507503,Tirzepatide-Associated Colonic Ischemia.,0.23687372948386504,1,2,0
+q08,nausea vomiting adverse effects,log_tfidf,3,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,0.23378646937424363,1,3,0
+q08,nausea vomiting adverse effects,log_tfidf,4,41884101,Gastrointestinal Adverse Effects of GLP-1 and Dual GLP-1/GIP Receptor Agonists: A Comprehensive Update in Diabetic and Obese Populations.,0.2039946913961987,1,4,0
+q08,nausea vomiting adverse effects,log_tfidf,5,36614945,Clinical Recommendations to Manage Gastrointestinal Adverse Events in Patients Treated with Glp-1 Receptor Agonists: A Multidisciplinary Expert Consensus.,0.20327005581432667,1,5,0
+q08,nausea vomiting adverse effects,log_tfidf,6,34176783,The Role of GIP in the Regulation of GLP-1 Satiety and Nausea.,0.17727723372104837,1,6,0
+q08,nausea vomiting adverse effects,log_tfidf,7,37552238,Incretins beyond type 2 diabetes.,0.1768357432028028,1,7,0
+q08,nausea vomiting adverse effects,log_tfidf,8,37252522,Liraglutide-Induced Pancreatitis: A Case Report and Literature Review.,0.15457894527027116,1,8,0
+q08,nausea vomiting adverse effects,log_tfidf,9,40022548,The promise of glucagon-like peptide 1 receptor agonists (GLP-1RA) for the treatment of obesity: a look at phase 2 and 3 pipelines.,0.14444341443164654,1,9,0
+q08,nausea vomiting adverse effects,log_tfidf,10,41848415,Efficacy and safety of glucagon-like peptide-1 (GLP-1) agonists in pediatric obesity: A systematic review and meta-analysis.,0.12882192805311432,1,10,0
+q08,nausea vomiting adverse effects,tfidf_dot,1,40866246,In Silico Exploration of Therapeutics for GLP-1 Receptor Agonist-Induced Nausea and Their in Vivo Validation in Mice.,274.5962333706719,1,1,0
+q08,nausea vomiting adverse effects,tfidf_dot,2,36614945,Clinical Recommendations to Manage Gastrointestinal Adverse Events in Patients Treated with Glp-1 Receptor Agonists: A Multidisciplinary Expert Consensus.,120.45469628409565,1,5,3
+q08,nausea vomiting adverse effects,tfidf_dot,3,41884101,Gastrointestinal Adverse Effects of GLP-1 and Dual GLP-1/GIP Receptor Agonists: A Comprehensive Update in Diabetic and Obese Populations.,113.86906561399792,1,4,1
+q08,nausea vomiting adverse effects,tfidf_dot,4,34176783,The Role of GIP in the Regulation of GLP-1 Satiety and Nausea.,74.00442258210995,1,6,2
+q08,nausea vomiting adverse effects,tfidf_dot,5,38738836,Thyroid Hyperplasia and Neoplasm Adverse Events Associated With Glucagon-Like Peptide-1 Receptor Agonists in the Food and Drug Administration Adverse Event Reporting System: Retrospective Analysis.,67.1103325490219,0,31,26
+q08,nausea vomiting adverse effects,tfidf_dot,6,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,66.16167865711594,1,3,-3
+q08,nausea vomiting adverse effects,tfidf_dot,7,37252522,Liraglutide-Induced Pancreatitis: A Case Report and Literature Review.,66.16167865711594,1,8,1
+q08,nausea vomiting adverse effects,tfidf_dot,8,39507503,Tirzepatide-Associated Colonic Ischemia.,63.19451339958188,1,2,-6
+q08,nausea vomiting adverse effects,tfidf_dot,9,41848415,Efficacy and safety of glucagon-like peptide-1 (GLP-1) agonists in pediatric obesity: A systematic review and meta-analysis.,63.19451339958188,1,10,1
+q08,nausea vomiting adverse effects,tfidf_dot,10,33880754,The therapeutic potential of GLP-1 receptor biased agonism.,61.109315154635226,1,13,3
+q08,nausea vomiting adverse effects,log_tfidf_dot,1,40866246,In Silico Exploration of Therapeutics for GLP-1 Receptor Agonist-Induced Nausea and Their in Vivo Validation in Mice.,150.05398686595595,1,1,0
+q08,nausea vomiting adverse effects,log_tfidf_dot,2,36614945,Clinical Recommendations to Manage Gastrointestinal Adverse Events in Patients Treated with Glp-1 Receptor Agonists: A Multidisciplinary Expert Consensus.,101.97376469931054,1,5,3
+q08,nausea vomiting adverse effects,log_tfidf_dot,3,41884101,Gastrointestinal Adverse Effects of GLP-1 and Dual GLP-1/GIP Receptor Agonists: A Comprehensive Update in Diabetic and Obese Populations.,84.45592986742722,1,4,1
+q08,nausea vomiting adverse effects,log_tfidf_dot,4,34176783,The Role of GIP in the Regulation of GLP-1 Satiety and Nausea.,67.25520567885579,1,6,2
+q08,nausea vomiting adverse effects,log_tfidf_dot,5,41020937,GLP-1 receptor agonists and acute pancreatitis: fact or overstated risk?,65.25119563209702,1,3,-2
+q08,nausea vomiting adverse effects,log_tfidf_dot,6,37252522,Liraglutide-Induced Pancreatitis: A Case Report and Literature Review.,65.25119563209702,1,8,2
+q08,nausea vomiting adverse effects,log_tfidf_dot,7,39507503,Tirzepatide-Associated Colonic Ischemia.,63.19451339958188,1,2,-5
+q08,nausea vomiting adverse effects,log_tfidf_dot,8,41848415,Efficacy and safety of glucagon-like peptide-1 (GLP-1) agonists in pediatric obesity: A systematic review and meta-analysis.,63.19451339958188,1,10,2
+q08,nausea vomiting adverse effects,log_tfidf_dot,9,40022548,The promise of glucagon-like peptide 1 receptor agonists (GLP-1RA) for the treatment of obesity: a look at phase 2 and 3 pipelines.,60.22734814204782,1,9,0
+q08,nausea vomiting adverse effects,log_tfidf_dot,10,40269635,Clinical Outcomes of Glucagon-Like Peptide-1 Receptor Agonist (GLP-1 RA) and Glucagon-Like Peptide-1/Glucose-Dependent Insulinotropic Polypeptide Receptor Agonist (GLP-1/GIP RA) Exposures Presenting to the Emergency Department.,56.122822439775206,1,17,7
+q09,insulin secretion glp1,tf,1,8839251,"Effects of glucagon-like peptide-1 (GLP-1) in RINm5F insulinoma cells. Stimulation of insulin secretion, insulin content, and insulin receptor binding.",0.6458333333333335,1,1,0
+q09,insulin secretion glp1,tf,2,24725840,Glucagon-like peptide 1-potentiated insulin secretion and proliferation of pancreatic β-cells.,0.48058931620556006,1,2,0
+q09,insulin secretion glp1,tf,3,40899781,Oral administration of l-lysine potently promotes glucagon-like peptide-1 secretion and lowers glycemic response in rats.,0.4757860680698066,0,59,56
+q09,insulin secretion glp1,tf,4,29981198,Acute administration of interleukin-6 does not increase secretion of glucagon-like peptide-1 in mice.,0.4753493972715873,1,9,5
+q09,insulin secretion glp1,tf,5,7956929,Glucagon-like peptide-1(7-36) amide (GLP-1) enhances insulin-stimulated glucose metabolism in 3T3-L1 adipocytes: one of several potential extrapancreatic sites of GLP-1 action.,0.46902858368074685,1,34,29
+q09,insulin secretion glp1,tf,6,40026256,Taurine promotes glucagon-like peptide-1 secretion in enteroendocrine L cells.,0.46823004346345587,1,15,9
+q09,insulin secretion glp1,tf,7,8102959,Effects of glucagon-like peptide-1(7-36)amide on the concentrations of insulin and glucose in sheep.,0.44484736939544506,1,14,7
+q09,insulin secretion glp1,tf,8,40108209,Insights into GLP-1 and insulin secretion mechanisms in pasireotide-induced hyperglycemia highlight effectiveness of Gs-targeting diabetes treatment.,0.4427188724235731,1,26,18
+q09,insulin secretion glp1,tf,9,25437377,"Chromanol 293B, an inhibitor of KCNQ1 channels, enhances glucose-stimulated insulin secretion and increases glucagon-like peptide-1 level in mice.",0.42559614127914525,1,16,7
+q09,insulin secretion glp1,tf,10,8614271,Potentiation of glucagon-like peptide 1 insulinotropic action by succinic acid dimethyl ester.,0.4254159878239348,1,20,10
+q09,insulin secretion glp1,log_tf,1,8839251,"Effects of glucagon-like peptide-1 (GLP-1) in RINm5F insulinoma cells. Stimulation of insulin secretion, insulin content, and insulin receptor binding.",0.3962336065898283,1,1,0
+q09,insulin secretion glp1,log_tf,2,33951941,GLP-1 (Glucagon-Like Peptide-1) Is Physiologically Relevant for Chylomicron Secretion Beyond Its Known Pharmacological Role.,0.3786027732070009,0,55,53
+q09,insulin secretion glp1,log_tf,3,27180970,Is ghrelin a glucagon-like peptide-1 secretagogue?,0.3592444434022341,0,31,28
+q09,insulin secretion glp1,log_tf,4,24725840,Glucagon-like peptide 1-potentiated insulin secretion and proliferation of pancreatic β-cells.,0.34863891314648043,1,2,-2
+q09,insulin secretion glp1,log_tf,5,40026256,Taurine promotes glucagon-like peptide-1 secretion in enteroendocrine L cells.,0.33898927399947165,1,15,10
+q09,insulin secretion glp1,log_tf,6,9436865,The ethanol augmentation of glucose-induced insulin secretion is abolished by calcium antagonism with nifedipine: no evidence for a role of glucagon-like peptide-1 (GLP-1).,0.3384655754705181,1,11,5
+q09,insulin secretion glp1,log_tf,7,8102959,Effects of glucagon-like peptide-1(7-36)amide on the concentrations of insulin and glucose in sheep.,0.33769533458613016,1,14,7
+q09,insulin secretion glp1,log_tf,8,8614271,Potentiation of glucagon-like peptide 1 insulinotropic action by succinic acid dimethyl ester.,0.3286918630696259,1,20,12
+q09,insulin secretion glp1,log_tf,9,33082272,Updating the Role of α-Cell Preproglucagon Products on GLP-1 Receptor-Mediated Insulin Secretion.,0.32336225827776166,1,3,-6
+q09,insulin secretion glp1,log_tf,10,29981198,Acute administration of interleukin-6 does not increase secretion of glucagon-like peptide-1 in mice.,0.3221361057494717,1,9,-1
+q09,insulin secretion glp1,idf,1,27180970,Is ghrelin a glucagon-like peptide-1 secretagogue?,0.15195313771572194,0,31,30
+q09,insulin secretion glp1,idf,2,27160799,Glucagon-Like Peptide-1 Receptor Agonists: Beta-Cell Protection or Exhaustion?,0.14794590807847466,1,50,48
+q09,insulin secretion glp1,idf,3,16610399,New therapies for type 2 diabetes based on glucagon-like peptide 1.,0.14778154453651363,1,4,1
+q09,insulin secretion glp1,idf,4,40607157,Regulation of glucose metabolism by incretins: implications for treatment of type 2 diabetes.,0.12894109572018156,1,5,1
+q09,insulin secretion glp1,idf,5,17964919,Bariatric surgery for morbid obesity--a cure for metabolic syndrome?,0.12506739218262442,1,70,65
+q09,insulin secretion glp1,idf,6,37731423,Acute Pancreatitis in a Patient Taking Semaglutide.,0.12158896765907257,1,93,87
+q09,insulin secretion glp1,idf,7,21811909,The development of non-peptide glucagon-like peptide-1 receptor agonist for the treatment of type 2 diabetes.,0.11416632020856333,1,64,57
+q09,insulin secretion glp1,idf,8,39316579,Liraglutide innovations: a comprehensive review of patents (2014-2024).,0.11295111534558824,1,45,37
+q09,insulin secretion glp1,idf,9,8102959,Effects of glucagon-like peptide-1(7-36)amide on the concentrations of insulin and glucose in sheep.,0.11268259584628382,1,14,5
+q09,insulin secretion glp1,idf,10,33951941,GLP-1 (Glucagon-Like Peptide-1) Is Physiologically Relevant for Chylomicron Secretion Beyond Its Known Pharmacological Role.,0.11257746549162267,0,55,45
+q09,insulin secretion glp1,tfidf,1,8839251,"Effects of glucagon-like peptide-1 (GLP-1) in RINm5F insulinoma cells. Stimulation of insulin secretion, insulin content, and insulin receptor binding.",0.4369305780243994,1,1,0
+q09,insulin secretion glp1,tfidf,2,24725840,Glucagon-like peptide 1-potentiated insulin secretion and proliferation of pancreatic β-cells.,0.32409977343584706,1,2,0
+q09,insulin secretion glp1,tfidf,3,33082272,Updating the Role of α-Cell Preproglucagon Products on GLP-1 Receptor-Mediated Insulin Secretion.,0.31086242687623383,1,3,0
+q09,insulin secretion glp1,tfidf,4,29981198,Acute administration of interleukin-6 does not increase secretion of glucagon-like peptide-1 in mice.,0.28921102452054537,1,9,5
+q09,insulin secretion glp1,tfidf,5,7956929,Glucagon-like peptide-1(7-36) amide (GLP-1) enhances insulin-stimulated glucose metabolism in 3T3-L1 adipocytes: one of several potential extrapancreatic sites of GLP-1 action.,0.2720959595313163,1,34,29
+q09,insulin secretion glp1,tfidf,6,25437377,"Chromanol 293B, an inhibitor of KCNQ1 channels, enhances glucose-stimulated insulin secretion and increases glucagon-like peptide-1 level in mice.",0.2674294486726359,1,16,10
+q09,insulin secretion glp1,tfidf,7,26774018,Physiological aspects of the combination of insulin and GLP-1 in the regulation of blood glucose control.,0.2551312567281062,1,17,10
+q09,insulin secretion glp1,tfidf,8,40899781,Oral administration of l-lysine potently promotes glucagon-like peptide-1 secretion and lowers glycemic response in rats.,0.24016607980212643,0,59,51
+q09,insulin secretion glp1,tfidf,9,15619630,Free fatty acids regulate gut incretin glucagon-like peptide-1 secretion through GPR120.,0.23509510893636862,1,8,-1
+q09,insulin secretion glp1,tfidf,10,26573176,Treatment potential of the GLP-1 receptor agonists in type 2 diabetes mellitus: a review.,0.23421382937029592,1,6,-4
+q09,insulin secretion glp1,log_tfidf,1,8839251,"Effects of glucagon-like peptide-1 (GLP-1) in RINm5F insulinoma cells. Stimulation of insulin secretion, insulin content, and insulin receptor binding.",0.21239699918570681,1,1,0
+q09,insulin secretion glp1,log_tfidf,2,24725840,Glucagon-like peptide 1-potentiated insulin secretion and proliferation of pancreatic β-cells.,0.20142544585357347,1,2,0
+q09,insulin secretion glp1,log_tfidf,3,33082272,Updating the Role of α-Cell Preproglucagon Products on GLP-1 Receptor-Mediated Insulin Secretion.,0.18841951241972157,1,3,0
+q09,insulin secretion glp1,log_tfidf,4,16610399,New therapies for type 2 diabetes based on glucagon-like peptide 1.,0.1857088533045687,1,4,0
+q09,insulin secretion glp1,log_tfidf,5,40607157,Regulation of glucose metabolism by incretins: implications for treatment of type 2 diabetes.,0.1802133717146036,1,5,0
+q09,insulin secretion glp1,log_tfidf,6,26573176,Treatment potential of the GLP-1 receptor agonists in type 2 diabetes mellitus: a review.,0.17802003498647886,1,6,0
+q09,insulin secretion glp1,log_tfidf,7,18640589,GLP-1 receptor signaling: effects on pancreatic beta-cell proliferation and survival.,0.17586229290123542,1,7,0
+q09,insulin secretion glp1,log_tfidf,8,15619630,Free fatty acids regulate gut incretin glucagon-like peptide-1 secretion through GPR120.,0.17446126243896162,1,8,0
+q09,insulin secretion glp1,log_tfidf,9,29981198,Acute administration of interleukin-6 does not increase secretion of glucagon-like peptide-1 in mice.,0.17188673873133872,1,9,0
+q09,insulin secretion glp1,log_tfidf,10,28674521,Ghrelin Is a Regulator of Glucagon-Like Peptide 1 Secretion and Transcription in Mice.,0.167144575091203,1,10,0
+q09,insulin secretion glp1,tfidf_dot,1,8839251,"Effects of glucagon-like peptide-1 (GLP-1) in RINm5F insulinoma cells. Stimulation of insulin secretion, insulin content, and insulin receptor binding.",115.34539544797062,1,1,0
+q09,insulin secretion glp1,tfidf_dot,2,25437377,"Chromanol 293B, an inhibitor of KCNQ1 channels, enhances glucose-stimulated insulin secretion and increases glucagon-like peptide-1 level in mice.",95.75124181744206,1,16,14
+q09,insulin secretion glp1,tfidf_dot,3,29981198,Acute administration of interleukin-6 does not increase secretion of glucagon-like peptide-1 in mice.,76.18909472840025,1,9,6
+q09,insulin secretion glp1,tfidf_dot,4,29940597,Farnesoid X Receptor (FXR) Interacts with Camp Response Element Binding Protein (CREB) to Modulate Glucagon-Like Peptide-1 (7-36) Amide (GLP-1) Secretion by Intestinal L Cell.,75.55598931077799,1,85,81
+q09,insulin secretion glp1,tfidf_dot,5,33533304,Carbonic anhydrase 8 (CAR8) negatively regulates GLP-1 secretion from enteroendocrine cells in response to long-chain fatty acids.,70.90686788781173,1,91,86
+q09,insulin secretion glp1,tfidf_dot,6,26097706,Ingestion of coffee polyphenols increases postprandial release of the active glucagon-like peptide-1 (GLP-1(7-36)) amide in C57BL/6J mice.,67.21707179934978,1,28,22
+q09,insulin secretion glp1,tfidf_dot,7,33082272,Updating the Role of α-Cell Preproglucagon Products on GLP-1 Receptor-Mediated Insulin Secretion.,66.84617321563604,1,3,-4
+q09,insulin secretion glp1,tfidf_dot,8,40108209,Insights into GLP-1 and insulin secretion mechanisms in pasireotide-induced hyperglycemia highlight effectiveness of Gs-targeting diabetes treatment.,65.88051181845927,1,26,18
+q09,insulin secretion glp1,tfidf_dot,9,39918794,Voltage-gated calcium channel α2δ-1 subunit is involved in the regulation of glucose-stimulated GLP-1 secretion in mice.,64.582294441728,1,58,49
+q09,insulin secretion glp1,tfidf_dot,10,29199179,"On the relationship between glucose absorption and glucose-stimulated secretion of GLP-1, neurotensin, and PYY from different intestinal segments in the rat.",61.237726458165476,0,144,134
+q09,insulin secretion glp1,log_tfidf_dot,1,8839251,"Effects of glucagon-like peptide-1 (GLP-1) in RINm5F insulinoma cells. Stimulation of insulin secretion, insulin content, and insulin receptor binding.",35.60299944648121,1,1,0
+q09,insulin secretion glp1,log_tfidf_dot,2,25437377,"Chromanol 293B, an inhibitor of KCNQ1 channels, enhances glucose-stimulated insulin secretion and increases glucagon-like peptide-1 level in mice.",34.67827834857232,1,16,14
+q09,insulin secretion glp1,log_tfidf_dot,3,33082272,Updating the Role of α-Cell Preproglucagon Products on GLP-1 Receptor-Mediated Insulin Secretion.,30.790684462444908,1,3,0
+q09,insulin secretion glp1,log_tfidf_dot,4,29981198,Acute administration of interleukin-6 does not increase secretion of glucagon-like peptide-1 in mice.,30.538362953026045,1,9,5
+q09,insulin secretion glp1,log_tfidf_dot,5,26097706,Ingestion of coffee polyphenols increases postprandial release of the active glucagon-like peptide-1 (GLP-1(7-36)) amide in C57BL/6J mice.,30.484204050327293,1,28,23
+q09,insulin secretion glp1,log_tfidf_dot,6,40108209,Insights into GLP-1 and insulin secretion mechanisms in pasireotide-induced hyperglycemia highlight effectiveness of Gs-targeting diabetes treatment.,30.083900409940696,1,26,20
+q09,insulin secretion glp1,log_tfidf_dot,7,41604435,Exenatide induces an enhanced endogenous glucagon-like peptide-1 secretory response in patients receiving basal insulin.,29.331097973579602,1,63,56
+q09,insulin secretion glp1,log_tfidf_dot,8,24725840,Glucagon-like peptide 1-potentiated insulin secretion and proliferation of pancreatic β-cells.,29.225315594276317,1,2,-6
+q09,insulin secretion glp1,log_tfidf_dot,9,29940597,Farnesoid X Receptor (FXR) Interacts with Camp Response Element Binding Protein (CREB) to Modulate Glucagon-Like Peptide-1 (7-36) Amide (GLP-1) Secretion by Intestinal L Cell.,29.022503583291265,1,85,76
+q09,insulin secretion glp1,log_tfidf_dot,10,32721233,GLP1R Single-Nucleotide Polymorphisms rs3765467 and rs10305492 Affect β Cell Insulin Secretory Capacity and Apoptosis Through GLP-1.,28.63337919733327,1,32,22
+q10,appetite food intake,tf,1,9163555,Intracerebroventricular injection of mammalian and chicken glucagon-like peptide-1 inhibits food intake of the neonatal chick.,0.285471640841884,1,5,4
+q10,appetite food intake,tf,2,41991393,A fuel partitioning perspective on appetite suppression by GLP-1 receptor agonists.,0.28038607704602214,1,1,-1
+q10,appetite food intake,tf,3,15655718,Gastrointestinal hormones and regulation of food intake.,0.26261286571944514,1,3,0
+q10,appetite food intake,tf,4,34882959,Colonic Delivery of α-Linolenic Acid by an Advanced Nutrient Delivery System Prolongs Glucagon-Like Peptide-1 Secretion and Inhibits Food Intake in Mice.,0.251643673194013,1,21,17
+q10,appetite food intake,tf,5,11481412,A glucagon-like peptide-1 receptor agonist and an antagonist modify macronutrient selection by rats.,0.25102185616940254,1,9,4
+q10,appetite food intake,tf,6,26909313,Dissociation of GLP-1 and insulin association with food processing in the brain: GLP-1 sensitivity despite insulin resistance in obese humans.,0.24963099610883482,1,11,5
+q10,appetite food intake,tf,7,24955496,Ability of GLP-1 to decrease food intake is dependent on nutritional status.,0.23382096883561268,1,24,17
+q10,appetite food intake,tf,8,22000927,The gut hormones PYY 3-36 and GLP-1 7-36 amide reduce food intake and modulate brain activity in appetite centers in humans.,0.2245738456177384,1,2,-6
+q10,appetite food intake,tf,9,37088166,Elucidating the central anorexigenic mechanism of glucagon-like peptide 1 in Japanese quail (Coturnix japonica).,0.22016804419356945,1,7,-2
+q10,appetite food intake,tf,10,29056294,Enhanced AMPA Receptor Trafficking Mediates the Anorexigenic Effect of Endogenous Glucagon-like Peptide-1 in the Paraventricular Hypothalamus.,0.21994295969128602,1,18,8
+q10,appetite food intake,log_tf,1,41991393,A fuel partitioning perspective on appetite suppression by GLP-1 receptor agonists.,0.2709311895408484,1,1,0
+q10,appetite food intake,log_tf,2,22000927,The gut hormones PYY 3-36 and GLP-1 7-36 amide reduce food intake and modulate brain activity in appetite centers in humans.,0.2587266387209107,1,2,0
+q10,appetite food intake,log_tf,3,9163555,Intracerebroventricular injection of mammalian and chicken glucagon-like peptide-1 inhibits food intake of the neonatal chick.,0.24269831661234276,1,5,2
+q10,appetite food intake,log_tf,4,37088166,Elucidating the central anorexigenic mechanism of glucagon-like peptide 1 in Japanese quail (Coturnix japonica).,0.23142012338556484,1,7,3
+q10,appetite food intake,log_tf,5,15655718,Gastrointestinal hormones and regulation of food intake.,0.22767476665148478,1,3,-2
+q10,appetite food intake,log_tf,6,30608904,Effects of CCK-8 and GLP-1 on fatty acid sensing and food intake regulation in trout.,0.21331766226843993,1,10,4
+q10,appetite food intake,log_tf,7,11481412,A glucagon-like peptide-1 receptor agonist and an antagonist modify macronutrient selection by rats.,0.2108559043324882,1,9,2
+q10,appetite food intake,log_tf,8,17267112,"Effect of glucagon-like peptide-1 and -2 on regulation of food intake, body temperature and locomotor activity in the Japanese quail.",0.20806304146675597,1,13,5
+q10,appetite food intake,log_tf,9,9350983,Leptin interacts with glucagon-like peptide-1 neurons to reduce food intake and body weight in rodents.,0.20661834208115118,1,8,-1
+q10,appetite food intake,log_tf,10,24323912,Effects of glucagon-like peptide 1 on appetite and body weight: focus on the CNS.,0.20566510437918345,1,4,-6
+q10,appetite food intake,idf,1,41991393,A fuel partitioning perspective on appetite suppression by GLP-1 receptor agonists.,0.23026247049376308,1,1,0
+q10,appetite food intake,idf,2,24323912,Effects of glucagon-like peptide 1 on appetite and body weight: focus on the CNS.,0.1653146554517005,1,4,2
+q10,appetite food intake,idf,3,22000927,The gut hormones PYY 3-36 and GLP-1 7-36 amide reduce food intake and modulate brain activity in appetite centers in humans.,0.16021182979260323,1,2,-1
+q10,appetite food intake,idf,4,35231672,GLP-1 - Incretin and pleiotropic hormone with pharmacotherapy potential. Increasing secretion of endogenous GLP-1 for diabetes and obesity therapy.,0.1429559696542758,1,16,12
+q10,appetite food intake,idf,5,38788902,The impact of GLP-1 signalling on the energy metabolism of pancreatic islet β-cells and extrapancreatic tissues.,0.14198317086236362,1,15,10
+q10,appetite food intake,idf,6,27722184,The physiological role of the brain GLP-1 system in stress.,0.140054903190424,1,6,0
+q10,appetite food intake,idf,7,30459715,Future Perspectives on GLP-1 Receptor Agonists and GLP-1/glucagon Receptor Co-agonists in the Treatment of NAFLD.,0.13420342876508887,1,19,12
+q10,appetite food intake,idf,8,42450077,Therapeutic Potential of Glucagon-like Peptide-1 Receptor Agonists in Respiratory Disorders.,0.13243584270569456,1,12,4
+q10,appetite food intake,idf,9,37088166,Elucidating the central anorexigenic mechanism of glucagon-like peptide 1 in Japanese quail (Coturnix japonica).,0.12997932645896648,1,7,-2
+q10,appetite food intake,idf,10,25580583,Anti-obesogenic effects of calcium prevent changes in the GLP-1 profile in adult rats primed by early weaning.,0.12660334679875312,1,38,28
+q10,appetite food intake,tfidf,1,9163555,Intracerebroventricular injection of mammalian and chicken glucagon-like peptide-1 inhibits food intake of the neonatal chick.,0.3112113027030259,1,5,4
+q10,appetite food intake,tfidf,2,22000927,The gut hormones PYY 3-36 and GLP-1 7-36 amide reduce food intake and modulate brain activity in appetite centers in humans.,0.2955880685714136,1,2,0
+q10,appetite food intake,tfidf,3,41991393,A fuel partitioning perspective on appetite suppression by GLP-1 receptor agonists.,0.2954544268876858,1,1,-2
+q10,appetite food intake,tfidf,4,26909313,Dissociation of GLP-1 and insulin association with food processing in the brain: GLP-1 sensitivity despite insulin resistance in obese humans.,0.2937645671947577,1,11,7
+q10,appetite food intake,tfidf,5,15655718,Gastrointestinal hormones and regulation of food intake.,0.27349333596511627,1,3,-2
+q10,appetite food intake,tfidf,6,30608904,Effects of CCK-8 and GLP-1 on fatty acid sensing and food intake regulation in trout.,0.26366689749633626,1,10,4
+q10,appetite food intake,tfidf,7,11481412,A glucagon-like peptide-1 receptor agonist and an antagonist modify macronutrient selection by rats.,0.23440555788340028,1,9,2
+q10,appetite food intake,tfidf,8,37088166,Elucidating the central anorexigenic mechanism of glucagon-like peptide 1 in Japanese quail (Coturnix japonica).,0.2303570897073569,1,7,-1
+q10,appetite food intake,tfidf,9,29056294,Enhanced AMPA Receptor Trafficking Mediates the Anorexigenic Effect of Endogenous Glucagon-like Peptide-1 in the Paraventricular Hypothalamus.,0.2229891198851211,1,18,9
+q10,appetite food intake,tfidf,10,24323912,Effects of glucagon-like peptide 1 on appetite and body weight: focus on the CNS.,0.21958013249529165,1,4,-6
+q10,appetite food intake,log_tfidf,1,41991393,A fuel partitioning perspective on appetite suppression by GLP-1 receptor agonists.,0.26859838859516294,1,1,0
+q10,appetite food intake,log_tfidf,2,22000927,The gut hormones PYY 3-36 and GLP-1 7-36 amide reduce food intake and modulate brain activity in appetite centers in humans.,0.26209850090572695,1,2,0
+q10,appetite food intake,log_tfidf,3,15655718,Gastrointestinal hormones and regulation of food intake.,0.21219295138739783,1,3,0
+q10,appetite food intake,log_tfidf,4,24323912,Effects of glucagon-like peptide 1 on appetite and body weight: focus on the CNS.,0.2108199732543946,1,4,0
+q10,appetite food intake,log_tfidf,5,9163555,Intracerebroventricular injection of mammalian and chicken glucagon-like peptide-1 inhibits food intake of the neonatal chick.,0.20684544631149182,1,5,0
+q10,appetite food intake,log_tfidf,6,27722184,The physiological role of the brain GLP-1 system in stress.,0.18683367556338779,1,6,0
+q10,appetite food intake,log_tfidf,7,37088166,Elucidating the central anorexigenic mechanism of glucagon-like peptide 1 in Japanese quail (Coturnix japonica).,0.18530806910660025,1,7,0
+q10,appetite food intake,log_tfidf,8,9350983,Leptin interacts with glucagon-like peptide-1 neurons to reduce food intake and body weight in rodents.,0.1806706246007286,1,8,0
+q10,appetite food intake,log_tfidf,9,11481412,A glucagon-like peptide-1 receptor agonist and an antagonist modify macronutrient selection by rats.,0.18007145800874205,1,9,0
+q10,appetite food intake,log_tfidf,10,30608904,Effects of CCK-8 and GLP-1 on fatty acid sensing and food intake regulation in trout.,0.17840677129232857,1,10,0
+q10,appetite food intake,tfidf_dot,1,24955496,Ability of GLP-1 to decrease food intake is dependent on nutritional status.,145.05721570979952,1,24,23
+q10,appetite food intake,tfidf_dot,2,26909313,Dissociation of GLP-1 and insulin association with food processing in the brain: GLP-1 sensitivity despite insulin resistance in obese humans.,132.83914576525595,1,11,9
+q10,appetite food intake,tfidf_dot,3,9163555,Intracerebroventricular injection of mammalian and chicken glucagon-like peptide-1 inhibits food intake of the neonatal chick.,124.33475632268531,1,5,2
+q10,appetite food intake,tfidf_dot,4,34882959,Colonic Delivery of α-Linolenic Acid by an Advanced Nutrient Delivery System Prolongs Glucagon-Like Peptide-1 Secretion and Inhibits Food Intake in Mice.,124.33475632268531,1,21,17
+q10,appetite food intake,tfidf_dot,5,30608904,Effects of CCK-8 and GLP-1 on fatty acid sensing and food intake regulation in trout.,124.33475632268531,1,10,5
+q10,appetite food intake,tfidf_dot,6,11481412,A glucagon-like peptide-1 receptor agonist and an antagonist modify macronutrient selection by rats.,104.85019043622871,1,9,3
+q10,appetite food intake,tfidf_dot,7,17267112,"Effect of glucagon-like peptide-1 and -2 on regulation of food intake, body temperature and locomotor activity in the Japanese quail.",103.61229693557108,1,13,6
+q10,appetite food intake,tfidf_dot,8,37088166,Elucidating the central anorexigenic mechanism of glucagon-like peptide 1 in Japanese quail (Coturnix japonica).,97.31373699405601,1,7,-1
+q10,appetite food intake,tfidf_dot,9,22000927,The gut hormones PYY 3-36 and GLP-1 7-36 amide reduce food intake and modulate brain activity in appetite centers in humans.,95.6967935549118,1,2,-7
+q10,appetite food intake,tfidf_dot,10,42772453,From mouth to colon: a framework for engineering food matrices to engage the satiety cascade and endogenous GLP-1 signalling.,88.53939005122568,1,28,18
+q10,appetite food intake,log_tfidf_dot,1,22000927,The gut hormones PYY 3-36 and GLP-1 7-36 amide reduce food intake and modulate brain activity in appetite centers in humans.,69.80842474147485,1,2,1
+q10,appetite food intake,log_tfidf_dot,2,37088166,Elucidating the central anorexigenic mechanism of glucagon-like peptide 1 in Japanese quail (Coturnix japonica).,63.873787429605756,1,7,5
+q10,appetite food intake,log_tfidf_dot,3,24955496,Ability of GLP-1 to decrease food intake is dependent on nutritional status.,61.04650342188632,1,24,21
+q10,appetite food intake,log_tfidf_dot,4,42772453,From mouth to colon: a framework for engineering food matrices to engage the satiety cascade and endogenous GLP-1 signalling.,60.823843588602266,1,28,24
+q10,appetite food intake,log_tfidf_dot,5,28506816,"Ghrelin suppresses cholecystokinin (CCK), peptide YY (PYY) and glucagon-like peptide-1 (GLP-1) in the intestine, and attenuates the anorectic effects of CCK, PYY and GLP-1 in goldfish (Carassius auratus).",59.50795836455677,1,26,21
+q10,appetite food intake,log_tfidf_dot,6,26909313,Dissociation of GLP-1 and insulin association with food processing in the brain: GLP-1 sensitivity despite insulin resistance in obese humans.,58.65287950406787,1,11,5
+q10,appetite food intake,log_tfidf_dot,7,27722184,The physiological role of the brain GLP-1 system in stress.,57.91230736682287,1,6,-1
+q10,appetite food intake,log_tfidf_dot,8,9163555,Intracerebroventricular injection of mammalian and chicken glucagon-like peptide-1 inhibits food intake of the neonatal chick.,57.85212221966991,1,5,-3
+q10,appetite food intake,log_tfidf_dot,9,34882959,Colonic Delivery of α-Linolenic Acid by an Advanced Nutrient Delivery System Prolongs Glucagon-Like Peptide-1 Secretion and Inhibits Food Intake in Mice.,57.85212221966991,1,21,12
+q10,appetite food intake,log_tfidf_dot,10,30608904,Effects of CCK-8 and GLP-1 on fatty acid sensing and food intake regulation in trout.,57.85212221966991,1,10,0
+q11,liver steatosis glp1,tf,1,36689199,"Comparative efficacy of glucagon-like peptide 1 (GLP-1) receptor agonists, pioglitazone and vitamin E for liver histology among patients with nonalcoholic fatty liver disease: systematic review and pilot network meta-analysis of randomized controlled trials.",0.3605613656862741,1,2,1
+q11,liver steatosis glp1,tf,2,32390511,GLP-1-induced renal vasodilation in rodents depends exclusively on the known GLP-1 receptor and is lost in prehypertensive rats.,0.3590628962451527,0,197,195
+q11,liver steatosis glp1,tf,3,2171922,Glucagon-like peptide-1(7-37) does not stimulate either hepatic glycogenolysis or ketogenesis.,0.3456429176891559,0,9,6
+q11,liver steatosis glp1,tf,4,14759771,N-acetyl-GLP-1: a DPP IV-resistant analogue of glucagon-like peptide-1 (GLP-1) with improved effects on pancreatic beta-cell-associated gene expression.,0.3349892468195476,0,123,119
+q11,liver steatosis glp1,tf,5,24641952,"Characterization of [¹²⁵I]GLP-1(9-36), a novel radiolabeled analog of the major metabolite of glucagon-like peptide 1 to a receptor distinct from GLP1-R and function of the peptide in murine aorta.",0.3130495168499706,0,257,252
+q11,liver steatosis glp1,tf,6,9094161,Reciprocal cellular distribution of glucagon-like peptide-1 (GLP-1) immunoreactivity and GLP-1 receptor mRNA in pancreatic islets of rat.,0.3083132079891038,0,115,109
+q11,liver steatosis glp1,tf,7,34620002,Pharmacotherapy for Type 2 Diabetes Mellitus: What's Up and Coming in the Glucagon-Like Peptide-1 (GLP-1) Pipeline?,0.3055661656760705,0,71,64
+q11,liver steatosis glp1,tf,8,31646274,Mechanism of cardiovascular disease benefit of glucagon-like peptide 1 agonists.,0.3055555555555556,0,81,73
+q11,liver steatosis glp1,tf,9,38591071,Practical guide: Glucagon-like peptide-1 and dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonists in diabetes mellitus.,0.30304576336566325,0,75,66
+q11,liver steatosis glp1,tf,10,41202140,Engineered probiotic restores GLP-1 signaling to ameliorate fiber-deficiency exacerbated colitis.,0.30265996338319107,0,404,394
+q11,liver steatosis glp1,log_tf,1,36689199,"Comparative efficacy of glucagon-like peptide 1 (GLP-1) receptor agonists, pioglitazone and vitamin E for liver histology among patients with nonalcoholic fatty liver disease: systematic review and pilot network meta-analysis of randomized controlled trials.",0.27387464416512586,1,2,1
+q11,liver steatosis glp1,log_tf,2,2171922,Glucagon-like peptide-1(7-37) does not stimulate either hepatic glycogenolysis or ketogenesis.,0.24936053199918828,0,9,7
+q11,liver steatosis glp1,log_tf,3,41360246,Kori-tofu ameliorates obesity and steatotic liver disease through enhancing GLP-1 production in the ileum.,0.2383432508385821,1,5,2
+q11,liver steatosis glp1,log_tf,4,33951941,GLP-1 (Glucagon-Like Peptide-1) Is Physiologically Relevant for Chylomicron Secretion Beyond Its Known Pharmacological Role.,0.23802272027120713,0,68,64
+q11,liver steatosis glp1,log_tf,5,27631851,"ETHNIC AND RACIAL DISPARITIES IN THE BEHAVIORAL, PHARMACOLOGIC, AND SURGICAL TREATMENT OF OBESITY.",0.23213301868104252,0,67,62
+q11,liver steatosis glp1,log_tf,6,29406832,Coagonist of glucagon-like peptide-1 and glucagon receptors ameliorates nonalcoholic fatty liver disease.,0.22934449107448868,1,1,-5
+q11,liver steatosis glp1,log_tf,7,27180970,Is ghrelin a glucagon-like peptide-1 secretagogue?,0.22585238596275103,0,65,58
+q11,liver steatosis glp1,log_tf,8,37191219,GLP-1 analogs and regional adiposity: A systematic review and meta-analysis.,0.21353594750855434,1,7,-1
+q11,liver steatosis glp1,log_tf,9,42292219,Efficacy and safety of GLP-1 receptor agonists in patients with metabolic-associated fatty liver diseases: an umbrella review.,0.20936504722230354,1,10,1
+q11,liver steatosis glp1,log_tf,10,25066109,GLP-1 receptor agonists: effects on the progression of non-alcoholic fatty liver disease.,0.20791091540492657,1,8,-2
+q11,liver steatosis glp1,idf,1,30533179,Treating nonalcoholic steatohepatitis with antidiabetic drugs: Will GLP-1 agonists end the struggle?,0.15724329229157194,1,4,3
+q11,liver steatosis glp1,idf,2,29406832,Coagonist of glucagon-like peptide-1 and glucagon receptors ameliorates nonalcoholic fatty liver disease.,0.1526908450394395,1,1,-1
+q11,liver steatosis glp1,idf,3,41360246,Kori-tofu ameliorates obesity and steatotic liver disease through enhancing GLP-1 production in the ileum.,0.15177892059194764,1,5,2
+q11,liver steatosis glp1,idf,4,33422984,Design of novel Xenopus GLP-1-based dual glucagon-like peptide 1 (GLP-1)/glucagon receptor agonists.,0.15163027460161507,1,3,-1
+q11,liver steatosis glp1,idf,5,36689199,"Comparative efficacy of glucagon-like peptide 1 (GLP-1) receptor agonists, pioglitazone and vitamin E for liver histology among patients with nonalcoholic fatty liver disease: systematic review and pilot network meta-analysis of randomized controlled trials.",0.15087626339482105,1,2,-3
+q11,liver steatosis glp1,idf,6,37191219,GLP-1 analogs and regional adiposity: A systematic review and meta-analysis.,0.140060140233864,1,7,1
+q11,liver steatosis glp1,idf,7,40735319,GLP-1 receptor agonists in IBD: exploring the crossroads of metabolism and inflammation.,0.11668438929682236,1,12,5
+q11,liver steatosis glp1,idf,8,34491605,Antiobesity therapeutics with complementary dual-agonist activities at glucagon and glucagon-like peptide 1 receptors.,0.10735316815515332,1,21,13
+q11,liver steatosis glp1,idf,9,42730175,GLP-1 (Glucagon-Like Peptide-1) and GIP (Glucose-Dependent Insulinotropic Polypeptide)/GLP-1 Receptor Agonists for Antipsychotic-Induced Weight Gain: A Narrative Review.,0.08837581515381673,1,20,11
+q11,liver steatosis glp1,idf,10,28431668,GLP-1 receptor agonists in NAFLD.,0.07885228019159778,1,6,-4
+q11,liver steatosis glp1,tfidf,1,29406832,Coagonist of glucagon-like peptide-1 and glucagon receptors ameliorates nonalcoholic fatty liver disease.,0.2609467853682411,1,1,0
+q11,liver steatosis glp1,tfidf,2,36689199,"Comparative efficacy of glucagon-like peptide 1 (GLP-1) receptor agonists, pioglitazone and vitamin E for liver histology among patients with nonalcoholic fatty liver disease: systematic review and pilot network meta-analysis of randomized controlled trials.",0.24842952380281516,1,2,0
+q11,liver steatosis glp1,tfidf,3,42292219,Efficacy and safety of GLP-1 receptor agonists in patients with metabolic-associated fatty liver diseases: an umbrella review.,0.16707984932092898,1,10,7
+q11,liver steatosis glp1,tfidf,4,33422984,Design of novel Xenopus GLP-1-based dual glucagon-like peptide 1 (GLP-1)/glucagon receptor agonists.,0.1540967816767652,1,3,-1
+q11,liver steatosis glp1,tfidf,5,28431668,GLP-1 receptor agonists in NAFLD.,0.1497556426416514,1,6,1
+q11,liver steatosis glp1,tfidf,6,2171922,Glucagon-like peptide-1(7-37) does not stimulate either hepatic glycogenolysis or ketogenesis.,0.14858079240416402,0,9,3
+q11,liver steatosis glp1,tfidf,7,30533179,Treating nonalcoholic steatohepatitis with antidiabetic drugs: Will GLP-1 agonists end the struggle?,0.1469829825869941,1,4,-3
+q11,liver steatosis glp1,tfidf,8,40722592,Glucagon-like Peptide-1 Receptor Agonists (GLP-1 RAs): A Pan-Steatotic Liver Disease Treatment?,0.14375681567960785,1,15,7
+q11,liver steatosis glp1,tfidf,9,25066109,GLP-1 receptor agonists: effects on the progression of non-alcoholic fatty liver disease.,0.14186075723964886,1,8,-1
+q11,liver steatosis glp1,tfidf,10,38612640,"Glucagon-like Peptide 1, Glucose-Dependent Insulinotropic Polypeptide, and Glucagon Receptor Agonists in Metabolic Dysfunction-Associated Steatotic Liver Disease: Novel Medication in New Liver Disease Nomenclature.",0.138665204118819,1,14,4
+q11,liver steatosis glp1,log_tfidf,1,29406832,Coagonist of glucagon-like peptide-1 and glucagon receptors ameliorates nonalcoholic fatty liver disease.,0.24237517402645387,1,1,0
+q11,liver steatosis glp1,log_tfidf,2,36689199,"Comparative efficacy of glucagon-like peptide 1 (GLP-1) receptor agonists, pioglitazone and vitamin E for liver histology among patients with nonalcoholic fatty liver disease: systematic review and pilot network meta-analysis of randomized controlled trials.",0.22010224977678244,1,2,0
+q11,liver steatosis glp1,log_tfidf,3,33422984,Design of novel Xenopus GLP-1-based dual glucagon-like peptide 1 (GLP-1)/glucagon receptor agonists.,0.17226146116308774,1,3,0
+q11,liver steatosis glp1,log_tfidf,4,30533179,Treating nonalcoholic steatohepatitis with antidiabetic drugs: Will GLP-1 agonists end the struggle?,0.16011490239602122,1,4,0
+q11,liver steatosis glp1,log_tfidf,5,41360246,Kori-tofu ameliorates obesity and steatotic liver disease through enhancing GLP-1 production in the ileum.,0.1548615938325232,1,5,0
+q11,liver steatosis glp1,log_tfidf,6,28431668,GLP-1 receptor agonists in NAFLD.,0.1365985643273229,1,6,0
+q11,liver steatosis glp1,log_tfidf,7,37191219,GLP-1 analogs and regional adiposity: A systematic review and meta-analysis.,0.13342262677963568,1,7,0
+q11,liver steatosis glp1,log_tfidf,8,25066109,GLP-1 receptor agonists: effects on the progression of non-alcoholic fatty liver disease.,0.12283826945860932,1,8,0
+q11,liver steatosis glp1,log_tfidf,9,2171922,Glucagon-like peptide-1(7-37) does not stimulate either hepatic glycogenolysis or ketogenesis.,0.11707289083199639,0,9,0
+q11,liver steatosis glp1,log_tfidf,10,42292219,Efficacy and safety of GLP-1 receptor agonists in patients with metabolic-associated fatty liver diseases: an umbrella review.,0.11066929594999905,1,10,0
+q11,liver steatosis glp1,tfidf_dot,1,29406832,Coagonist of glucagon-like peptide-1 and glucagon receptors ameliorates nonalcoholic fatty liver disease.,153.99102144054797,1,1,0
+q11,liver steatosis glp1,tfidf_dot,2,36689199,"Comparative efficacy of glucagon-like peptide 1 (GLP-1) receptor agonists, pioglitazone and vitamin E for liver histology among patients with nonalcoholic fatty liver disease: systematic review and pilot network meta-analysis of randomized controlled trials.",145.01781434500865,1,2,0
+q11,liver steatosis glp1,tfidf_dot,3,33422984,Design of novel Xenopus GLP-1-based dual glucagon-like peptide 1 (GLP-1)/glucagon receptor agonists.,82.30219655593206,1,3,0
+q11,liver steatosis glp1,tfidf_dot,4,33732656,Engineered Bacteria of MG1363-pMG36e-GLP-1 Attenuated Obesity-Induced by High Fat Diet in Mice.,81.15553324001974,1,18,14
+q11,liver steatosis glp1,tfidf_dot,5,41360246,Kori-tofu ameliorates obesity and steatotic liver disease through enhancing GLP-1 production in the ileum.,80.72486089663991,1,5,0
+q11,liver steatosis glp1,tfidf_dot,6,33061687,Efficacy of Glucagon-Like Peptide-1 Analogs in Nonalcoholic Fatty Liver Disease: A Systematic Review.,79.14752523734774,1,17,11
+q11,liver steatosis glp1,tfidf_dot,7,42292219,Efficacy and safety of GLP-1 receptor agonists in patients with metabolic-associated fatty liver diseases: an umbrella review.,78.14352123601174,1,10,3
+q11,liver steatosis glp1,tfidf_dot,8,37191219,GLP-1 analogs and regional adiposity: A systematic review and meta-analysis.,68.30896945371276,1,7,-1
+q11,liver steatosis glp1,tfidf_dot,9,18770489,Measuring the effect of a study meal on portal concentrations of glucagon-like peptide 1 (GLP-1) in non diabetic and diabetic patients with liver cirrhosis: transjugular intrahepatic portosystemic stent shunt (TIPSS) as a new method for metabolic measurements.,67.73563779575659,0,22,13
+q11,liver steatosis glp1,tfidf_dot,10,40722592,Glucagon-like Peptide-1 Receptor Agonists (GLP-1 RAs): A Pan-Steatotic Liver Disease Treatment?,65.72762979308459,1,15,5
+q11,liver steatosis glp1,log_tfidf_dot,1,29406832,Coagonist of glucagon-like peptide-1 and glucagon receptors ameliorates nonalcoholic fatty liver disease.,102.07717284364216,1,1,0
+q11,liver steatosis glp1,log_tfidf_dot,2,36689199,"Comparative efficacy of glucagon-like peptide 1 (GLP-1) receptor agonists, pioglitazone and vitamin E for liver histology among patients with nonalcoholic fatty liver disease: systematic review and pilot network meta-analysis of randomized controlled trials.",94.16823603305512,1,2,0
+q11,liver steatosis glp1,log_tfidf_dot,3,33422984,Design of novel Xenopus GLP-1-based dual glucagon-like peptide 1 (GLP-1)/glucagon receptor agonists.,70.2579428773737,1,3,0
+q11,liver steatosis glp1,log_tfidf_dot,4,41360246,Kori-tofu ameliorates obesity and steatotic liver disease through enhancing GLP-1 production in the ileum.,64.5022488567466,1,5,1
+q11,liver steatosis glp1,log_tfidf_dot,5,37191219,GLP-1 analogs and regional adiposity: A systematic review and meta-analysis.,58.94269486054967,1,7,2
+q11,liver steatosis glp1,log_tfidf_dot,6,30533179,Treating nonalcoholic steatohepatitis with antidiabetic drugs: Will GLP-1 agonists end the struggle?,58.47080933614451,1,4,-2
+q11,liver steatosis glp1,log_tfidf_dot,7,33732656,Engineered Bacteria of MG1363-pMG36e-GLP-1 Attenuated Obesity-Induced by High Fat Diet in Mice.,40.84829632729899,1,18,11
+q11,liver steatosis glp1,log_tfidf_dot,8,33061687,Efficacy of Glucagon-Like Peptide-1 Analogs in Nonalcoholic Fatty Liver Disease: A Systematic Review.,40.59597563571149,1,17,9
+q11,liver steatosis glp1,log_tfidf_dot,9,42292219,Efficacy and safety of GLP-1 receptor agonists in patients with metabolic-associated fatty liver diseases: an umbrella review.,40.441207736356255,1,10,1
+q11,liver steatosis glp1,log_tfidf_dot,10,18770489,Measuring the effect of a study meal on portal concentrations of glucagon-like peptide 1 (GLP-1) in non diabetic and diabetic patients with liver cirrhosis: transjugular intrahepatic portosystemic stent shunt (TIPSS) as a new method for metabolic measurements.,37.73547856051221,0,22,12
+q12,alzheimer neurodegeneration glp1,tf,1,32390511,GLP-1-induced renal vasodilation in rodents depends exclusively on the known GLP-1 receptor and is lost in prehypertensive rats.,0.3590628962451527,0,172,171
+q12,alzheimer neurodegeneration glp1,tf,2,14759771,N-acetyl-GLP-1: a DPP IV-resistant analogue of glucagon-like peptide-1 (GLP-1) with improved effects on pancreatic beta-cell-associated gene expression.,0.3349892468195476,0,93,91
+q12,alzheimer neurodegeneration glp1,tf,3,23035082,Glucagon-like peptide-1 cleavage product GLP-1(9-36) amide rescues synaptic plasticity and memory deficits in Alzheimer's disease model mice.,0.3168886398119078,1,14,11
+q12,alzheimer neurodegeneration glp1,tf,4,24641952,"Characterization of [¹²⁵I]GLP-1(9-36), a novel radiolabeled analog of the major metabolite of glucagon-like peptide 1 to a receptor distinct from GLP1-R and function of the peptide in murine aorta.",0.3130495168499706,0,234,230
+q12,alzheimer neurodegeneration glp1,tf,5,9094161,Reciprocal cellular distribution of glucagon-like peptide-1 (GLP-1) immunoreactivity and GLP-1 receptor mRNA in pancreatic islets of rat.,0.3083132079891038,0,84,79
+q12,alzheimer neurodegeneration glp1,tf,6,34620002,Pharmacotherapy for Type 2 Diabetes Mellitus: What's Up and Coming in the Glucagon-Like Peptide-1 (GLP-1) Pipeline?,0.3055661656760705,0,41,35
+q12,alzheimer neurodegeneration glp1,tf,7,31646274,Mechanism of cardiovascular disease benefit of glucagon-like peptide 1 agonists.,0.3055555555555556,0,51,44
+q12,alzheimer neurodegeneration glp1,tf,8,38591071,Practical guide: Glucagon-like peptide-1 and dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonists in diabetes mellitus.,0.30304576336566325,0,45,37
+q12,alzheimer neurodegeneration glp1,tf,9,41202140,Engineered probiotic restores GLP-1 signaling to ameliorate fiber-deficiency exacerbated colitis.,0.30265996338319107,0,381,372
+q12,alzheimer neurodegeneration glp1,tf,10,23837691,The gut-brain axis in the critically ill: is glucagon-like peptide-1 protective in neurocritical care?,0.30151134457776374,0,39,29
+q12,alzheimer neurodegeneration glp1,log_tf,1,28540646,"The Molecular Mechanism of Glucagon-Like Peptide-1 Therapy in Alzheimer's Disease, Based on a Mechanistic Target of Rapamycin Pathway.",0.2672109768879902,1,1,0
+q12,alzheimer neurodegeneration glp1,log_tf,2,21747826,"Glucagon-like peptide-1, diabetes, and cognitive decline: possible pathophysiological links and therapeutic opportunities.",0.24921220127489097,1,2,0
+q12,alzheimer neurodegeneration glp1,log_tf,3,33951941,GLP-1 (Glucagon-Like Peptide-1) Is Physiologically Relevant for Chylomicron Secretion Beyond Its Known Pharmacological Role.,0.23802272027120713,0,38,35
+q12,alzheimer neurodegeneration glp1,log_tf,4,36479341,Corrigendum: Resetting the circadian clock of Alzheimer's mice via GLP-1 injection combined with time-restricted feeding.,0.2363593299832995,1,5,1
+q12,alzheimer neurodegeneration glp1,log_tf,5,27631851,"ETHNIC AND RACIAL DISPARITIES IN THE BEHAVIORAL, PHARMACOLOGIC, AND SURGICAL TREATMENT OF OBESITY.",0.23213301868104252,0,37,32
+q12,alzheimer neurodegeneration glp1,log_tf,6,27180970,Is ghrelin a glucagon-like peptide-1 secretagogue?,0.22585238596275103,0,35,29
+q12,alzheimer neurodegeneration glp1,log_tf,7,29331730,Exenatide exerts cognitive effects by modulating the BDNF-TrkB neurotrophic axis in adult mice.,0.2052234003788429,1,3,-4
+q12,alzheimer neurodegeneration glp1,log_tf,8,27871675,Glucagon-like Peptide-1 and the Central/Peripheral Nervous System: Crosstalk in Diabetes.,0.19739206845100588,1,18,10
+q12,alzheimer neurodegeneration glp1,log_tf,9,23035082,Glucagon-like peptide-1 cleavage product GLP-1(9-36) amide rescues synaptic plasticity and memory deficits in Alzheimer's disease model mice.,0.1964894594331585,1,14,5
+q12,alzheimer neurodegeneration glp1,log_tf,10,31680842,Glucagon-Like Peptide-1: A Focus on Neurodegenerative Diseases.,0.18900142401764278,1,4,-6
+q12,alzheimer neurodegeneration glp1,idf,1,28540646,"The Molecular Mechanism of Glucagon-Like Peptide-1 Therapy in Alzheimer's Disease, Based on a Mechanistic Target of Rapamycin Pathway.",0.20102672703433205,1,1,0
+q12,alzheimer neurodegeneration glp1,idf,2,21747826,"Glucagon-like peptide-1, diabetes, and cognitive decline: possible pathophysiological links and therapeutic opportunities.",0.19960803137736516,1,2,0
+q12,alzheimer neurodegeneration glp1,idf,3,29331730,Exenatide exerts cognitive effects by modulating the BDNF-TrkB neurotrophic axis in adult mice.,0.16992263884586206,1,3,0
+q12,alzheimer neurodegeneration glp1,idf,4,36479341,Corrigendum: Resetting the circadian clock of Alzheimer's mice via GLP-1 injection combined with time-restricted feeding.,0.14276787476013836,1,5,1
+q12,alzheimer neurodegeneration glp1,idf,5,31680842,Glucagon-Like Peptide-1: A Focus on Neurodegenerative Diseases.,0.13442922139780095,1,4,-1
+q12,alzheimer neurodegeneration glp1,idf,6,36148311,Resetting the circadian clock of Alzheimer's mice via GLP-1 injection combined with time-restricted feeding.,0.13317181318131158,1,6,0
+q12,alzheimer neurodegeneration glp1,idf,7,33121988,GLP-1 mimetics and cognition.,0.1030940732540189,1,15,8
+q12,alzheimer neurodegeneration glp1,idf,8,40318928,Dietary and pharmacological energy restriction and exercise for healthspan extension.,0.09948732074389562,1,17,9
+q12,alzheimer neurodegeneration glp1,idf,9,27073388,Neuroprotective role of (Val(8))GLP-1-Glu-PAL in an in vitro model of Parkinson's disease.,0.09857968553106022,1,21,12
+q12,alzheimer neurodegeneration glp1,idf,10,27871675,Glucagon-like Peptide-1 and the Central/Peripheral Nervous System: Crosstalk in Diabetes.,0.09151559477963603,1,18,8
+q12,alzheimer neurodegeneration glp1,tfidf,1,28540646,"The Molecular Mechanism of Glucagon-Like Peptide-1 Therapy in Alzheimer's Disease, Based on a Mechanistic Target of Rapamycin Pathway.",0.2624282022039831,1,1,0
+q12,alzheimer neurodegeneration glp1,tfidf,2,31680842,Glucagon-Like Peptide-1: A Focus on Neurodegenerative Diseases.,0.1985736998768024,1,4,2
+q12,alzheimer neurodegeneration glp1,tfidf,3,21747826,"Glucagon-like peptide-1, diabetes, and cognitive decline: possible pathophysiological links and therapeutic opportunities.",0.18894697333104687,1,2,-1
+q12,alzheimer neurodegeneration glp1,tfidf,4,29331730,Exenatide exerts cognitive effects by modulating the BDNF-TrkB neurotrophic axis in adult mice.,0.16208896370601547,1,3,-1
+q12,alzheimer neurodegeneration glp1,tfidf,5,36479341,Corrigendum: Resetting the circadian clock of Alzheimer's mice via GLP-1 injection combined with time-restricted feeding.,0.14232383545873414,1,5,0
+q12,alzheimer neurodegeneration glp1,tfidf,6,40706971,A novel therapeutic prospect: a dual-acting tirzepatide for Alzheimer's disease.,0.11680677795196151,1,7,1
+q12,alzheimer neurodegeneration glp1,tfidf,7,21749267,Targeting amyloid-beta by glucagon-like peptide -1 (GLP-1) in Alzheimer's disease and diabetes.,0.11089767223362626,1,10,3
+q12,alzheimer neurodegeneration glp1,tfidf,8,38669546,The Association of Circulating Glucagon-Like Peptide-1 with Cognitive Functions and Biomarkers in Alzheimer's Disease.,0.10768385350042034,1,12,4
+q12,alzheimer neurodegeneration glp1,tfidf,9,36148311,Resetting the circadian clock of Alzheimer's mice via GLP-1 injection combined with time-restricted feeding.,0.10756411777803973,1,6,-3
+q12,alzheimer neurodegeneration glp1,tfidf,10,37771725,Glucagon-like peptide 1 (GLP-1) receptor agonists in experimental Alzheimer's disease models: a systematic review and meta-analysis of preclinical studies.,0.10715997182936796,1,11,1
+q12,alzheimer neurodegeneration glp1,log_tfidf,1,28540646,"The Molecular Mechanism of Glucagon-Like Peptide-1 Therapy in Alzheimer's Disease, Based on a Mechanistic Target of Rapamycin Pathway.",0.2628358607316302,1,1,0
+q12,alzheimer neurodegeneration glp1,log_tfidf,2,21747826,"Glucagon-like peptide-1, diabetes, and cognitive decline: possible pathophysiological links and therapeutic opportunities.",0.19192367619154577,1,2,0
+q12,alzheimer neurodegeneration glp1,log_tfidf,3,29331730,Exenatide exerts cognitive effects by modulating the BDNF-TrkB neurotrophic axis in adult mice.,0.18335426477149508,1,3,0
+q12,alzheimer neurodegeneration glp1,log_tfidf,4,31680842,Glucagon-Like Peptide-1: A Focus on Neurodegenerative Diseases.,0.18221458421824172,1,4,0
+q12,alzheimer neurodegeneration glp1,log_tfidf,5,36479341,Corrigendum: Resetting the circadian clock of Alzheimer's mice via GLP-1 injection combined with time-restricted feeding.,0.14249108430731183,1,5,0
+q12,alzheimer neurodegeneration glp1,log_tfidf,6,36148311,Resetting the circadian clock of Alzheimer's mice via GLP-1 injection combined with time-restricted feeding.,0.14231352507718836,1,6,0
+q12,alzheimer neurodegeneration glp1,log_tfidf,7,40706971,A novel therapeutic prospect: a dual-acting tirzepatide for Alzheimer's disease.,0.12280052550835012,1,7,0
+q12,alzheimer neurodegeneration glp1,log_tfidf,8,35633466,Gut-Brain Communication in Parkinson's Disease: Enteroendocrine Regulation by GLP-1.,0.11850803558214544,1,8,0
+q12,alzheimer neurodegeneration glp1,log_tfidf,9,30511349,Neuroprotective Actions of Glucagon-Like Peptide-1 (GLP-1) Analogues in Alzheimer's and Parkinson's Diseases.,0.11174247641361852,1,9,0
+q12,alzheimer neurodegeneration glp1,log_tfidf,10,21749267,Targeting amyloid-beta by glucagon-like peptide -1 (GLP-1) in Alzheimer's disease and diabetes.,0.11161328940675626,1,10,0
+q12,alzheimer neurodegeneration glp1,tfidf_dot,1,31680842,Glucagon-Like Peptide-1: A Focus on Neurodegenerative Diseases.,109.95777571811621,1,4,3
+q12,alzheimer neurodegeneration glp1,tfidf_dot,2,28540646,"The Molecular Mechanism of Glucagon-Like Peptide-1 Therapy in Alzheimer's Disease, Based on a Mechanistic Target of Rapamycin Pathway.",103.8166865840553,1,1,-1
+q12,alzheimer neurodegeneration glp1,tfidf_dot,3,36148311,Resetting the circadian clock of Alzheimer's mice via GLP-1 injection combined with time-restricted feeding.,82.18806450674194,1,6,3
+q12,alzheimer neurodegeneration glp1,tfidf_dot,4,29331730,Exenatide exerts cognitive effects by modulating the BDNF-TrkB neurotrophic axis in adult mice.,82.18806450674194,1,3,-1
+q12,alzheimer neurodegeneration glp1,tfidf_dot,5,35633466,Gut-Brain Communication in Parkinson's Disease: Enteroendocrine Regulation by GLP-1.,61.563446430764564,1,8,3
+q12,alzheimer neurodegeneration glp1,tfidf_dot,6,38669546,The Association of Circulating Glucagon-Like Peptide-1 with Cognitive Functions and Biomarkers in Alzheimer's Disease.,59.321308176002745,1,12,6
+q12,alzheimer neurodegeneration glp1,tfidf_dot,7,21747826,"Glucagon-like peptide-1, diabetes, and cognitive decline: possible pathophysiological links and therapeutic opportunities.",54.41835329536765,1,2,-5
+q12,alzheimer neurodegeneration glp1,tfidf_dot,8,33895160,GLP-1 improves the neuronal supportive ability of astrocytes in Alzheimer's disease by regulating mitochondrial dysfunction via the cAMP/PKA pathway.,53.297284167986746,1,16,8
+q12,alzheimer neurodegeneration glp1,tfidf_dot,9,23035082,Glucagon-like peptide-1 cleavage product GLP-1(9-36) amide rescues synaptic plasticity and memory deficits in Alzheimer's disease model mice.,53.297284167986746,1,14,5
+q12,alzheimer neurodegeneration glp1,tfidf_dot,10,21749267,Targeting amyloid-beta by glucagon-like peptide -1 (GLP-1) in Alzheimer's disease and diabetes.,52.293280166650746,1,10,0
+q12,alzheimer neurodegeneration glp1,log_tfidf_dot,1,28540646,"The Molecular Mechanism of Glucagon-Like Peptide-1 Therapy in Alzheimer's Disease, Based on a Mechanistic Target of Rapamycin Pathway.",86.2585348374237,1,1,0
+q12,alzheimer neurodegeneration glp1,log_tfidf_dot,2,31680842,Glucagon-Like Peptide-1: A Focus on Neurodegenerative Diseases.,82.52636538358972,1,4,2
+q12,alzheimer neurodegeneration glp1,log_tfidf_dot,3,36148311,Resetting the circadian clock of Alzheimer's mice via GLP-1 injection combined with time-restricted feeding.,71.26671642513733,1,6,3
+q12,alzheimer neurodegeneration glp1,log_tfidf_dot,4,29331730,Exenatide exerts cognitive effects by modulating the BDNF-TrkB neurotrophic axis in adult mice.,71.26671642513733,1,3,-1
+q12,alzheimer neurodegeneration glp1,log_tfidf_dot,5,21747826,"Glucagon-like peptide-1, diabetes, and cognitive decline: possible pathophysiological links and therapeutic opportunities.",52.01821939400935,1,2,-3
+q12,alzheimer neurodegeneration glp1,log_tfidf_dot,6,35633466,Gut-Brain Communication in Parkinson's Disease: Enteroendocrine Regulation by GLP-1.,49.8211459203749,1,8,2
+q12,alzheimer neurodegeneration glp1,log_tfidf_dot,7,38669546,The Association of Circulating Glucagon-Like Peptide-1 with Cognitive Functions and Biomarkers in Alzheimer's Disease.,40.40813466212353,1,12,5
+q12,alzheimer neurodegeneration glp1,log_tfidf_dot,8,33895160,GLP-1 improves the neuronal supportive ability of astrocytes in Alzheimer's disease by regulating mitochondrial dysfunction via the cAMP/PKA pathway.,39.93624913771837,1,16,8
+q12,alzheimer neurodegeneration glp1,log_tfidf_dot,9,23035082,Glucagon-like peptide-1 cleavage product GLP-1(9-36) amide rescues synaptic plasticity and memory deficits in Alzheimer's disease model mice.,39.93624913771837,1,14,5
+q12,alzheimer neurodegeneration glp1,log_tfidf_dot,10,21749267,Targeting amyloid-beta by glucagon-like peptide -1 (GLP-1) in Alzheimer's disease and diabetes.,39.83046675841509,1,10,0
