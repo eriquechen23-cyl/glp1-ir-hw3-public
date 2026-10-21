@@ -1,3 +1,5 @@
+Live demo: https://glp1-tfidf-cbow-hw3.streamlit.app/
+
 # GLP-1 詞項權重研究室
 
 **Biomedical IR Homework 3 · Biomedical Information Retrieval Homework 3**
